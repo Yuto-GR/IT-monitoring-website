@@ -1,8 +1,8 @@
-【松本尚デジタル大臣】
+【松本尚デジタル大臣】<br>
 ○6月30日の大臣記者会見（！再生時間情報を自分で取得してください！）
 　（会見ページから自分で確認して！: https://www.digital.go.jp/speech/minister-260630-01　  ）
 
-【自由民主党】
+【自由民主党】<br>
 ○6月29日　政調、日本版マイスター制度に関するPT
 　ヒアリング 一般社団法人 日本鳶工業連合会 ：人材育成、建設業の持続可能性、伝統の技の継承など クラフトバンク株式会社 ：建設業経営学（リカレントプログラム、工種別建設会社の立地と可住地人口密度の関係性など） 学校法人ものつくり大学 ：ものつくり大学の現状について
 
@@ -87,10 +87,10 @@
 ○7月8日　政調、スポーツ立国調査会　スポーツビジネス小委員会
 　有識者・団体ヒアリング⑥ ○ DAZN Japan ～今後のスポーツ配信ビジネスについて～ ○ 公益社団法人ＳＶリーグ ～世界最高峰を目指すSVリーグ～
 
-【デジタル庁】
+【デジタル庁】<br>
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
-【総務省】
+【総務省】<br>
 ○7月2日　情報通信審議会　情報通信技術分科会（第197回）配付資料・議事概要・議事録
 　https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/bunkakai/02tsushin10_04000726.html
 
@@ -136,7 +136,7 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○6月29日　情報通信行政・郵政行政審議会　郵政行政分科会（第104回）
 　https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02ryutsu01_04000510.html
 
-【経済産業省ニュースリリース（投資・IT関連）】
+【経済産業省ニュースリリース（投資・IT関連）】<br>
 ○7月2日　生成AIの開発力強化・社会実装に向けたプロジェクト「GENIAC」において、新たにデータエコシステム構築等に関する研究開発テーマ計9件を採択しました
 　https://www.meti.go.jp/press/2026/07/20260702001/20260702001.html
 
@@ -144,7 +144,7 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　https://www.meti.go.jp/img_2017/template/news_img05.jpg
 
 
-【審議会・研究会等】
+【審議会・研究会等】<br>
 ○7月1日　令和8年度第2回薬事審議会化学物質安全対策部会化学物質調査会 化学物質審議会第258回審査部会 第265回中央環境審議会環境保健部会化学物質審査小委員会
 　https://www.meti.go.jp/shingikai/kagakubusshitsu/shinsa/258.html
 
@@ -214,19 +214,19 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月13日　日本産業標準調査会標準第一部会 第54回化学・環境技術専門委員会
 　https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee/69887
 
-【内閣府】
+【内閣府】<br>
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
-【国家サイバー統括室・NCO】
+【国家サイバー統括室・NCO】<br>
 6月28日〜7月2日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
-【金融庁】
+【金融庁】<br>
 6月28日〜7月2日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
-【公正取引委員会】
+【公正取引委員会】<br>
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
-【ニュース】
+【ニュース】<br>
 ○6月29日　インテル、AIデータセンター挽回へ 推論向けMPU・GPU　日本経済新聞
 　https://news.google.com/rss/articles/CBMihwFBVV95cUxOZU5Sb0xxb2RqZzNNOHJSdzlwN2kwX3Q3WGpxcjdBRllPb0tPbWh4VzZnTUZqX2hWNnZTdXd3VEFxcF9Sb0hXSGlGVHF0LWJPWi1mNjQ3TWdfSElZcm5jb0REanRHQVowV21IeWE3TEd4Uk95QnNQQmd6aTg0V1cwbEdQMHpnNDQ?oc=5
 

@@ -103,7 +103,7 @@ def format_duration(sec: int) -> str:
     return f"{m}分{s}秒"
 
 def main():
-    print("【松本尚デジタル大臣】")
+    print("【松本尚デジタル大臣】<br>")
     items = fetch_speech_items()
     if not items:
         print("該当データなし\n")
@@ -283,7 +283,7 @@ def main():
 
     #print(f"\n===== {today.strftime('%-m月%-d日')} データ取得開始 =====\n")
 
-    print("【自由民主党】")
+    print("【自由民主党】<br>")
     if ldp:
         # 文字列の日付を並び替えやすく整数化してソート
         def dt_key(r):
@@ -440,7 +440,7 @@ def scrape_digital():
 
 
 def main():
-    print("【デジタル庁】")
+    print("【デジタル庁】<br>")
     results = scrape_digital()
     if not results:
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n")
@@ -567,7 +567,7 @@ def scrape_soumu():
 # ───────── エントリポイント
 def main():
     #print(f"===== 総務省 What's New Watch ({TODAY:%-m/%-d}) =====\n")
-    print("【総務省】")
+    print("【総務省】<br>")
     results = scrape_soumu()
     if not results:
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし")
@@ -1026,7 +1026,7 @@ def dedupe_and_sort(releases: Iterable[PressRelease], reverse: bool = True) -> l
 
 
 def print_section(title: str, releases: Iterable[PressRelease]) -> None:
-    print(title)
+    print(f"{title}<br>")
     releases = list(releases)
     if not releases:
         print("該当データなし")
@@ -1245,7 +1245,7 @@ def scrape_cao_rss():
 # ───────── CLI ─────────────────────────────────────────
 def main():
     recs = scrape_cao_rss()
-    print("【内閣府】")
+    print("【内閣府】<br>")
     if not recs:
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n")
         return
@@ -1348,7 +1348,7 @@ def fetch_recent_nisc_news(days: int = 4):
     #print(f'DEBUG: total matched results = {len(results)}\n')
 
     # —— 最終出力 ——
-    print('【国家サイバー統括室・NCO】')
+    print('【国家サイバー統括室・NCO】<br>')
     if results:
         for dt_pub, title, url in sorted(results):
             print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」')
@@ -1482,7 +1482,7 @@ def fetch_fsa_news(days: int = 4):
     #print(f'DEBUG: total matched results = {len(results)}\n')
 
     # —— 最終出力 ——
-    print('【金融庁】')
+    print('【金融庁】<br>')
     if results:
         for dt_pub, title, url in sorted(results):
             print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」')
@@ -1699,7 +1699,7 @@ def format_output(event_name: str, activities: List[Dict], format_type: str = "t
         }, ensure_ascii=False, indent=2)
     
     elif format_type == "markdown":
-        output = f"# 【公正取引委員会】\n\n"
+        output = f"# 【公正取引委員会】<br>\n\n"
         if not activities:
             output += "DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n"
         else:
@@ -1709,7 +1709,7 @@ def format_output(event_name: str, activities: List[Dict], format_type: str = "t
         return output
     
     else:  # text format - matches original output exactly
-        output = "【公正取引委員会】\n"
+        output = "【公正取引委員会】<br>\n"
         if not activities:
             output += "DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n"
         else:
@@ -1936,7 +1936,7 @@ def main():
 
     news.sort(key=lambda x: x["dt"])
 
-    print("【ニュース】")
+    print("【ニュース】<br>")
     if not news:
         print("該当記事なし")
         return

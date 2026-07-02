@@ -48,6 +48,15 @@ def format_updated_at(now: datetime | None = None) -> str:
     now = now or datetime.now(JST)
     return f"更新日時：{now.year}年{now.month}月{now.day}日 {now:%H:%M}（JST）"
 
+
+def md_link(url: str) -> str:
+    return f"[{url}]({url})"
+
+
+def format_updated_at(now: datetime | None = None) -> str:
+    now = now or datetime.now(JST)
+    return f"更新日時：{now.year}年{now.month}月{now.day}日 {now:%H:%M}（JST）"
+
 def parse_iso8601_duration(duration: str) -> int:
     m = re.match(r'PT(?:(?P<h>\d+)H)?(?:(?P<m>\d+)M)?(?:(?P<s>\d+)S)?', duration)
     if not m:

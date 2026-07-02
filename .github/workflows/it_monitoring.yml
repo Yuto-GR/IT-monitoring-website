@@ -42,7 +42,7 @@ jobs:
       # 5. スクリプトを実行して docs/index.md に書き出し
       - name: Run IT_monitoring.py and save page
         run: |
-          python ./IT_monitoring.py > docs/index.md 2>&1
+          python ./IT-monitoring-master.py > docs/index.md 2>&1
 
       # 6. docs/index.md をコミット＆プッシュ
       - name: Commit & push page

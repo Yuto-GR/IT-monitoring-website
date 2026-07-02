@@ -76,36 +76,60 @@ def fetch_speech_items():
         items.append({"date": dt, "prefix": prefix, "page_url": url})
     return items
 
-def lookup_youtube_in_speech(page_url: str):
-    resp = requests.get(page_url, headers=UA, timeout=10)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
-
+def extract_youtube_id(html: str, soup: BeautifulSoup) -> str | None:
     iframe = soup.find("iframe", src=re.compile(r"youtube\.com/embed/"))
     if iframe:
         src = iframe["src"]
         if src.startswith("//"):
             src = "https:" + src
-        vid = src.rsplit("/", 1)[-1].split("?")[0]
-    else:
-        a = soup.find("a", href=re.compile(r"(youtu\.be/|youtube\.com/watch)"))
-        if not a:
-            return None, None
+        return src.rsplit("/", 1)[-1].split("?")[0]
+
+    a = soup.find("a", href=re.compile(r"(youtu\.be/|youtube\.com/watch)"))
+    if a:
         href = a["href"]
         if "youtu.be/" in href:
-            vid = href.split("youtu.be/")[1].split("?")[0]
-        else:
-            vid = href.split("v=")[1].split("&")[0]
+            return href.split("youtu.be/")[1].split("?")[0]
+        if "v=" in href:
+            return href.split("v=")[1].split("&")[0]
+
+    patterns = [
+        r"youtube\.com/embed/([A-Za-z0-9_-]{11})",
+        r"youtu\.be/([A-Za-z0-9_-]{11})",
+        r"youtube\.com/watch\?v=([A-Za-z0-9_-]{11})",
+        r'"videoId"\s*:\s*"([A-Za-z0-9_-]{11})"',
+    ]
+    for pattern in patterns:
+        m = re.search(pattern, html)
+        if m:
+            return m.group(1)
+    return None
+
+
+def extract_youtube_duration_seconds(html: str) -> int | None:
+    meta = BeautifulSoup(html, "html.parser").find("meta", itemprop="duration")
+    if meta and meta.get("content"):
+        return parse_iso8601_duration(meta["content"])
+
+    m = re.search(r'"lengthSeconds"\s*:\s*"?(\d+)"?', html)
+    if m:
+        return int(m.group(1))
+    return None
+
+
+def lookup_youtube_in_speech(page_url: str):
+    resp = requests.get(page_url, headers=UA, timeout=10)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    vid = extract_youtube_id(resp.text, soup)
+    if not vid:
+        return None, None
 
     short_url = f"https://youtu.be/{vid}"
     watch_url = f"https://www.youtube.com/watch?v={vid}"
     r2 = requests.get(watch_url, headers=UA, timeout=10)
     r2.raise_for_status()
-    meta = BeautifulSoup(r2.text, "html.parser").find("meta", itemprop="duration")
-    if not meta or not meta.get("content"):
-        return short_url, None
-    total_sec = parse_iso8601_duration(meta["content"])
-    return short_url, total_sec
+    return short_url, extract_youtube_duration_seconds(r2.text)
 
 def format_duration(sec: int) -> str:
     m, s = divmod(sec or 0, 60)
@@ -128,14 +152,13 @@ def main():
 
         if yt_url and length is not None:
             print(f"○{date_str}の{prefix}（{format_duration(length)}）")
-            print(f"　{md_link(yt_url)}")
+            print(f"　{md_link(page_url)}\n")
         elif yt_url:
             print(f"○{date_str}の{prefix}（再生時間情報を自分で取得してください）")
-            print(f"　{md_link(yt_url)}")
-            print(f"　（会見ページから自分で確認して！！！: {md_link(page_url)}　）\n")
+            print(f"　{md_link(page_url)}\n")
         else:
             print(f"○{date_str}の{prefix}（！再生時間情報を自分で取得してください！）")
-            print(f"　（会見ページから自分で確認して！: {md_link(page_url)}　  ）\n")
+            print(f"　{md_link(page_url)}\n")
 
         time.sleep(0.2)
 

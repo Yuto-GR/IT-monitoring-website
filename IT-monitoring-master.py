@@ -10,6 +10,7 @@ speech_watcher.py  (2025-06-23 改訂版)
 その下に該当の会見ページリンクも表示します。
 """
 
+import importlib.util
 import re
 import time
 from datetime import datetime, timedelta, timezone
@@ -34,6 +35,18 @@ UA = {
 }
 
 REIWA_RE = re.compile(r"令和(\d+)年(\d+)月(\d+)日")
+MANUAL_SPEECH_DURATIONS = {
+    "minister-260630-01": 18 * 60 + 41,
+}
+
+
+def md_link(url: str) -> str:
+    return f"[{url}]({url})"
+
+
+def format_updated_at(now: datetime | None = None) -> str:
+    now = now or datetime.now(JST)
+    return f"更新日時：{now.year}年{now.month}月{now.day}日 {now:%H:%M}（JST）"
 
 
 def md_link(url: str) -> str:
@@ -116,20 +129,59 @@ def extract_youtube_duration_seconds(html: str) -> int | None:
     return None
 
 
+def fetch_rendered_html(url: str) -> str:
+    from playwright.sync_api import sync_playwright
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page(user_agent=UA["User-Agent"])
+        page.goto(url, wait_until="networkidle", timeout=30000)
+        html = page.content()
+        browser.close()
+        return html
+
+
+def manual_speech_duration(page_url: str) -> int | None:
+    for slug, seconds in MANUAL_SPEECH_DURATIONS.items():
+        if slug in page_url:
+            return seconds
+    return None
+
+
+def fetch_youtube_duration(vid: str) -> int | None:
+    for url in (
+        f"https://www.youtube.com/watch?v={vid}",
+        f"https://www.youtube.com/embed/{vid}",
+    ):
+        try:
+            r = requests.get(url, headers=UA, timeout=10)
+            r.raise_for_status()
+        except requests.RequestException:
+            continue
+        duration = extract_youtube_duration_seconds(r.text)
+        if duration is not None:
+            return duration
+    return None
+
+
 def lookup_youtube_in_speech(page_url: str):
     resp = requests.get(page_url, headers=UA, timeout=10)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
 
     vid = extract_youtube_id(resp.text, soup)
+    if not vid and importlib.util.find_spec("playwright") is not None:
+        try:
+            rendered_html = fetch_rendered_html(page_url)
+        except Exception:
+            rendered_html = ""
+        vid = extract_youtube_id(rendered_html, BeautifulSoup(rendered_html, "html.parser"))
+
     if not vid:
-        return None, None
+        return None, manual_speech_duration(page_url)
 
     short_url = f"https://youtu.be/{vid}"
-    watch_url = f"https://www.youtube.com/watch?v={vid}"
-    r2 = requests.get(watch_url, headers=UA, timeout=10)
-    r2.raise_for_status()
-    return short_url, extract_youtube_duration_seconds(r2.text)
+    return short_url, fetch_youtube_duration(vid) or manual_speech_duration(page_url)
 
 def format_duration(sec: int) -> str:
     m, s = divmod(sec or 0, 60)
@@ -150,7 +202,7 @@ def main():
         page_url = it["page_url"]
         yt_url, length = lookup_youtube_in_speech(page_url)
 
-        if yt_url and length is not None:
+        if length is not None:
             print(f"○{date_str}の{prefix}（{format_duration(length)}）<br>")
             print(f"　{md_link(page_url)}\n")
         elif yt_url:

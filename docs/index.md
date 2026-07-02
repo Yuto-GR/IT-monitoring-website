@@ -1,3 +1,5 @@
+更新日時：2026年7月2日 13:59（JST）
+
 【松本尚デジタル大臣】<br>
 ○6月30日の大臣記者会見（！再生時間情報を自分で取得してください！）
 　（会見ページから自分で確認して！: [https://www.digital.go.jp/speech/minister-260630-01](https://www.digital.go.jp/speech/minister-260630-01)　  ）

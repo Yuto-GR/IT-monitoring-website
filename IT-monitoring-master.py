@@ -39,6 +39,11 @@ REIWA_RE = re.compile(r"令和(\d+)年(\d+)月(\d+)日")
 def md_link(url: str) -> str:
     return f"[{url}]({url})"
 
+
+def format_updated_at(now: datetime | None = None) -> str:
+    now = now or datetime.now(JST)
+    return f"更新日時：{now.year}年{now.month}月{now.day}日 {now:%H:%M}（JST）"
+
 def parse_iso8601_duration(duration: str) -> int:
     m = re.match(r'PT(?:(?P<h>\d+)H)?(?:(?P<m>\d+)M)?(?:(?P<s>\d+)S)?', duration)
     if not m:
@@ -107,6 +112,8 @@ def format_duration(sec: int) -> str:
     return f"{m}分{s}秒"
 
 def main():
+    print(format_updated_at())
+    print()
     print("【松本尚デジタル大臣】<br>")
     items = fetch_speech_items()
     if not items:

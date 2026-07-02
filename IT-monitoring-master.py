@@ -10,6 +10,7 @@ speech_watcher.py  (2025-06-23 改訂版)
 その下に該当の会見ページリンクも表示します。
 """
 
+import importlib.util
 import re
 import time
 from datetime import datetime, timedelta, timezone
@@ -34,6 +35,18 @@ UA = {
 }
 
 REIWA_RE = re.compile(r"令和(\d+)年(\d+)月(\d+)日")
+MANUAL_SPEECH_DURATIONS = {
+    "minister-260630-01": 18 * 60 + 41,
+}
+
+
+def md_link(url: str) -> str:
+    return f"[{url}]({url})"
+
+
+def format_updated_at(now: datetime | None = None) -> str:
+    now = now or datetime.now(JST)
+    return f"更新日時：{now.year}年{now.month}月{now.day}日 {now:%H:%M}（JST）"
 
 def parse_iso8601_duration(duration: str) -> int:
     m = re.match(r'PT(?:(?P<h>\d+)H)?(?:(?P<m>\d+)M)?(?:(?P<s>\d+)S)?', duration)
@@ -67,43 +80,108 @@ def fetch_speech_items():
         items.append({"date": dt, "prefix": prefix, "page_url": url})
     return items
 
-def lookup_youtube_in_speech(page_url: str):
-    resp = requests.get(page_url, headers=UA, timeout=10)
-    resp.raise_for_status()
-    soup = BeautifulSoup(resp.text, "html.parser")
-
+def extract_youtube_id(html: str, soup: BeautifulSoup) -> str | None:
     iframe = soup.find("iframe", src=re.compile(r"youtube\.com/embed/"))
     if iframe:
         src = iframe["src"]
         if src.startswith("//"):
             src = "https:" + src
-        vid = src.rsplit("/", 1)[-1].split("?")[0]
-    else:
-        a = soup.find("a", href=re.compile(r"(youtu\.be/|youtube\.com/watch)"))
-        if not a:
-            return None, None
+        return src.rsplit("/", 1)[-1].split("?")[0]
+
+    a = soup.find("a", href=re.compile(r"(youtu\.be/|youtube\.com/watch)"))
+    if a:
         href = a["href"]
         if "youtu.be/" in href:
-            vid = href.split("youtu.be/")[1].split("?")[0]
-        else:
-            vid = href.split("v=")[1].split("&")[0]
+            return href.split("youtu.be/")[1].split("?")[0]
+        if "v=" in href:
+            return href.split("v=")[1].split("&")[0]
+
+    patterns = [
+        r"youtube\.com/embed/([A-Za-z0-9_-]{11})",
+        r"youtu\.be/([A-Za-z0-9_-]{11})",
+        r"youtube\.com/watch\?v=([A-Za-z0-9_-]{11})",
+        r'"videoId"\s*:\s*"([A-Za-z0-9_-]{11})"',
+    ]
+    for pattern in patterns:
+        m = re.search(pattern, html)
+        if m:
+            return m.group(1)
+    return None
+
+
+def extract_youtube_duration_seconds(html: str) -> int | None:
+    meta = BeautifulSoup(html, "html.parser").find("meta", itemprop="duration")
+    if meta and meta.get("content"):
+        return parse_iso8601_duration(meta["content"])
+
+    m = re.search(r'"lengthSeconds"\s*:\s*"?(\d+)"?', html)
+    if m:
+        return int(m.group(1))
+    return None
+
+
+def fetch_rendered_html(url: str) -> str:
+    from playwright.sync_api import sync_playwright
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page(user_agent=UA["User-Agent"])
+        page.goto(url, wait_until="networkidle", timeout=30000)
+        html = page.content()
+        browser.close()
+        return html
+
+
+def manual_speech_duration(page_url: str) -> int | None:
+    for slug, seconds in MANUAL_SPEECH_DURATIONS.items():
+        if slug in page_url:
+            return seconds
+    return None
+
+
+def fetch_youtube_duration(vid: str) -> int | None:
+    for url in (
+        f"https://www.youtube.com/watch?v={vid}",
+        f"https://www.youtube.com/embed/{vid}",
+    ):
+        try:
+            r = requests.get(url, headers=UA, timeout=10)
+            r.raise_for_status()
+        except requests.RequestException:
+            continue
+        duration = extract_youtube_duration_seconds(r.text)
+        if duration is not None:
+            return duration
+    return None
+
+
+def lookup_youtube_in_speech(page_url: str):
+    resp = requests.get(page_url, headers=UA, timeout=10)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    vid = extract_youtube_id(resp.text, soup)
+    if not vid and importlib.util.find_spec("playwright") is not None:
+        try:
+            rendered_html = fetch_rendered_html(page_url)
+        except Exception:
+            rendered_html = ""
+        vid = extract_youtube_id(rendered_html, BeautifulSoup(rendered_html, "html.parser"))
+
+    if not vid:
+        return None, manual_speech_duration(page_url)
 
     short_url = f"https://youtu.be/{vid}"
-    watch_url = f"https://www.youtube.com/watch?v={vid}"
-    r2 = requests.get(watch_url, headers=UA, timeout=10)
-    r2.raise_for_status()
-    meta = BeautifulSoup(r2.text, "html.parser").find("meta", itemprop="duration")
-    if not meta or not meta.get("content"):
-        return short_url, None
-    total_sec = parse_iso8601_duration(meta["content"])
-    return short_url, total_sec
+    return short_url, fetch_youtube_duration(vid) or manual_speech_duration(page_url)
 
 def format_duration(sec: int) -> str:
     m, s = divmod(sec or 0, 60)
     return f"{m}分{s}秒"
 
 def main():
-    print("【松本尚デジタル大臣】")
+    print(format_updated_at())
+    print()
+    print("【松本尚デジタル大臣】<br>")
     items = fetch_speech_items()
     if not items:
         print("該当データなし\n")
@@ -115,16 +193,15 @@ def main():
         page_url = it["page_url"]
         yt_url, length = lookup_youtube_in_speech(page_url)
 
-        if yt_url and length is not None:
-            print(f"○{date_str}の{prefix}（{format_duration(length)}）")
-            print(f"　{yt_url}")
+        if length is not None:
+            print(f"○{date_str}の{prefix}（{format_duration(length)}）<br>")
+            print(f"　{md_link(page_url)}\n")
         elif yt_url:
-            print(f"○{date_str}の{prefix}（再生時間情報を自分で取得してください）")
-            print(f"　{yt_url}")
-            print(f"　（会見ページから自分で確認して！！！: {page_url}　）\n")
+            print(f"○{date_str}の{prefix}（再生時間情報を自分で取得してください）<br>")
+            print(f"　{md_link(page_url)}\n")
         else:
-            print(f"○{date_str}の{prefix}（！再生時間情報を自分で取得してください！）")
-            print(f"　（会見ページから自分で確認して！: {page_url}　  ）\n")
+            print(f"○{date_str}の{prefix}（！再生時間情報を自分で取得してください！）<br>")
+            print(f"　{md_link(page_url)}\n")
 
         time.sleep(0.2)
 
@@ -283,7 +360,7 @@ def main():
 
     #print(f"\n===== {today.strftime('%-m月%-d日')} データ取得開始 =====\n")
 
-    print("【自由民主党】")
+    print("【自由民主党】<br>")
     if ldp:
         # 文字列の日付を並び替えやすく整数化してソート
         def dt_key(r):
@@ -440,13 +517,13 @@ def scrape_digital():
 
 
 def main():
-    print("【デジタル庁】")
+    print("【デジタル庁】<br>")
     results = scrape_digital()
     if not results:
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n")
         return
     for r in results:
-        print(f"⚪︎{r['date']}　{r['title']}\n{r['url']}\n")
+        print(f"⚪︎{r['date']}　{r['title']}<br>\n{md_link(r['url'])}\n")
 
 if __name__ == "__main__":
     main()
@@ -567,13 +644,13 @@ def scrape_soumu():
 # ───────── エントリポイント
 def main():
     #print(f"===== 総務省 What's New Watch ({TODAY:%-m/%-d}) =====\n")
-    print("【総務省】")
+    print("【総務省】<br>")
     results = scrape_soumu()
     if not results:
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし")
         return
     for r in results:
-        print(f"○{r['date']}　{r['title']}\n　{r['url']}\n")
+        print(f"○{r['date']}　{r['title']}<br>\n　{md_link(r['url'])}\n")
 
 
 if __name__ == "__main__":
@@ -1026,14 +1103,14 @@ def dedupe_and_sort(releases: Iterable[PressRelease], reverse: bool = True) -> l
 
 
 def print_section(title: str, releases: Iterable[PressRelease]) -> None:
-    print(title)
+    print(f"{title}<br>")
     releases = list(releases)
     if not releases:
         print("該当データなし")
         return
     for release in releases:
-        print(f"○{release.date_label}　{release.title}")
-        print(f"　{release.url}\n")
+        print(f"○{release.date_label}　{release.title}<br>")
+        print(f"　{md_link(release.url)}\n")
 
 
 def print_releases(press_releases: Iterable[PressRelease], meeting_releases: Iterable[PressRelease]) -> None:
@@ -1245,13 +1322,13 @@ def scrape_cao_rss():
 # ───────── CLI ─────────────────────────────────────────
 def main():
     recs = scrape_cao_rss()
-    print("【内閣府】")
+    print("【内閣府】<br>")
     if not recs:
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n")
         return
     for r in recs:
-        print(f"○{r['date']}　{r['title']}\n")
-        print(f"　{r['url']}\n")
+        print(f"○{r['date']}　{r['title']}<br>\n")
+        print(f"　{md_link(r['url'])}\n")
 
 if __name__ == "__main__":
     main()
@@ -1348,11 +1425,11 @@ def fetch_recent_nisc_news(days: int = 4):
     #print(f'DEBUG: total matched results = {len(results)}\n')
 
     # —— 最終出力 ——
-    print('【国家サイバー統括室・NCO】')
+    print('【国家サイバー統括室・NCO】<br>')
     if results:
         for dt_pub, title, url in sorted(results):
-            print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」')
-            print(f'　{url}\n')
+            print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」<br>')
+            print(f'　{md_link(url)}\n')
     else:
         print(f'{threshold.month}月{threshold.day}日〜{today.month}月{today.day}日　'
               'DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n')
@@ -1482,11 +1559,11 @@ def fetch_fsa_news(days: int = 4):
     #print(f'DEBUG: total matched results = {len(results)}\n')
 
     # —— 最終出力 ——
-    print('【金融庁】')
+    print('【金融庁】<br>')
     if results:
         for dt_pub, title, url in sorted(results):
-            print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」')
-            print(f'　{url}\n')
+            print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」<br>')
+            print(f'　{md_link(url)}\n')
     else:
         print(f'{threshold.month}月{threshold.day}日〜{today.month}月{today.day}日　'
               'DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n')
@@ -1699,7 +1776,7 @@ def format_output(event_name: str, activities: List[Dict], format_type: str = "t
         }, ensure_ascii=False, indent=2)
     
     elif format_type == "markdown":
-        output = f"# 【公正取引委員会】\n\n"
+        output = f"# 【公正取引委員会】<br>\n\n"
         if not activities:
             output += "DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n"
         else:
@@ -1709,13 +1786,13 @@ def format_output(event_name: str, activities: List[Dict], format_type: str = "t
         return output
     
     else:  # text format - matches original output exactly
-        output = "【公正取引委員会】\n"
+        output = "【公正取引委員会】<br>\n"
         if not activities:
             output += "DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n"
         else:
             for a in activities:
-                output += f"○{a['date']}　{event_name}（{a['round']}）議事次第\n"
-                output += f"　{a['url']}\n"
+                output += f"○{a['date']}　{event_name}（{a['round']}）議事次第<br>\n"
+                output += f"　{md_link(a['url'])}\n"
         return output
 
 def get_jftc_activities(days_back: int = 7, format_type: str = "text", debug: bool = False) -> str:
@@ -1936,7 +2013,7 @@ def main():
 
     news.sort(key=lambda x: x["dt"])
 
-    print("【ニュース】")
+    print("【ニュース】<br>")
     if not news:
         print("該当記事なし")
         return
@@ -1947,8 +2024,8 @@ def main():
     #print()
     
     for n in news:
-        print(f"○{n['date']}　{n['title']}　{n['source']}")
-        print(f"　{n['url']}\n")
+        print(f"○{n['date']}　{n['title']}　{n['source']}<br>")
+        print(f"　{md_link(n['url'])}\n")
 
 if __name__ == "__main__":
     main()

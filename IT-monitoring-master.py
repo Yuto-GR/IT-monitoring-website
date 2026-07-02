@@ -35,6 +35,15 @@ UA = {
 
 REIWA_RE = re.compile(r"令和(\d+)年(\d+)月(\d+)日")
 
+
+def md_link(url: str) -> str:
+    return f"[{url}]({url})"
+
+
+def format_updated_at(now: datetime | None = None) -> str:
+    now = now or datetime.now(JST)
+    return f"更新日時：{now.year}年{now.month}月{now.day}日 {now:%H:%M}（JST）"
+
 def parse_iso8601_duration(duration: str) -> int:
     m = re.match(r'PT(?:(?P<h>\d+)H)?(?:(?P<m>\d+)M)?(?:(?P<s>\d+)S)?', duration)
     if not m:
@@ -103,7 +112,9 @@ def format_duration(sec: int) -> str:
     return f"{m}分{s}秒"
 
 def main():
-    print("【松本尚デジタル大臣】")
+    print(format_updated_at())
+    print()
+    print("【松本尚デジタル大臣】<br>")
     items = fetch_speech_items()
     if not items:
         print("該当データなし\n")
@@ -117,14 +128,14 @@ def main():
 
         if yt_url and length is not None:
             print(f"○{date_str}の{prefix}（{format_duration(length)}）")
-            print(f"　{yt_url}")
+            print(f"　{md_link(yt_url)}")
         elif yt_url:
             print(f"○{date_str}の{prefix}（再生時間情報を自分で取得してください）")
-            print(f"　{yt_url}")
-            print(f"　（会見ページから自分で確認して！！！: {page_url}　）\n")
+            print(f"　{md_link(yt_url)}")
+            print(f"　（会見ページから自分で確認して！！！: {md_link(page_url)}　）\n")
         else:
             print(f"○{date_str}の{prefix}（！再生時間情報を自分で取得してください！）")
-            print(f"　（会見ページから自分で確認して！: {page_url}　  ）\n")
+            print(f"　（会見ページから自分で確認して！: {md_link(page_url)}　  ）\n")
 
         time.sleep(0.2)
 
@@ -283,7 +294,7 @@ def main():
 
     #print(f"\n===== {today.strftime('%-m月%-d日')} データ取得開始 =====\n")
 
-    print("【自由民主党】")
+    print("【自由民主党】<br>")
     if ldp:
         # 文字列の日付を並び替えやすく整数化してソート
         def dt_key(r):
@@ -440,13 +451,13 @@ def scrape_digital():
 
 
 def main():
-    print("【デジタル庁】")
+    print("【デジタル庁】<br>")
     results = scrape_digital()
     if not results:
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n")
         return
     for r in results:
-        print(f"⚪︎{r['date']}　{r['title']}\n{r['url']}\n")
+        print(f"⚪︎{r['date']}　{r['title']}\n{md_link(r['url'])}\n")
 
 if __name__ == "__main__":
     main()
@@ -567,13 +578,13 @@ def scrape_soumu():
 # ───────── エントリポイント
 def main():
     #print(f"===== 総務省 What's New Watch ({TODAY:%-m/%-d}) =====\n")
-    print("【総務省】")
+    print("【総務省】<br>")
     results = scrape_soumu()
     if not results:
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし")
         return
     for r in results:
-        print(f"○{r['date']}　{r['title']}\n　{r['url']}\n")
+        print(f"○{r['date']}　{r['title']}\n　{md_link(r['url'])}\n")
 
 
 if __name__ == "__main__":
@@ -1026,14 +1037,14 @@ def dedupe_and_sort(releases: Iterable[PressRelease], reverse: bool = True) -> l
 
 
 def print_section(title: str, releases: Iterable[PressRelease]) -> None:
-    print(title)
+    print(f"{title}<br>")
     releases = list(releases)
     if not releases:
         print("該当データなし")
         return
     for release in releases:
         print(f"○{release.date_label}　{release.title}")
-        print(f"　{release.url}\n")
+        print(f"　{md_link(release.url)}\n")
 
 
 def print_releases(press_releases: Iterable[PressRelease], meeting_releases: Iterable[PressRelease]) -> None:
@@ -1245,13 +1256,13 @@ def scrape_cao_rss():
 # ───────── CLI ─────────────────────────────────────────
 def main():
     recs = scrape_cao_rss()
-    print("【内閣府】")
+    print("【内閣府】<br>")
     if not recs:
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n")
         return
     for r in recs:
         print(f"○{r['date']}　{r['title']}\n")
-        print(f"　{r['url']}\n")
+        print(f"　{md_link(r['url'])}\n")
 
 if __name__ == "__main__":
     main()
@@ -1348,11 +1359,11 @@ def fetch_recent_nisc_news(days: int = 4):
     #print(f'DEBUG: total matched results = {len(results)}\n')
 
     # —— 最終出力 ——
-    print('【国家サイバー統括室・NCO】')
+    print('【国家サイバー統括室・NCO】<br>')
     if results:
         for dt_pub, title, url in sorted(results):
             print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」')
-            print(f'　{url}\n')
+            print(f'　{md_link(url)}\n')
     else:
         print(f'{threshold.month}月{threshold.day}日〜{today.month}月{today.day}日　'
               'DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n')
@@ -1482,11 +1493,11 @@ def fetch_fsa_news(days: int = 4):
     #print(f'DEBUG: total matched results = {len(results)}\n')
 
     # —— 最終出力 ——
-    print('【金融庁】')
+    print('【金融庁】<br>')
     if results:
         for dt_pub, title, url in sorted(results):
             print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」')
-            print(f'　{url}\n')
+            print(f'　{md_link(url)}\n')
     else:
         print(f'{threshold.month}月{threshold.day}日〜{today.month}月{today.day}日　'
               'DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n')
@@ -1699,7 +1710,7 @@ def format_output(event_name: str, activities: List[Dict], format_type: str = "t
         }, ensure_ascii=False, indent=2)
     
     elif format_type == "markdown":
-        output = f"# 【公正取引委員会】\n\n"
+        output = f"# 【公正取引委員会】<br>\n\n"
         if not activities:
             output += "DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n"
         else:
@@ -1709,13 +1720,13 @@ def format_output(event_name: str, activities: List[Dict], format_type: str = "t
         return output
     
     else:  # text format - matches original output exactly
-        output = "【公正取引委員会】\n"
+        output = "【公正取引委員会】<br>\n"
         if not activities:
             output += "DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n"
         else:
             for a in activities:
                 output += f"○{a['date']}　{event_name}（{a['round']}）議事次第\n"
-                output += f"　{a['url']}\n"
+                output += f"　{md_link(a['url'])}\n"
         return output
 
 def get_jftc_activities(days_back: int = 7, format_type: str = "text", debug: bool = False) -> str:
@@ -1936,7 +1947,7 @@ def main():
 
     news.sort(key=lambda x: x["dt"])
 
-    print("【ニュース】")
+    print("【ニュース】<br>")
     if not news:
         print("該当記事なし")
         return
@@ -1948,7 +1959,7 @@ def main():
     
     for n in news:
         print(f"○{n['date']}　{n['title']}　{n['source']}")
-        print(f"　{n['url']}\n")
+        print(f"　{md_link(n['url'])}\n")
 
 if __name__ == "__main__":
     main()

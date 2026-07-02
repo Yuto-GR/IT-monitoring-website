@@ -151,13 +151,13 @@ def main():
         yt_url, length = lookup_youtube_in_speech(page_url)
 
         if yt_url and length is not None:
-            print(f"○{date_str}の{prefix}（{format_duration(length)}）")
+            print(f"○{date_str}の{prefix}（{format_duration(length)}）<br>")
             print(f"　{md_link(page_url)}\n")
         elif yt_url:
-            print(f"○{date_str}の{prefix}（再生時間情報を自分で取得してください）")
+            print(f"○{date_str}の{prefix}（再生時間情報を自分で取得してください）<br>")
             print(f"　{md_link(page_url)}\n")
         else:
-            print(f"○{date_str}の{prefix}（！再生時間情報を自分で取得してください！）")
+            print(f"○{date_str}の{prefix}（！再生時間情報を自分で取得してください！）<br>")
             print(f"　{md_link(page_url)}\n")
 
         time.sleep(0.2)
@@ -480,7 +480,7 @@ def main():
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n")
         return
     for r in results:
-        print(f"⚪︎{r['date']}　{r['title']}\n{md_link(r['url'])}\n")
+        print(f"⚪︎{r['date']}　{r['title']}<br>\n{md_link(r['url'])}\n")
 
 if __name__ == "__main__":
     main()
@@ -607,7 +607,7 @@ def main():
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし")
         return
     for r in results:
-        print(f"○{r['date']}　{r['title']}\n　{md_link(r['url'])}\n")
+        print(f"○{r['date']}　{r['title']}<br>\n　{md_link(r['url'])}\n")
 
 
 if __name__ == "__main__":
@@ -1066,7 +1066,7 @@ def print_section(title: str, releases: Iterable[PressRelease]) -> None:
         print("該当データなし")
         return
     for release in releases:
-        print(f"○{release.date_label}　{release.title}")
+        print(f"○{release.date_label}　{release.title}<br>")
         print(f"　{md_link(release.url)}\n")
 
 
@@ -1284,7 +1284,7 @@ def main():
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n")
         return
     for r in recs:
-        print(f"○{r['date']}　{r['title']}\n")
+        print(f"○{r['date']}　{r['title']}<br>\n")
         print(f"　{md_link(r['url'])}\n")
 
 if __name__ == "__main__":
@@ -1385,7 +1385,7 @@ def fetch_recent_nisc_news(days: int = 4):
     print('【国家サイバー統括室・NCO】<br>')
     if results:
         for dt_pub, title, url in sorted(results):
-            print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」')
+            print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」<br>')
             print(f'　{md_link(url)}\n')
     else:
         print(f'{threshold.month}月{threshold.day}日〜{today.month}月{today.day}日　'
@@ -1519,7 +1519,7 @@ def fetch_fsa_news(days: int = 4):
     print('【金融庁】<br>')
     if results:
         for dt_pub, title, url in sorted(results):
-            print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」')
+            print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」<br>')
             print(f'　{md_link(url)}\n')
     else:
         print(f'{threshold.month}月{threshold.day}日〜{today.month}月{today.day}日　'
@@ -1748,7 +1748,7 @@ def format_output(event_name: str, activities: List[Dict], format_type: str = "t
             output += "DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n"
         else:
             for a in activities:
-                output += f"○{a['date']}　{event_name}（{a['round']}）議事次第\n"
+                output += f"○{a['date']}　{event_name}（{a['round']}）議事次第<br>\n"
                 output += f"　{md_link(a['url'])}\n"
         return output
 
@@ -1981,7 +1981,7 @@ def main():
     #print()
     
     for n in news:
-        print(f"○{n['date']}　{n['title']}　{n['source']}")
+        print(f"○{n['date']}　{n['title']}　{n['source']}<br>")
         print(f"　{md_link(n['url'])}\n")
 
 if __name__ == "__main__":

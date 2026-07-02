@@ -35,6 +35,10 @@ UA = {
 
 REIWA_RE = re.compile(r"令和(\d+)年(\d+)月(\d+)日")
 
+
+def md_link(url: str) -> str:
+    return f"[{url}]({url})"
+
 def parse_iso8601_duration(duration: str) -> int:
     m = re.match(r'PT(?:(?P<h>\d+)H)?(?:(?P<m>\d+)M)?(?:(?P<s>\d+)S)?', duration)
     if not m:
@@ -117,14 +121,14 @@ def main():
 
         if yt_url and length is not None:
             print(f"○{date_str}の{prefix}（{format_duration(length)}）")
-            print(f"　{yt_url}")
+            print(f"　{md_link(yt_url)}")
         elif yt_url:
             print(f"○{date_str}の{prefix}（再生時間情報を自分で取得してください）")
-            print(f"　{yt_url}")
-            print(f"　（会見ページから自分で確認して！！！: {page_url}　）\n")
+            print(f"　{md_link(yt_url)}")
+            print(f"　（会見ページから自分で確認して！！！: {md_link(page_url)}　）\n")
         else:
             print(f"○{date_str}の{prefix}（！再生時間情報を自分で取得してください！）")
-            print(f"　（会見ページから自分で確認して！: {page_url}　  ）\n")
+            print(f"　（会見ページから自分で確認して！: {md_link(page_url)}　  ）\n")
 
         time.sleep(0.2)
 
@@ -446,7 +450,7 @@ def main():
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n")
         return
     for r in results:
-        print(f"⚪︎{r['date']}　{r['title']}\n{r['url']}\n")
+        print(f"⚪︎{r['date']}　{r['title']}\n{md_link(r['url'])}\n")
 
 if __name__ == "__main__":
     main()
@@ -573,7 +577,7 @@ def main():
         print("DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし")
         return
     for r in results:
-        print(f"○{r['date']}　{r['title']}\n　{r['url']}\n")
+        print(f"○{r['date']}　{r['title']}\n　{md_link(r['url'])}\n")
 
 
 if __name__ == "__main__":
@@ -1033,7 +1037,7 @@ def print_section(title: str, releases: Iterable[PressRelease]) -> None:
         return
     for release in releases:
         print(f"○{release.date_label}　{release.title}")
-        print(f"　{release.url}\n")
+        print(f"　{md_link(release.url)}\n")
 
 
 def print_releases(press_releases: Iterable[PressRelease], meeting_releases: Iterable[PressRelease]) -> None:
@@ -1251,7 +1255,7 @@ def main():
         return
     for r in recs:
         print(f"○{r['date']}　{r['title']}\n")
-        print(f"　{r['url']}\n")
+        print(f"　{md_link(r['url'])}\n")
 
 if __name__ == "__main__":
     main()
@@ -1352,7 +1356,7 @@ def fetch_recent_nisc_news(days: int = 4):
     if results:
         for dt_pub, title, url in sorted(results):
             print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」')
-            print(f'　{url}\n')
+            print(f'　{md_link(url)}\n')
     else:
         print(f'{threshold.month}月{threshold.day}日〜{today.month}月{today.day}日　'
               'DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n')
@@ -1486,7 +1490,7 @@ def fetch_fsa_news(days: int = 4):
     if results:
         for dt_pub, title, url in sorted(results):
             print(f'○{dt_pub.month}月{dt_pub.day}日　「{title}」')
-            print(f'　{url}\n')
+            print(f'　{md_link(url)}\n')
     else:
         print(f'{threshold.month}月{threshold.day}日〜{today.month}月{today.day}日　'
               'DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし\n')
@@ -1715,7 +1719,7 @@ def format_output(event_name: str, activities: List[Dict], format_type: str = "t
         else:
             for a in activities:
                 output += f"○{a['date']}　{event_name}（{a['round']}）議事次第\n"
-                output += f"　{a['url']}\n"
+                output += f"　{md_link(a['url'])}\n"
         return output
 
 def get_jftc_activities(days_back: int = 7, format_type: str = "text", debug: bool = False) -> str:
@@ -1948,7 +1952,7 @@ def main():
     
     for n in news:
         print(f"○{n['date']}　{n['title']}　{n['source']}")
-        print(f"　{n['url']}\n")
+        print(f"　{md_link(n['url'])}\n")
 
 if __name__ == "__main__":
     main()

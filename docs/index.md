@@ -190,7 +190,7 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 【ニュース】<br>
 ○6月30日　アップル・グーグルのアプリストア決済規則緩和案、手数料引き下げへ英競争当局　Reuters<br>
-　[https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmRBQlRyZ0RCRHVuYTRMRW9tRTA4cGlpMmhfTF9QM1pweE5lNHZJTnJlTjh4a2gyNHVodTJPY2Zjc3JkUzBGMXBaT2xTSjlLSndNV2NsY2hWQTBYRFlsVUtGanVzUEJ3SmtJOUdlQUpQTkFidFBKbUVseTdKSXpUR3Nnb3g1TGRMMHNhQQ?oc=5](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmRBQlRyZ0RCRHVuYTRMRW9tRTA4cGlpMmhfTF9QM1pweE5lNHZJTnJlTjh4a2gyNHVodTJPY2Zjc3JkUzBGMXBaT2xTSjlLSndNV2NsY2hWQTBYRFlsVUtGanVzUEJ3SmtJOUdlQUpQTkFidFBKbUVseTdKSXpUR3Nnb3g1TGRMMHNhQQ?oc=5)
+　[https://jp.reuters.com/markets/global-markets/6LK4S7LWIROATPPGGA4QSFUYTY-2026-06-30/](https://jp.reuters.com/markets/global-markets/6LK4S7LWIROATPPGGA4QSFUYTY-2026-06-30/)
 
 ○6月30日　データセンターの工期を半分に NTT系と日鉄系が「モジュール型」開発　日本経済新聞<br>
 　[https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMHp2UkdzOVNYcDFYMk9GNlV2bk82N3V1V05tY0U1d0NPUHBhbVAtcEFaVm5BQzlCOXlqNzR1azBuaEhYZ2ZIc1JjOUE4SHVGUUE4QjI5M2k3TThOQlVnZ3BiSDJRbUIxeU03Ng?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMHp2UkdzOVNYcDFYMk9GNlV2bk82N3V1V05tY0U1d0NPUHBhbVAtcEFaVm5BQzlCOXlqNzR1azBuaEhYZ2ZIc1JjOUE4SHVGUUE4QjI5M2k3TThOQlVnZ3BiSDJRbUIxeU03Ng?oc=5)
@@ -392,4 +392,3 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○7月4日　Apple Books「今年ここまでのベスト」に選出！統合失調症の家族をめぐる衝撃のノンフィクション『どうすればよかったか？』が2万部突破　時事ドットコム<br>
 　[https://news.google.com/rss/articles/CBMia0FVX3lxTFB2b0dCWnFWbGRJNXR3OXZkZlZjZU00RXowRWc4cFFNcHVuSmJEaXRkQVp4M0pVUG45b0NZbk5ocFdKU210TjFQSmR5SW9RdWNqOWIwM1NwVzI3M2VMT0R3anZKYVVGZGp2QkRZ?oc=5](https://news.google.com/rss/articles/CBMia0FVX3lxTFB2b0dCWnFWbGRJNXR3OXZkZlZjZU00RXowRWc4cFFNcHVuSmJEaXRkQVp4M0pVUG45b0NZbk5ocFdKU210TjFQSmR5SW9RdWNqOWIwM1NwVzI3M2VMT0R3anZKYVVGZGp2QkRZ?oc=5)
-

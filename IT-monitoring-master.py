@@ -11,8 +11,10 @@ speech_watcher.py  (2025-06-23 改訂版)
 """
 
 import importlib.util
+import json
 import re
 import time
+import unicodedata
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urljoin
 
@@ -27,6 +29,9 @@ WINDOW_START = TODAY - timedelta(days=LOOKBACK_DAYS)
 
 BASE_URL = "https://www.digital.go.jp"
 LIST_URL = f"{BASE_URL}/speech"
+YOUTUBE_CHANNEL_VIDEOS_URL = (
+    "https://www.youtube.com/channel/UCKmJk25wcPwCecf7nV9HwCw/videos?hl=ja&gl=JP"
+)
 UA = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -129,6 +134,106 @@ def extract_youtube_duration_seconds(html: str) -> int | None:
     return None
 
 
+def parse_accessible_duration(text: str) -> int | None:
+    m = re.search(
+        r"(?:(?P<h>\d+)\s*時間\s*)?"
+        r"(?:(?P<m>\d+)\s*分\s*)?"
+        r"(?P<s>\d+)\s*秒",
+        text,
+    )
+    if not m:
+        return None
+    return (
+        int(m.group("h") or 0) * 3600
+        + int(m.group("m") or 0) * 60
+        + int(m.group("s"))
+    )
+
+
+def normalize_video_title(title: str) -> str:
+    normalized = unicodedata.normalize("NFKC", title)
+    return re.sub(r"[\W_]+", "", normalized)
+
+
+def extract_youtube_initial_data(html: str) -> dict | None:
+    for marker in ("var ytInitialData = ", "ytInitialData = "):
+        start = html.find(marker)
+        if start == -1:
+            continue
+        start = html.find("{", start + len(marker))
+        if start == -1:
+            continue
+        try:
+            data, _ = json.JSONDecoder().raw_decode(html[start:])
+        except json.JSONDecodeError:
+            continue
+        if isinstance(data, dict):
+            return data
+    return None
+
+
+def find_values(node, key: str):
+    if isinstance(node, dict):
+        if key in node:
+            yield node[key]
+        for value in node.values():
+            yield from find_values(value, key)
+    elif isinstance(node, list):
+        for value in node:
+            yield from find_values(value, key)
+
+
+def extract_channel_video(html: str, speech_title: str) -> tuple[str, int] | None:
+    data = extract_youtube_initial_data(html)
+    if not data:
+        return None
+
+    expected_title = normalize_video_title(speech_title)
+    for lockup in find_values(data, "lockupViewModel"):
+        titles = [
+            value.get("content")
+            for value in find_values(lockup, "title")
+            if isinstance(value, dict) and isinstance(value.get("content"), str)
+        ]
+        if expected_title not in map(normalize_video_title, titles):
+            continue
+
+        video_ids = [
+            value
+            for value in find_values(lockup, "videoId")
+            if isinstance(value, str) and re.fullmatch(r"[A-Za-z0-9_-]{11}", value)
+        ]
+        labels = [
+            value.get("label")
+            for value in find_values(lockup, "accessibilityContext")
+            if isinstance(value, dict) and isinstance(value.get("label"), str)
+        ]
+        duration = next(
+            (
+                seconds
+                for label in labels
+                if (seconds := parse_accessible_duration(label)) is not None
+            ),
+            None,
+        )
+        if video_ids and duration is not None:
+            return video_ids[0], duration
+    return None
+
+
+def lookup_youtube_on_official_channel(speech_title: str) -> tuple[str, int] | None:
+    try:
+        response = requests.get(
+            YOUTUBE_CHANNEL_VIDEOS_URL,
+            headers=UA,
+            timeout=10,
+        )
+        response.raise_for_status()
+    except requests.RequestException:
+        return None
+    return extract_channel_video(response.text, speech_title)
+
+
 def fetch_rendered_html(url: str) -> str:
     from playwright.sync_api import sync_playwright
 
@@ -178,6 +283,12 @@ def lookup_youtube_in_speech(page_url: str):
         vid = extract_youtube_id(rendered_html, BeautifulSoup(rendered_html, "html.parser"))
 
     if not vid:
+        h1 = soup.find("h1")
+        speech_title = h1.get_text(" ", strip=True) if h1 else ""
+        channel_video = lookup_youtube_on_official_channel(speech_title)
+        if channel_video:
+            channel_vid, duration = channel_video
+            return f"https://youtu.be/{channel_vid}", duration
         return None, manual_speech_duration(page_url)
 
     short_url = f"https://youtu.be/{vid}"

@@ -1,7 +1,7 @@
 更新日時：2026年7月4日 10:55（JST）
 
 【松本尚デジタル大臣】<br>
-○7月3日の大臣記者会見（！再生時間情報を自分で取得してください！）<br>
+○7月3日の大臣記者会見（6分7秒）<br>
 　[https://www.digital.go.jp/speech/minister-260703-01](https://www.digital.go.jp/speech/minister-260703-01)
 
 ○6月30日の大臣記者会見（18分41秒）<br>
@@ -413,4 +413,3 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○7月4日　フィジカルAI 製造業の人手不足で注目 さまざまなロボットが登場 | NHK　NHKニュース<br>
 　[https://news.google.com/rss/articles/CBMiX0FVX3lxTE91RFVkZ2pLTUZEVkxiOTNHUHFlalVzSjlhZ21jbGhFWW1RQTBxX1dNWVJlVUpnUFhxMkZuV3BKc0RqQXl6RHQ0di1ZY1RHTUY0cmJtRGVacEY5Tm5fdUow?oc=5](https://news.google.com/rss/articles/CBMiX0FVX3lxTE91RFVkZ2pLTUZEVkxiOTNHUHFlalVzSjlhZ21jbGhFWW1RQTBxX1dNWVJlVUpnUFhxMkZuV3BKc0RqQXl6RHQ0di1ZY1RHTUY0cmJtRGVacEY5Tm5fdUow?oc=5)
-

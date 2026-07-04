@@ -1,4 +1,4 @@
-更新日時：2026年7月4日 15:24（JST）
+更新日時：2026年7月4日 16:58（JST）
 
 【松本尚デジタル大臣】<br>
 ○7月3日の大臣記者会見（6分7秒）<br>
@@ -105,6 +105,11 @@
 
 ○7月9日　政調、情報通信戦略調査会
 　放送事業者におけるガバナンス確保に関するフォローアップ
+[WARN] 経済産業省ニュースリリースを取得できませんでした。
+[WARN] 取得先URLとエラーを確認するには IT_MONITORING_DEBUG=1 で再実行してください。
+[WARN] failed to fetch https://www.meti.go.jp/press/archive_202607.html: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
+[WARN] failed to fetch https://www.meti.go.jp/press/archive_202606.html: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
+[WARN] failed to fetch https://www.meti.go.jp/press/: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
 
 ○7月10日　政調、地方行政調査会
 　人口減少時代の地方自治の枠組みについて （講師）砂原　庸介 神戸大学大学院法学研究科教授
@@ -153,28 +158,17 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　[https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000580.html](https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000580.html)
 
 【経済産業省ニュースリリース（投資・IT関連）】<br>
-○7月3日　日印政府間でAI協力に関する覚書(MoC)に署名しました<br>
-　[https://www.meti.go.jp/press/2026/07/20260703003/20260703003.html](https://www.meti.go.jp/press/2026/07/20260703003/20260703003.html)
-
-○7月3日　生成AIの開発力強化・社会実装に向けたプロジェクト「GENIAC」において、新たにデータエコシステム構築等に関する研究開発テーマ計9件を採択しました<br>
-　[https://www.meti.go.jp/press/2026/07/20260702001/20260702001.html](https://www.meti.go.jp/press/2026/07/20260702001/20260702001.html)
-
+該当データなし
 
 【審議会・研究会等】<br>
-○7月1日　グローバル環境変化を踏まえた我が国の立地環境整備のあり方等に関する検討会 最終報告書<br>
-　[https://www.meti.go.jp/shingikai/economy/location_environment/20260626_report.html](https://www.meti.go.jp/shingikai/economy/location_environment/20260626_report.html)
+○7月7日　総合資源エネルギー調査会 電力・ガス事業分科会 次世代電力・ガス事業基盤構築小委員会 第1回電力事業環境整備ＷＧ<br>
+　[https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee/69987](https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee/69987)
 
-○7月1日　第4回 産業構造審議会 保安・消費生活用製品安全分科会 化学物質政策小委員会 フロン類対策ワーキンググループ 中央環境審議会 地球環境部会 フルオロカーボン対策小委員会 合同会議<br>
-　[https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/chemicals/fluorocarbons/godo/004.html](https://www.meti.go.jp/shingikai/sankoshin/hoan_shohi/chemicals/fluorocarbons/godo/004.html)
+○7月8日　第14回産業構造審議会イノベーション・環境分科会イノベーション小委員会<br>
+　[https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee/69967](https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee/69967)
 
-○7月1日　2026年度 第2回 環境審査顧問会 風力部会<br>
-　[https://www.meti.go.jp/shingikai/safety_security/kankyo_shinsa/furyoku/2026_002.html](https://www.meti.go.jp/shingikai/safety_security/kankyo_shinsa/furyoku/2026_002.html)
-
-○7月6日　令和8年度第3回薬事審議会化学物質安全対策部会化学物質調査会 化学物質審議会第258回審査部会 第265回中央環境審議会環境保健部会化学物質審査小委員会<br>
-　[https://www.meti.go.jp/shingikai/kagakubusshitsu/shinsa/258.html](https://www.meti.go.jp/shingikai/kagakubusshitsu/shinsa/258.html)
-
-○7月6日　2026年度第1回 デジタルプラットフォームの透明性・公正性に関するモニタリング会合<br>
-　[https://www.meti.go.jp/shingikai/mono_info_service/digital_platform_monitoring/2026_001.html](https://www.meti.go.jp/shingikai/mono_info_service/digital_platform_monitoring/2026_001.html)
+○7月13日　日本産業標準調査会標準第一部会 第54回化学・環境技術専門委員会<br>
+　[https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee/69887](https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee/69887)
 
 【内閣府】<br>
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
@@ -193,202 +187,209 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　[https://jp.reuters.com/markets/global-markets/6LK4S7LWIROATPPGGA4QSFUYTY-2026-06-30/](https://jp.reuters.com/markets/global-markets/6LK4S7LWIROATPPGGA4QSFUYTY-2026-06-30/)
 
 ○6月30日　データセンターの工期を半分に NTT系と日鉄系が「モジュール型」開発　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMHp2UkdzOVNYcDFYMk9GNlV2bk82N3V1V05tY0U1d0NPUHBhbVAtcEFaVm5BQzlCOXlqNzR1azBuaEhYZ2ZIc1JjOUE4SHVGUUE4QjI5M2k3TThOQlVnZ3BiSDJRbUIxeU03Ng?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE1rMHp2UkdzOVNYcDFYMk9GNlV2bk82N3V1V05tY0U1d0NPUHBhbVAtcEFaVm5BQzlCOXlqNzR1azBuaEhYZ2ZIc1JjOUE4SHVGUUE4QjI5M2k3TThOQlVnZ3BiSDJRbUIxeU03Ng?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUC307EL0Q6A630C2000000/](https://www.nikkei.com/article/DGXZQOUC307EL0Q6A630C2000000/)
 
 ○7月1日　ドコモビジネス、首都圏にコンテナ型AIデータセンター 28年度まで整備　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE5EZUhubnJSTXZ4NXFXMklIN1huc0g1dGRMekdGWmZ1SWdocENrRmMxVjhSNTBrWWNOOFNEdDY4VnhxdHhEM1puamhZMzdaU2paXzNnMDRIRC1MVkZsR2NJa2hoWUptZTFmSzJlTQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE5EZUhubnJSTXZ4NXFXMklIN1huc0g1dGRMekdGWmZ1SWdocENrRmMxVjhSNTBrWWNOOFNEdDY4VnhxdHhEM1puamhZMzdaU2paXzNnMDRIRC1MVkZsR2NJa2hoWUptZTFmSzJlTQ?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUC198WG0Z10C26A6000000/](https://www.nikkei.com/article/DGXZQOUC198WG0Z10C26A6000000/)
 
 ○7月1日　Web3×地方創生専門メディア「WEB3地方創生ねっと」、掲載事例が500件を突破　時事ドットコム<br>
-　[https://news.google.com/rss/articles/CBMia0FVX3lxTE5JX21DQlBsYkZVb1hZYTJ1RC1BUy1jRTJETGRzbTV4OXQ2czhMbzJKS0NLZjRGdFhRcEdBanM2UnhjQ21sM2h3a182OGFWMElTYWltd25CZVp3cGZFcHhmdWpJVk5NN0VjX1JV?oc=5](https://news.google.com/rss/articles/CBMia0FVX3lxTE5JX21DQlBsYkZVb1hZYTJ1RC1BUy1jRTJETGRzbTV4OXQ2czhMbzJKS0NLZjRGdFhRcEdBanM2UnhjQ21sM2h3a182OGFWMElTYWltd25CZVp3cGZFcHhmdWpJVk5NN0VjX1JV?oc=5)
+　[https://www.jiji.com/jc/article?k=000000034.000111738&g=prt](https://www.jiji.com/jc/article?k=000000034.000111738&g=prt)
+
+○7月1日　日米共同訓練の終了式、陸自西部方面総監「日米間で相互運用性と共同対処能力の向上を図ることができた」　読売新聞<br>
+　[https://www.yomiuri.co.jp/local/kyushu/news/20260701-GYS1T00022/](https://www.yomiuri.co.jp/local/kyushu/news/20260701-GYS1T00022/)
 
 ○7月1日　米送電網運営ＰＪＭ、データセンターの需要管理に向け計画推進　Reuters<br>
-　[https://news.google.com/rss/articles/CBMifkFVX3lxTE1Gc2hyTjZtdEwwSmVjLU9Rb0VvTFlFdTZZNnJqaXRYOFFkUjhkanJhMklqUjdXVVQ0SGIzS3I3ODZ1WV9mZXVvN1BtRy1Bem1wUzgxalF6UUc5ZlhIcDJ6MXhSSzR5QUpuUGltd09iTk1SV1JTSnA5QjEta01Odw?oc=5](https://news.google.com/rss/articles/CBMifkFVX3lxTE1Gc2hyTjZtdEwwSmVjLU9Rb0VvTFlFdTZZNnJqaXRYOFFkUjhkanJhMklqUjdXVVQ0SGIzS3I3ODZ1WV9mZXVvN1BtRy1Bem1wUzgxalF6UUc5ZlhIcDJ6MXhSSzR5QUpuUGltd09iTk1SV1JTSnA5QjEta01Odw?oc=5)
+　[https://jp.reuters.com/markets/oil/73YHT7EXLFNFDJ5KWA6LCZLTPY-2026-07-01/](https://jp.reuters.com/markets/oil/73YHT7EXLFNFDJ5KWA6LCZLTPY-2026-07-01/)
+
+○7月1日　サイバーセキュリティクラウド[4493]：自己株式の取得状況に関するお知らせ （会社法第459条第1項の規定による定款の定めに基づく自己株式の取得） 2026年7月1日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20260701586214/](https://www.nikkei.com/nkd/disclosure/tdnr/20260701586214/)
 
 ○7月1日　高市首相 インドに向け出発 経済安全保障など協力進展目指す　NHKニュース<br>
-　[https://news.google.com/rss/articles/CBMiX0FVX3lxTE42ei1TaG1XZGNhcGdHbklCSUNUdnkycVRybVpPRlRRRXAyZnR5eW1hVzFlY1FzaV9UWlR1MmZGcHV6NWtRRTdhcFZHd2ozUXl2MWdzTVduYWRGdURKYlVV?oc=5](https://news.google.com/rss/articles/CBMiX0FVX3lxTE42ei1TaG1XZGNhcGdHbklCSUNUdnkycVRybVpPRlRRRXAyZnR5eW1hVzFlY1FzaV9UWlR1MmZGcHV6NWtRRTdhcFZHd2ozUXl2MWdzTVduYWRGdURKYlVV?oc=5)
+　[https://news.web.nhk/newsweb/na/na-k10015166051000](https://news.web.nhk/newsweb/na/na-k10015166051000)
 
 ○7月2日　スウェーデン裁判所、Googleに2400億円支払い命令 自社サイト優遇　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE1sTGQwZWdPbGpYVHV6cFE0TVVHcDhQYnoyb3RydUZ6U3pVRzE0Z1JneHY2N2Z4ajdaRjFiSmgwRDZGSjFhZ3N4VG8zdzBVZFZ5QVNNQ3RTZmhQaGlhVVJ1U0s1S2t0SE9RQzV5Yw?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE1sTGQwZWdPbGpYVHV6cFE0TVVHcDhQYnoyb3RydUZ6U3pVRzE0Z1JneHY2N2Z4ajdaRjFiSmgwRDZGSjFhZ3N4VG8zdzBVZFZ5QVNNQ3RTZmhQaGlhVVJ1U0s1S2t0SE9RQzV5Yw?oc=5)
+　[https://www.nikkei.com/article/DGXZQOGR01C860R00C26A7000000/](https://www.nikkei.com/article/DGXZQOGR01C860R00C26A7000000/)
 
 ○7月2日　インド事業創出２兆円投資、半導体材料の工場設立やＡＩ協業など民間１２０件協力文書…日印首脳会談へ　読売新聞<br>
-　[https://news.google.com/rss/articles/CBMiZkFVX3lxTE00YjB3U0UtLTBjVE5Ia2Fpb08takNGMmo3bHFRZ3VhaWlHY1p0QzA2SlJpN196dFBwSDVtZ01uR1NyNnU4S191UFFUM3VLTHVUY3ZyYkozd1lqSzBUVTZxOW94aUQtdw?oc=5](https://news.google.com/rss/articles/CBMiZkFVX3lxTE00YjB3U0UtLTBjVE5Ia2Fpb08takNGMmo3bHFRZ3VhaWlHY1p0QzA2SlJpN196dFBwSDVtZ01uR1NyNnU4S191UFFUM3VLTHVUY3ZyYkozd1lqSzBUVTZxOW94aUQtdw?oc=5)
+　[https://www.yomiuri.co.jp/politics/20260701-GYT1T00420/](https://www.yomiuri.co.jp/politics/20260701-GYT1T00420/)
 
 ○7月2日　クラウド参入報道でメタ株9%高 競争懸念のスペースXは8%安　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTFBlVWRRWDJ0S3NlQ2E1akU4bVN1SGdaUTgtSDQzcjROX2Q3NVBUd1FXOXJpNDVNSU5hc1lvVnVWbVk5N29mcm5lb1dReUxUNlFrbUdzVjVIYWtsSlQ1d0ZXUjZRNXhLSFd2Mmt3MQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTFBlVWRRWDJ0S3NlQ2E1akU4bVN1SGdaUTgtSDQzcjROX2Q3NVBUd1FXOXJpNDVNSU5hc1lvVnVWbVk5N29mcm5lb1dReUxUNlFrbUdzVjVIYWtsSlQ1d0ZXUjZRNXhLSFd2Mmt3MQ?oc=5)
+　[https://www.nikkei.com/article/DGXZQOGN01DI90R00C26A7000000/](https://www.nikkei.com/article/DGXZQOGN01DI90R00C26A7000000/)
 
 ○7月2日　米メタ、余剰ＡＩ計算能力販売へクラウド事業構築を計画＝報道　Reuters<br>
-　[https://news.google.com/rss/articles/CBMigAFBVV95cUxNQXBtcDJjdkNKdFVIT0ZrVDNkT0JodjRpTnlmc0Fta0dOb20tT0g1dUdMbUF6SmJTZ0tqZEVGUlFqUVlnT3o0UnQyNlRUZ0hoX1M5M2ZTNWQyTGdrMWxiMGlfX2o0VTNWMFZXc2U4aVIzNEZaT2ROVGczWDRpQW5ENg?oc=5](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQXBtcDJjdkNKdFVIT0ZrVDNkT0JodjRpTnlmc0Fta0dOb20tT0g1dUdMbUF6SmJTZ0tqZEVGUlFqUVlnT3o0UnQyNlRUZ0hoX1M5M2ZTNWQyTGdrMWxiMGlfX2o0VTNWMFZXc2U4aVIzNEZaT2ROVGczWDRpQW5ENg?oc=5)
+　[https://jp.reuters.com/markets/japan/5VGNRR6RJBN3XNMYU3XVXVFCVI-2026-07-01/](https://jp.reuters.com/markets/japan/5VGNRR6RJBN3XNMYU3XVXVFCVI-2026-07-01/)
 
 ○7月2日　米メタ、クラウド事業参入計画か ＡＩ計算能力貸し出す―報道　時事ドットコム<br>
-　[https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5RGxGSlhtVEtVS25UR21yeEs0M1BZN0NxZnJTaXFqa0g5VTNnZ2R6WnhUcWFncjN3SjVSRTNsR2ZqRUw2UHhoeG1Ka2pqYUpUdG50MzM1V01kMndOamtDN1ZEOA?oc=5](https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5RGxGSlhtVEtVS25UR21yeEs0M1BZN0NxZnJTaXFqa0g5VTNnZ2R6WnhUcWFncjN3SjVSRTNsR2ZqRUw2UHhoeG1Ka2pqYUpUdG50MzM1V01kMndOamtDN1ZEOA?oc=5)
+　[https://www.jiji.com/jc/article?k=2026070200315&g=int](https://www.jiji.com/jc/article?k=2026070200315&g=int)
 
 ○7月2日　欧州委幹部がアップルＣＥＯと「建設的な」協議 ＡＩ機能巡り対立　Reuters<br>
-　[https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFpVZ1Q5dDVXV1Q4cmpjTnNDYWVjYnphVnBZMjVINElQSmtyYXFlU1BJVFJqUW9PTEI3ZmxKeTA3eGhZbHEwbEVHcFZ6Ny0wNWNNNGV1X0UtWXRZOWNWZHNJR2lSVUpmaU9jdnliZGV5OHZzN2t0R2Y4X0ttbm53eEZYZ3loaF9SYTU1UQ?oc=5](https://news.google.com/rss/articles/CBMijAFBVV95cUxNaFpVZ1Q5dDVXV1Q4cmpjTnNDYWVjYnphVnBZMjVINElQSmtyYXFlU1BJVFJqUW9PTEI3ZmxKeTA3eGhZbHEwbEVHcFZ6Ny0wNWNNNGV1X0UtWXRZOWNWZHNJR2lSVUpmaU9jdnliZGV5OHZzN2t0R2Y4X0ttbm53eEZYZ3loaF9SYTU1UQ?oc=5)
+　[https://jp.reuters.com/markets/global-markets/U2LJLMZAZRITVPONWVSHIU6QNQ-2026-07-02/](https://jp.reuters.com/markets/global-markets/U2LJLMZAZRITVPONWVSHIU6QNQ-2026-07-02/)
 
 ○7月2日　午前の日経平均は反落、半導体株安が押し下げ ＴＯＰＩＸは底堅い　Reuters<br>
-　[https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnYtS3hPR1h0cFVTaVAwbnJFRlRhaWtRYmxfbGFXdEY4UkxTaXFTSktvcXBjVFdBclhqM0VzVWE5Q0djX2YybjJBQjJMZDRtdnNEb0xReGxRT2RhRUdXd0ZBV04yczI4TzlGWFRBR0F2Y2VtQWZWbFQtRDBjOW9VWg?oc=5](https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnYtS3hPR1h0cFVTaVAwbnJFRlRhaWtRYmxfbGFXdEY4UkxTaXFTSktvcXBjVFdBclhqM0VzVWE5Q0djX2YybjJBQjJMZDRtdnNEb0xReGxRT2RhRUdXd0ZBV04yczI4TzlGWFRBR0F2Y2VtQWZWbFQtRDBjOW9VWg?oc=5)
+　[https://jp.reuters.com/markets/japan/7DLT6BOJUVPRHL7NBEKKQZPQ7Q-2026-07-02/](https://jp.reuters.com/markets/japan/7DLT6BOJUVPRHL7NBEKKQZPQ7Q-2026-07-02/)
 
 ○7月2日　ＥＵ半導体産業、「暗い未来」に直面 米中リスクで＝報告書　Reuters<br>
-　[https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWZPYzdUaVRKdFhvamdjRzdqMjRDQW9JUExjZWlWR1pRVklVQjc2OGFpV2d0a1cwNUJJaUFIemhMcVY2TGZUMHdWWE1DUFBhTGhJaTNtUEh2M0wtYVlaS29YX1NrRTdwQlBBR2RkUmNOdGVkQkpmN0g0RUQwLVQ3bTljNXdmNlhqd1FKVQ?oc=5](https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWZPYzdUaVRKdFhvamdjRzdqMjRDQW9JUExjZWlWR1pRVklVQjc2OGFpV2d0a1cwNUJJaUFIemhMcVY2TGZUMHdWWE1DUFBhTGhJaTNtUEh2M0wtYVlaS29YX1NrRTdwQlBBR2RkUmNOdGVkQkpmN0g0RUQwLVQ3bTljNXdmNlhqd1FKVQ?oc=5)
+　[https://jp.reuters.com/markets/global-markets/DZO3EABFOZLRFCEEEALEH53YPM-2026-07-02/](https://jp.reuters.com/markets/global-markets/DZO3EABFOZLRFCEEEALEH53YPM-2026-07-02/)
 
 ○7月2日　グーグル、対アフリカ投資が10億ドルの目標を突破　Reuters<br>
-　[https://news.google.com/rss/articles/CBMijAFBVV95cUxQQk9lX1VWT01qYkhWWHlieG1lSWpFQzAyaHpocm8zeWdueHc0dDBsWTBKZTVVWktjLWQ0am9jbEpfZ2J1TEs1a2VKRGpwdUcwNmsyZXdwbmo0dEpOdVBZajdGbVpDNDBKb3RDSXFNcWhEcElHS04tUERtLVVoQ20tRmt1b3V1NG1KdmlfZA?oc=5](https://news.google.com/rss/articles/CBMijAFBVV95cUxQQk9lX1VWT01qYkhWWHlieG1lSWpFQzAyaHpocm8zeWdueHc0dDBsWTBKZTVVWktjLWQ0am9jbEpfZ2J1TEs1a2VKRGpwdUcwNmsyZXdwbmo0dEpOdVBZajdGbVpDNDBKb3RDSXFNcWhEcElHS04tUERtLVVoQ20tRmt1b3V1NG1KdmlfZA?oc=5)
+　[https://jp.reuters.com/markets/global-markets/XTZMTY6ANJJS5NT5MX7XMTIKHU-2026-07-02/](https://jp.reuters.com/markets/global-markets/XTZMTY6ANJJS5NT5MX7XMTIKHU-2026-07-02/)
 
 ○7月2日　データセンター運用移管 SCSK、子会社に10月　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGhlQ2pWZ3BzVV8zVzI3cXpGNGp3SjFPSUs4X1RhUlczeTY5UEFKVkRHdDJZWWpGcEFuYTRSLXRSX2tleTlBMmNwMGpVMUF3WXI4NlBrYVZOdS1qMHIwRU02QUFEaDg4cHUxRUJFNFZ4VXgzYUdLZTAwdEpROFJyVnpaanhFS0ZOcjgzVC1ZUmwxZHhGS1JuMzNTY2ZFZGdNdEZFVktB?oc=5](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGhlQ2pWZ3BzVV8zVzI3cXpGNGp3SjFPSUs4X1RhUlczeTY5UEFKVkRHdDJZWWpGcEFuYTRSLXRSX2tleTlBMmNwMGpVMUF3WXI4NlBrYVZOdS1qMHIwRU02QUFEaDg4cHUxRUJFNFZ4VXgzYUdLZTAwdEpROFJyVnpaanhFS0ZOcjgzVC1ZUmwxZHhGS1JuMzNTY2ZFZGdNdEZFVktB?oc=5)
+　[https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=146&ng=DGKKZO97297140S6A700C2BZ0000](https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=146&ng=DGKKZO97297140S6A700C2BZ0000)
 
 ○7月2日　クオンタムソリューションズ[2338]：ＡＩインフラストラクチャ（ＡＩＤＣ）事業におけるデータセンター容量確保に向けた保証金初回支払い完了に関するお知らせ 2026年7月2日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMizAFBVV95cUxQZzNqWjBlYnhxanFsWmd6eVlIVFpiR3pzazVqWjN3Q0M1ZWROLXJha2l1MTl5Vm1xQXNwbjhzeWpRVzVpWXhlT0pEREVMNkZWd1N0VVRuTnYyRUxVdkh0WTN1cGlHQldVZUh4eGZoeF9XSXptV25OVk9VbGpDS013VGJfM1NkS1VBNjFDX0RCOGd2UG9lSEVBM29EdUlKZ1p1eWFGOURhQnJmcnEwS1p0UFdmdXMybEs2YmhiNjZqLU10dXJrdHUtNHlMc2k?oc=5](https://news.google.com/rss/articles/CBMizAFBVV95cUxQZzNqWjBlYnhxanFsWmd6eVlIVFpiR3pzazVqWjN3Q0M1ZWROLXJha2l1MTl5Vm1xQXNwbjhzeWpRVzVpWXhlT0pEREVMNkZWd1N0VVRuTnYyRUxVdkh0WTN1cGlHQldVZUh4eGZoeF9XSXptV25OVk9VbGpDS013VGJfM1NkS1VBNjFDX0RCOGd2UG9lSEVBM29EdUlKZ1p1eWFGOURhQnJmcnEwS1p0UFdmdXMybEs2YmhiNjZqLU10dXJrdHUtNHlMc2k?oc=5)
+　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g0bbjv&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260702587003/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g0bbjv&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260702587003/)
 
 ○7月2日　キオクシア株価が13%安 米半導体株急落で連想売り（2日の株式市場）　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE1CVVdEQ0ttYUh6VEdhSkpnR2REVmNZM29wWVpuSVR2ZTR0U20yNmVnVGR6cW1TX2lPRmJhaThxb2l0eFJpdXpEbU12ZzNCS1c4NS1MT1NIc0NZbWlabDBJOEJrVmhVdjFSVHpGcg?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE1CVVdEQ0ttYUh6VEdhSkpnR2REVmNZM29wWVpuSVR2ZTR0U20yNmVnVGR6cW1TX2lPRmJhaThxb2l0eFJpdXpEbU12ZzNCS1c4NS1MT1NIc0NZbWlabDBJOEJrVmhVdjFSVHpGcg?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUB024FR0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOUB024FR0S6A700C2000000/)
 
 ○7月2日　旭化成、台湾に半導体基板向け材料の新工場 現地での加工能力4割増　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE9jbjl1bmZUclVVY1h4c255ZFhkRHNFVWROTWNuWmVmcnEybGFDclVET2lkbmV5ZlYxcjN0dmgydmlSdTEzLXkxOWJXRVhTaXJZSTd5a211dnA3Vk03X084T0pwQWNWRjYwYWYzWg?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE9jbjl1bmZUclVVY1h4c255ZFhkRHNFVWROTWNuWmVmcnEybGFDclVET2lkbmV5ZlYxcjN0dmgydmlSdTEzLXkxOWJXRVhTaXJZSTd5a211dnA3Vk03X084T0pwQWNWRjYwYWYzWg?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUC308E80Q6A630C2000000/](https://www.nikkei.com/article/DGXZQOUC308E80Q6A630C2000000/)
 
 ○7月2日　住友電工、光通信の半導体材料生産3倍 AI需要で従来計画引き上げ　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE5JLVVWU0VQaTY0bm51eVNoelJmbm5tMlNMTl96Q1FrdXBXTm9iMGwxZzNMNUViVXJyeVQtOEtvTURlR01WSDBJNHlzZUE0b0VBRDIyMVY0Nk8xME5VZkFjdGpmc2ttZF9vSUhOZQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE5JLVVWU0VQaTY0bm51eVNoelJmbm5tMlNMTl96Q1FrdXBXTm9iMGwxZzNMNUViVXJyeVQtOEtvTURlR01WSDBJNHlzZUE0b0VBRDIyMVY0Nk8xME5VZkFjdGpmc2ttZF9vSUhOZQ?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUF170OX0X10C26A6000000/](https://www.nikkei.com/article/DGXZQOUF170OX0X10C26A6000000/)
 
 ○7月2日　ＳＫハイニックス、韓国中部の半導体工場に640億ドル投資へ ＡＩ需要対応で　Reuters<br>
-　[https://news.google.com/rss/articles/CBMijAFBVV95cUxNcHJyVWp1VjNRY0tESHdBa1RNeGxuQW5EMGh5X1Q4Q05wSTdpb1Y0NGhleThXaHMzeDEtdGxZSDlnZGNRMGtJdlVNa2FyZzc5QjlzSEhBYW1DSFMtT0Y5ZUJaMHRhbnFPVmRoWjJUUjA0c3M1TFJ0X1MyWkppR2FyTnN6SEFnQUFkdmNvXw?oc=5](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcHJyVWp1VjNRY0tESHdBa1RNeGxuQW5EMGh5X1Q4Q05wSTdpb1Y0NGhleThXaHMzeDEtdGxZSDlnZGNRMGtJdlVNa2FyZzc5QjlzSEhBYW1DSFMtT0Y5ZUJaMHRhbnFPVmRoWjJUUjA0c3M1TFJ0X1MyWkppR2FyTnN6SEFnQUFkdmNvXw?oc=5)
+　[https://jp.reuters.com/markets/global-markets/7GZRZ5PLKZP7HHABAZVI6H5WBQ-2026-07-02/](https://jp.reuters.com/markets/global-markets/7GZRZ5PLKZP7HHABAZVI6H5WBQ-2026-07-02/)
 
 ○7月2日　半導体装置の26年度販売見通し、1兆円上方修正 半年間で大幅上振れ　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTFB6MXBheEJ4LVpRd2pLbm1jU2R4c0pRZlRzaldJTjE5OThnejdWSnh6TjdmNXB1UmpRb013OVd1LTV4Z0lUQUpjcnlYOXVZTVVkZVFETGprVUMzVjRGdUdHMkwtUHR2RUpBangzaQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTFB6MXBheEJ4LVpRd2pLbm1jU2R4c0pRZlRzaldJTjE5OThnejdWSnh6TjdmNXB1UmpRb013OVd1LTV4Z0lUQUpjcnlYOXVZTVVkZVFETGprVUMzVjRGdUdHMkwtUHR2RUpBangzaQ?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUC258TS0V20C26A6000000/](https://www.nikkei.com/article/DGXZQOUC258TS0V20C26A6000000/)
 
 ○7月2日　ソフトバンクG、米国でAI計算基盤提供の新会社 クラウド大手向け　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE1KQV9rWUttUWJzZGxLOHJGLWppVzNySTFoaFpqX1k4ZUhKZ25jQlZYcGJKT3hPUlNZLVU5UzRoTDBydHFwa092ejBYbHpDVVlxaEVkS1VFMXhTT2R6ZUpYTGJtUDdGUkdBbnJXVQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE1KQV9rWUttUWJzZGxLOHJGLWppVzNySTFoaFpqX1k4ZUhKZ25jQlZYcGJKT3hPUlNZLVU5UzRoTDBydHFwa092ejBYbHpDVVlxaEVkS1VFMXhTT2R6ZUpYTGJtUDdGUkdBbnJXVQ?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUC0284U0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOUC0284U0S6A700C2000000/)
 
 ○7月2日　EU、Googleへの制裁金7600億円が確定 競争法違反で過去最高　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE9VSV83Z2xLRWVoc0ZTeWZOSWdiRjlaRlYyOVkyS24ydXRqVUFCRFFfSl9UMVgzODZDR0JlRW01SFZHNUFWX01HSndyYVowMjNsRzVocXE3UVhtbHVtRENCazRlMC1aVVNUb1BTUQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE9VSV83Z2xLRWVoc0ZTeWZOSWdiRjlaRlYyOVkyS24ydXRqVUFCRFFfSl9UMVgzODZDR0JlRW01SFZHNUFWX01HSndyYVowMjNsRzVocXE3UVhtbHVtRENCazRlMC1aVVNUb1BTUQ?oc=5)
+　[https://www.nikkei.com/article/DGXZQOGR028UZ0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOGR028UZ0S6A700C2000000/)
 
 ○7月2日　住友化学とサムスン電機、次世代半導体向けガラス基板で合弁設立　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE90cXJld2h5MEM3UFNneGdrbTMybHJiMUVPQU1QYnpqbjRMa3dPb0RqNnV4eE5ic3FZTjlxRHp4cUJzd2YyTzdFUy1VRzA5VGo0YXFRczgzTGpsbk4ybkZEWUhMZ01RbTRfalE1ag?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE90cXJld2h5MEM3UFNneGdrbTMybHJiMUVPQU1QYnpqbjRMa3dPb0RqNnV4eE5ic3FZTjlxRHp4cUJzd2YyTzdFUy1VRzA5VGo0YXFRczgzTGpsbk4ybkZEWUhMZ01RbTRfalE1ag?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUC02A6J0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOUC02A6J0S6A700C2000000/)
 
 ○7月2日　ＥＵ最高裁、グーグルへの制裁金支持 競争法違反で７６００億円　時事ドットコム<br>
-　[https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTk5EcDlEY0J6bk5CeUpTWnJsdHNrbk42WFhLWjFIZFB6aC1IYThQbGQ0cVMyVWItQVNJSW1LYzFGQ0FsTWRITHBnY2VjeW5YNVJRcF81TzVQalZsa0ZVeldsWQ?oc=5](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTk5EcDlEY0J6bk5CeUpTWnJsdHNrbk42WFhLWjFIZFB6aC1IYThQbGQ0cVMyVWItQVNJSW1LYzFGQ0FsTWRITHBnY2VjeW5YNVJRcF81TzVQalZsa0ZVeldsWQ?oc=5)
+　[https://www.jiji.com/jc/article?k=2026070201106&g=int](https://www.jiji.com/jc/article?k=2026070201106&g=int)
 
 ○7月2日　ヨーロッパ司法裁判所 グーグルへの巨額制裁金を支持する判決　NHKニュース<br>
-　[https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wZF9UcGI2SzFmbERJdy1zMEx2QTdkck5MWVZjR3VLWjBzUk54dGxwR2RObUFYV0NRbkJhUlgyaldSX1htaXU2TUFsZUVOcGVIdWplaXpiSm9MREJCQlJJ?oc=5](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wZF9UcGI2SzFmbERJdy1zMEx2QTdkck5MWVZjR3VLWjBzUk54dGxwR2RObUFYV0NRbkJhUlgyaldSX1htaXU2TUFsZUVOcGVIdWplaXpiSm9MREJCQlJJ?oc=5)
+　[https://news.web.nhk/newsweb/na/na-k10015167471000](https://news.web.nhk/newsweb/na/na-k10015167471000)
 
 ○7月3日　EU最高裁、グーグルへの7600億円制裁金を支持 競争法違反　朝日新聞<br>
-　[https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Nnd0cXVRMFRYN1FvaXpPN1JRN2ZlMFFQemVfX2pmTUo5a1hBeW8wWTRTUUlTUjFHSW82U0FDMFFGSDlOTGl0cmFxcWpyZVV6emNSM0w3eE1Pa3dLYWphMWpKQVB0SFE?oc=5](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92Nnd0cXVRMFRYN1FvaXpPN1JRN2ZlMFFQemVfX2pmTUo5a1hBeW8wWTRTUUlTUjFHSW82U0FDMFFGSDlOTGl0cmFxcWpyZVV6emNSM0w3eE1Pa3dLYWphMWpKQVB0SFE?oc=5)
+　[https://www.asahi.com/articles/ASV724WTGV72ULFA01KM.html](https://www.asahi.com/articles/ASV724WTGV72ULFA01KM.html)
+
+○7月3日　半導体装置販売額26%増 今年度見通し1兆円上振れ メモリー大手、生産増強で　日本経済新聞<br>
+　[https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGKKZO97321330S6A700C2TB1000&scode=285A&ba=1](https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGKKZO97321330S6A700C2TB1000&scode=285A&ba=1)
 
 ○7月3日　アップル、折り畳み型含む5機種 iPhone 来年前半までに　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUsxdmI3eGhxU2RXcjZWMnpUVWN6Y1NickpLQ3FjRFExdUZaQ2NZemV6X1ZvM01nZVp3ZXpnVXJiWTFYUmhjZHFpaHEzYkNDT2R1dDdKUUxoT2JUenV0TGVLNktFNHJxQU5XZWduT2NqV3NHeFh3N1ZDUS13UHcyelQ4dlhKVDZnRTI1cHpHVk5CT2VRYk8yUHpB?oc=5](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUsxdmI3eGhxU2RXcjZWMnpUVWN6Y1NickpLQ3FjRFExdUZaQ2NZemV6X1ZvM01nZVp3ZXpnVXJiWTFYUmhjZHFpaHEzYkNDT2R1dDdKUUxoT2JUenV0TGVLNktFNHJxQU5XZWduT2NqV3NHeFh3N1ZDUS13UHcyelQ4dlhKVDZnRTI1cHpHVk5CT2VRYk8yUHpB?oc=5)
+　[https://www.nikkei.com/nkd/company/us/AAPL/news/?DisplayType=1&ng=DGKKZO9732127002072026TB1000](https://www.nikkei.com/nkd/company/us/AAPL/news/?DisplayType=1&ng=DGKKZO9732127002072026TB1000)
 
 ○7月3日　ＥＵ最高裁でグーグルへの７６００億円制裁金が確定、端末メーカーにグーグルアプリの搭載強要　読売新聞<br>
-　[https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RcFg5MVdDNk15b1hlRzZQUmtFc0tYejFZel9EYkxIMWlPVDFuQ2JxRHcyYXd4VldVQWE5TWxsY0h0MDN4MUJIbGFGdDNMV3NucUQ4N0l0WTZtZG4zUlJBNGNRa1Q?oc=5](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RcFg5MVdDNk15b1hlRzZQUmtFc0tYejFZel9EYkxIMWlPVDFuQ2JxRHcyYXd4VldVQWE5TWxsY0h0MDN4MUJIbGFGdDNMV3NucUQ4N0l0WTZtZG4zUlJBNGNRa1Q?oc=5)
+　[https://www.yomiuri.co.jp/economy/20260703-GYT1T00067/](https://www.yomiuri.co.jp/economy/20260703-GYT1T00067/)
 
 ○7月3日　独インフィニオン、9000億円でパワー半導体新工場 日本では大型再編　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE01UHBsTXJnM2tEM2tIbzdHeURkbkxzeEIzRkZfRTJVQVprV0JiNUpQR2hCUzVNaldqRVE3T3E1a0hmTGF0dnFpTUZ6bEJyUk9Idm1sVzJETW55bjdXNHQxZnl3ZmhJQ1NhVmplUg?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE01UHBsTXJnM2tEM2tIbzdHeURkbkxzeEIzRkZfRTJVQVprV0JiNUpQR2hCUzVNaldqRVE3T3E1a0hmTGF0dnFpTUZ6bEJyUk9Idm1sVzJETW55bjdXNHQxZnl3ZmhJQ1NhVmplUg?oc=5)
+　[https://www.nikkei.com/article/DGXZQOGR30CIN0Q6A630C2000000/](https://www.nikkei.com/article/DGXZQOGR30CIN0Q6A630C2000000/)
 
 ○7月3日　TSMCが斬新な冷却、AI半導体表面に「水路」 量産へ前進　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMihwFBVV95cUxQX1F3ZXlYbjUtNWRfdzZuS29DejdWY3NoazNPQnFmUGp1Mml5MW1uaElTTURRTkQzRUtFWkNTQ1Q1Q3lfNmx4b1dXMTNVNFRFa0FOQlQwdmFPcWZpVF9Od0EzcFI0aTZLa3F5d2RzbVk3c1dXakxqbEdQU0UwN3VUdVRMRy1DSHM?oc=5](https://news.google.com/rss/articles/CBMihwFBVV95cUxQX1F3ZXlYbjUtNWRfdzZuS29DejdWY3NoazNPQnFmUGp1Mml5MW1uaElTTURRTkQzRUtFWkNTQ1Q1Q3lfNmx4b1dXMTNVNFRFa0FOQlQwdmFPcWZpVF9Od0EzcFI0aTZLa3F5d2RzbVk3c1dXakxqbEdQU0UwN3VUdVRMRy1DSHM?oc=5)
+　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC020460S6A700C2000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC020460S6A700C2000000)
+
+○7月3日　日本化薬、自動車安全装置の世界首位 半導体材料でも存在感　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOUC294ZC0Z20C26A6000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUC294ZC0Z20C26A6000000)
 
 ○7月3日　NYダウ反発594ドル高、最高値更新 半導体安でナスダック総合は続落　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTFBENmU4UnZOLXV6RlRGZ3hwa3FrUmhIVThJekR1RThqcnhHYmF5MEhqcVNKdDF3M21xYXl3dUR1a3pPSzVYZDhXWF83VXhQd1RvcFhYTFpjLV8yUDg5UWU1ZG11cWJkZ2FybFNqNQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTFBENmU4UnZOLXV6RlRGZ3hwa3FrUmhIVThJekR1RThqcnhHYmF5MEhqcVNKdDF3M21xYXl3dUR1a3pPSzVYZDhXWF83VXhQd1RvcFhYTFpjLV8yUDg5UWU1ZG11cWJkZ2FybFNqNQ?oc=5)
+　[https://www.nikkei.com/article/DGXZQOFL02CU60S6A700C2000000/](https://www.nikkei.com/article/DGXZQOFL02CU60S6A700C2000000/)
 
 ○7月3日　Appleが中国からメモリー調達検討、半導体株下落 サンディスク14%安　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTFBxUHZvV0pSRHVaVkpOM1Q5SjZLaGhkWEdJMEZxb185WDJwbUtsS19CU20xWldzZnd2VC1UYi15M0NCZm1VbDRLMW9raUhTY2tvQWJZV1FjaTdJTGJBS1BnTGVVLUdpWFBMVVAydg?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTFBxUHZvV0pSRHVaVkpOM1Q5SjZLaGhkWEdJMEZxb185WDJwbUtsS19CU20xWldzZnd2VC1UYi15M0NCZm1VbDRLMW9raUhTY2tvQWJZV1FjaTdJTGJBS1BnTGVVLUdpWFBMVVAydg?oc=5)
+　[https://www.nikkei.com/article/DGXZQOGN02CNJ0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOGN02CNJ0S6A700C2000000/)
 
 ○7月3日　Google、EU独禁訴訟で7600億円制裁金確定 自社サービス優遇に制限　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTFBiWEhGMnM0a2FMcDhMTFl1bVdXanFTZHJBZkJDenZYMmFDUG9PaWozb0Q5OTlMWngwREdNbXBtdkxNQUlYTzlDQ1BzZ0s0T05xRXQ1UTBJWUltbXNVQ0NjZVZPeDNDdUZKZ3ZXSA?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTFBiWEhGMnM0a2FMcDhMTFl1bVdXanFTZHJBZkJDenZYMmFDUG9PaWozb0Q5OTlMWngwREdNbXBtdkxNQUlYTzlDQ1BzZ0s0T05xRXQ1UTBJWUltbXNVQ0NjZVZPeDNDdUZKZ3ZXSA?oc=5)
+　[https://www.nikkei.com/article/DGXZQOGN02CXO0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOGN02CXO0S6A700C2000000/)
 
 ○7月3日　米国個別株騰落（2日） アップル4.8%高 リヴィアン8.4%高 ロビンフッド3.7%高　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMifkFVX3lxTE9uSGVldnZ4emo0UWNJTXBrRmFYOERhSXVfUUVmczlNTTBQOENmR0dlNVBlXzBqeU1ab3I1WFlYNGNQSFNfUHdLeW1BV0lfRTFsRWlKUTd3OER3eDJvMFUwWmx5UnV2LTBXYmVkS0JVNVozRE44aXBZYWF4Nkk4QQ?oc=5](https://news.google.com/rss/articles/CBMifkFVX3lxTE9uSGVldnZ4emo0UWNJTXBrRmFYOERhSXVfUUVmczlNTTBQOENmR0dlNVBlXzBqeU1ab3I1WFlYNGNQSFNfUHdLeW1BV0lfRTFsRWlKUTd3OER3eDJvMFUwWmx5UnV2LTBXYmVkS0JVNVozRE44aXBZYWF4Nkk4QQ?oc=5)
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOFL02CJ70S6A700C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOFL02CJ70S6A700C2000000)
 
 ○7月3日　今日の株式見通し＝続落へ、半導体株安継続 循環物色でＴＯＰＩＸ優位　Reuters<br>
-　[https://news.google.com/rss/articles/CBMigAFBVV95cUxOU1NxYklyS2F5S2FydGdVZHB6U0tuMzFIOWw5cWlnV3ZId1JzSWh5WDVZelV0Y2xqVUdFVGtuUmhSR0Vlb0tPcG56eWZNV2t4S0g3QU9Fa3Fwd0hLUXlCcXNBb0Q4dXZiWjcwQmtwZzdVTEN0aW5sUER2WG1veXd3aw?oc=5](https://news.google.com/rss/articles/CBMigAFBVV95cUxOU1NxYklyS2F5S2FydGdVZHB6U0tuMzFIOWw5cWlnV3ZId1JzSWh5WDVZelV0Y2xqVUdFVGtuUmhSR0Vlb0tPcG56eWZNV2t4S0g3QU9Fa3Fwd0hLUXlCcXNBb0Q4dXZiWjcwQmtwZzdVTEN0aW5sUER2WG1veXd3aw?oc=5)
+　[https://jp.reuters.com/markets/japan/PJCJ22ORJNINRIFO6CCUICH5RE-2026-07-02/](https://jp.reuters.com/markets/japan/PJCJ22ORJNINRIFO6CCUICH5RE-2026-07-02/)
 
 ○7月3日　グーグル、ＥＵ独禁法訴訟で敗訴確定 制裁金41億ユーロ　Reuters<br>
-　[https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDdLdlZBOXNfeWNJd0N2YXZDUlgyOWFTRjlQQ3EtSGFSNXpYeHc3RFotZ2tjYU94WUpYNUszVENWSHJ2NlBRcDN1dTdiZlRVUFdoY19qTFg5b1dRUTBLNlY4bW1KSVRhVnNuVmcwNFFBeUJxOHc4aXh5c2dubGE3Tl9GVW14dDRsTjlGNA?oc=5](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDdLdlZBOXNfeWNJd0N2YXZDUlgyOWFTRjlQQ3EtSGFSNXpYeHc3RFotZ2tjYU94WUpYNUszVENWSHJ2NlBRcDN1dTdiZlRVUFdoY19qTFg5b1dRUTBLNlY4bW1KSVRhVnNuVmcwNFFBeUJxOHc4aXh5c2dubGE3Tl9GVW14dDRsTjlGNA?oc=5)
+　[https://jp.reuters.com/markets/global-markets/W4XLOJMKK5IEVG4XMFODAS2NTE-2026-07-02/](https://jp.reuters.com/markets/global-markets/W4XLOJMKK5IEVG4XMFODAS2NTE-2026-07-02/)
 
 ○7月3日　日経平均は続落で寄り付く、米半導体株安の流れ引き継ぎ　Reuters<br>
-　[https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTliOTYwTlhMSG41QkstZzVJS2Z6bERtZk5vV1dxMnBfYy1NYXdJQm9ITk9QVk83cHhuWUM2ZmFGblY3NHNTMU9oT3lYQnZQWGNQT3BZMVpTcGxSVG1MdldrUE8zelhXMDJYdE40d1M1V0pMT3Z1bHFkSmtsbVNNdg?oc=5](https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTliOTYwTlhMSG41QkstZzVJS2Z6bERtZk5vV1dxMnBfYy1NYXdJQm9ITk9QVk83cHhuWUM2ZmFGblY3NHNTMU9oT3lYQnZQWGNQT3BZMVpTcGxSVG1MdldrUE8zelhXMDJYdE40d1M1V0pMT3Z1bHFkSmtsbVNNdg?oc=5)
+　[https://jp.reuters.com/markets/japan/2CGZFX6XJBOEJFM4IHIL7DQB6U-2026-07-03/](https://jp.reuters.com/markets/japan/2CGZFX6XJBOEJFM4IHIL7DQB6U-2026-07-03/)
 
 ○7月3日　クラウド型ワークフロー「X-point Cloud」が『ITreview The Best Software in Japan 2026』にて初のTOP100選出　朝日新聞<br>
-　[https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUWFObmZ5RVU0WHo2WEpRRGFCM09KaG5SV0Exc3MwUTZBN2xycW5zbGJEczFQT1ZmVTVqUmU2NmMwRFFkdk9oVzVKTWNMRXQwX1c1RTl0N3dPXzA?oc=5](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOUWFObmZ5RVU0WHo2WEpRRGFCM09KaG5SV0Exc3MwUTZBN2xycW5zbGJEczFQT1ZmVTVqUmU2NmMwRFFkdk9oVzVKTWNMRXQwX1c1RTl0N3dPXzA?oc=5)
+　[https://www.asahi.com/and/pressrelease/16593038](https://www.asahi.com/and/pressrelease/16593038)
 
 ○7月3日　今年度の半導体装置販売26％増 DRAM投資大幅増 SEAJ予測　日刊工業新聞<br>
-　[https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fTnlvQXl6ZEpPNjVzMkdFcmlHSUM4X1FOWlItWWNJUkFJM21hSVdVVVFOb1V5eDdMY3d3eE5Lc21JeGVJcHk5NGxCcm15YUlyY00zXzl4aUNMeFE?oc=5](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fTnlvQXl6ZEpPNjVzMkdFcmlHSUM4X1FOWlItWWNJUkFJM21hSVdVVVFOb1V5eDdMY3d3eE5Lc21JeGVJcHk5NGxCcm15YUlyY00zXzl4aUNMeFE?oc=5)
+　[https://www.nikkan.co.jp/articles/view/00785858](https://www.nikkan.co.jp/articles/view/00785858)
 
 ○7月3日　グーグル自社優遇に歯止め EU独禁訴訟、巨額制裁が確定 「利用者の自由」必須に　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTFBWajVSOUJiZXVvQ2pGX3FuWVpjNjc1aVJnVDdWSHhGQk1WcHZVdVh4dnUxOTRhNmtmYnBJQjd5NjZ2OE1OZmtrRk5CaE03WU9XM19lZE9naEJObjFtMUR6Zm5RWWVycV9ZQTVrOQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTFBWajVSOUJiZXVvQ2pGX3FuWVpjNjc1aVJnVDdWSHhGQk1WcHZVdVh4dnUxOTRhNmtmYnBJQjd5NjZ2OE1OZmtrRk5CaE03WU9XM19lZE9naEJObjFtMUR6Zm5RWWVycV9ZQTVrOQ?oc=5)
+　[https://www.nikkei.com/article/DGKKZO97327730T00C26A7MM0000/](https://www.nikkei.com/article/DGKKZO97327730T00C26A7MM0000/)
 
 ○7月3日　アップルの資金力でもメモリー争奪戦に勝てない訳　毎日新聞<br>
-　[https://news.google.com/rss/articles/CBMif0FVX3lxTFAzdVhGb21ablBJVGJCem9yTEZtNWFCSmpJTFJmVTVzdDJaRklEWUVTdDJnWWluVGY2YS1iaEMxTmRhUF8tMFNNWTFadUdkS09CbVdTamF4ZTRrRUhlbGdkdERDd0g3ek1BUkx5RUN6dnBwc1VsVlhQS3JpT1R5YkE?oc=5](https://news.google.com/rss/articles/CBMif0FVX3lxTFAzdVhGb21ablBJVGJCem9yTEZtNWFCSmpJTFJmVTVzdDJaRklEWUVTdDJnWWluVGY2YS1iaEMxTmRhUF8tMFNNWTFadUdkS09CbVdTamF4ZTRrRUhlbGdkdERDd0g3ek1BUkx5RUN6dnBwc1VsVlhQS3JpT1R5YkE?oc=5)
+　[https://mainichi.jp/premier/business/articles/20260702/biz/00m/020/004000c](https://mainichi.jp/premier/business/articles/20260702/biz/00m/020/004000c)
 
 ○7月3日　データセンター設備の米バーティブ、マレーシアで生産 AI需要に対応　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE4zbkRnUW4xaVp3Nkswcm5ENHNMNk9ILVBWNTRzTGlYd19YSGc4aVp6WjZyQXpzOGI4Q04zZEtEeEZ2Tkc0YmRjeFpzd2s5cHZFWEJCODlmVjZLMndFa211VHB0Um9uTEM3UV9ZaA?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE4zbkRnUW4xaVp3Nkswcm5ENHNMNk9ILVBWNTRzTGlYd19YSGc4aVp6WjZyQXpzOGI4Q04zZEtEeEZ2Tkc0YmRjeFpzd2s5cHZFWEJCODlmVjZLMndFa211VHB0Um9uTEM3UV9ZaA?oc=5)
+　[https://www.nikkei.com/article/DGXZQOGM031N50T00C26A7000000/](https://www.nikkei.com/article/DGXZQOGM031N50T00C26A7000000/)
 
 ○7月3日　日経平均は反発、朝安後プラス転換 一部半導体株に押し目買い　Reuters<br>
-　[https://news.google.com/rss/articles/CBMigAFBVV95cUxPZlJfZkFROUtQZ0JFOEFyNWF6N3hlLVotS2hzRjN5aXBUNW92SnRUT1BTcTRYcnptbEZMeG9NcVRHbWtHckpLdW1WWVZ3SlpLS3hpRGNzbUZRcWZnbFZyRDBJMjN3N3dwU2lOTW9TUHZTZGhLbGltaUVSZWpXeGFheg?oc=5](https://news.google.com/rss/articles/CBMigAFBVV95cUxPZlJfZkFROUtQZ0JFOEFyNWF6N3hlLVotS2hzRjN5aXBUNW92SnRUT1BTcTRYcnptbEZMeG9NcVRHbWtHckpLdW1WWVZ3SlpLS3hpRGNzbUZRcWZnbFZyRDBJMjN3N3dwU2lOTW9TUHZTZGhLbGltaUVSZWpXeGFheg?oc=5)
+　[https://jp.reuters.com/markets/japan/OMON4HHWJNJRJGDVS5J5ZMVQDM-2026-07-03/](https://jp.reuters.com/markets/japan/OMON4HHWJNJRJGDVS5J5ZMVQDM-2026-07-03/)
 
 ○7月3日　TSMC上級副社長「半導体市場、30年に1.5兆ドル」　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE4yaVpJbVNzSDJmNkRwODM5S3RlSDhJdDBfX2tDUjkxVWI0WHhjZl82RHQ0SEhZZVZMRW9IOTFaMmNLVVhuMlhEcFVLOTQ4NjMtXzlPaE1xWlV1X0dvWUlrc1E0VVhNSFR3WlFIMA?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE4yaVpJbVNzSDJmNkRwODM5S3RlSDhJdDBfX2tDUjkxVWI0WHhjZl82RHQ0SEhZZVZMRW9IOTFaMmNLVVhuMlhEcFVLOTQ4NjMtXzlPaE1xWlV1X0dvWUlrc1E0VVhNSFR3WlFIMA?oc=5)
-
-○7月3日　米半導体大手の独禁法違反は認定せず 公取委が審査を終了　NHKニュース<br>
-　[https://news.google.com/rss/articles/CBMiX0FVX3lxTE83Y3hBdl9RckcybGUxcDk5SE45NnFKQzNxeDVWMDVLVVZ5cTltN0hNVmw3NFY4NEhUQ25QaFU3SlY4bUI3eWw4Q0h2OTVqcDFhMmY5bWRpSGZ3MDkxRTNv?oc=5](https://news.google.com/rss/articles/CBMiX0FVX3lxTE83Y3hBdl9RckcybGUxcDk5SE45NnFKQzNxeDVWMDVLVVZ5cTltN0hNVmw3NFY4NEhUQ25QaFU3SlY4bUI3eWw4Q0h2OTVqcDFhMmY5bWRpSGZ3MDkxRTNv?oc=5)
+　[https://www.nikkei.com/article/DGXZQOGM0317K0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOGM0317K0T00C26A7000000/)
 
 ○7月3日　今村証券、経済産業省の「DX認定事業者」に 推進体制を評価　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE5kaGdsSWFrR0RxMFdEb2FKamJCaHVjck92YnVVUG5ZTjlRSl9BMGt5MnlHMUdQVy1UcFloY19nUVRTLWRvU3k1NURhQ2V1d2VtSVI2U2pTSEdFVmNLdmVLNXlKbGVCcGlrUGZvWQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kaGdsSWFrR0RxMFdEb2FKamJCaHVjck92YnVVUG5ZTjlRSl9BMGt5MnlHMUdQVy1UcFloY19nUVRTLWRvU3k1NURhQ2V1d2VtSVI2U2pTSEdFVmNLdmVLNXlKbGVCcGlrUGZvWQ?oc=5)
+　[https://www.nikkei.com/article/DGXZQOCC036WL0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOCC036WL0T00C26A7000000/)
 
 ○7月4日　AI社会とは（今さら聞けない 日本政治の超基本）　朝日新聞<br>
-　[https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qanBzT2ZhZ2NDSllyNXhLUEdOZHhnRnp2RFR6c0JoN3FtWF91bHJuamtiUGFPcHBGaW1pQ3Z0Vm53dWNhemRSWFk3aTMzWVdEVnZoQTdTUXQxS2FxekgwaS15WFg5Nkk?oc=5](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qanBzT2ZhZ2NDSllyNXhLUEdOZHhnRnp2RFR6c0JoN3FtWF91bHJuamtiUGFPcHBGaW1pQ3Z0Vm53dWNhemRSWFk3aTMzWVdEVnZoQTdTUXQxS2FxekgwaS15WFg5Nkk?oc=5)
+　[https://www.asahi.com/articles/ASV5H36DCV5HDIFI014M.html](https://www.asahi.com/articles/ASV5H36DCV5HDIFI014M.html)
 
 ○7月4日　ストックフォトのPIXTA、生成AI素材と決別 リアル体験ビジネス拡大　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE9WcDlMbU5iRnpQdEw0X1owMHhoOTIyZ0t6X0FlbFZYUzd6dnRLbk5zLXY3UWo1YXFLVUxsdlV2TWhOUEpfN1hkM1diLVFRSFZseW9VU1ItMUNfeGk2LWZiQXprbVN2NFpGWng2Xw?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE9WcDlMbU5iRnpQdEw0X1owMHhoOTIyZ0t6X0FlbFZYUzd6dnRLbk5zLXY3UWo1YXFLVUxsdlV2TWhOUEpfN1hkM1diLVFRSFZseW9VU1ItMUNfeGk2LWZiQXprbVN2NFpGWng2Xw?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUC220AA0S6A620C2000000/](https://www.nikkei.com/article/DGXZQOUC220AA0S6A620C2000000/)
 
 ○7月4日　リンプレス、事業部門やDX専門部署の"DX推進リーダー向け"育成プログラム「LDP」を8月に開催【関連調査レポート＆ウェビナーアーカイブ公開中】　時事ドットコム<br>
-　[https://news.google.com/rss/articles/CBMia0FVX3lxTE51eDhzdTNLa2l5UVh5THNSd2JGNC1MeTk3cVhpMkhweHQxSHdhOUlzU21wc1lxMjhpWm96eTVoZUZDOVl5X2hQZ0J1WHhZTlNsUVN1MHB1TWtYMmMyMnZxcDdZUEttZHQ2Nm5v?oc=5](https://news.google.com/rss/articles/CBMia0FVX3lxTE51eDhzdTNLa2l5UVh5THNSd2JGNC1MeTk3cVhpMkhweHQxSHdhOUlzU21wc1lxMjhpWm96eTVoZUZDOVl5X2hQZ0J1WHhZTlNsUVN1MHB1TWtYMmMyMnZxcDdZUEttZHQ2Nm5v?oc=5)
+　[https://www.jiji.com/jc/article?k=000000107.000086655&g=prt](https://www.jiji.com/jc/article?k=000000107.000086655&g=prt)
 
 ○7月4日　AI開発者が追求する圧倒的豊かさ「アバンダンス」（佐々木明子）　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE1mMHVTYVRHbTF6NEJ0OGxOdERtWnY1QS1vc1FmWjMxaUZZR3FVSFZxZFVQQ2drZTJvbjFBV0NOOUQ0a1pKSklWR1pVSmtMREs4aWZzcDZXN0lEaXlReU14aFFFLU1sSFZUY05yNQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE1mMHVTYVRHbTF6NEJ0OGxOdERtWnY1QS1vc1FmWjMxaUZZR3FVSFZxZFVQQ2drZTJvbjFBV0NOOUQ0a1pKSklWR1pVSmtMREs4aWZzcDZXN0lEaXlReU14aFFFLU1sSFZUY05yNQ?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUB032ZC0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOUB032ZC0T00C26A7000000/)
 
 ○7月4日　今村証券、DX事業者に 経産省が認定 推進体制を評価　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGxxaWkyZEdvUE5KSllNNlJwckpXVlBlNEdaNlpiNGYwQ3JLT0l5WkM3NUg1UE1LNS1uaUh1R3pqOVlWT1JHcXRobU5tX0RHaGEydGxURC1tZlk2S1doOWpoS1FiMG1zSEJKbVV0NkpfNEt5NHc4dHVKQjVfbEtIUHJVbXNpRlNrMGxfT0RfRDdabWtmT24yWUNXbDZISm1iUGc?oc=5](https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGxxaWkyZEdvUE5KSllNNlJwckpXVlBlNEdaNlpiNGYwQ3JLT0l5WkM3NUg1UE1LNS1uaUh1R3pqOVlWT1JHcXRobU5tX0RHaGEydGxURC1tZlk2S1doOWpoS1FiMG1zSEJKbVV0NkpfNEt5NHc4dHVKQjVfbEtIUHJVbXNpRlNrMGxfT0RfRDdabWtmT24yWUNXbDZISm1iUGc?oc=5)
+　[https://www.nikkei.com/nkd/company/article/?DisplayType=2&ng=DGKKZO97344130T00C26A7LB0000&scode=7175](https://www.nikkei.com/nkd/company/article/?DisplayType=2&ng=DGKKZO97344130T00C26A7LB0000&scode=7175)
 
 ○7月4日　サカナAIの「フグ」、米モデル代替になり得るか 開発者が語る　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE1WSjhMbHZwWGU5eUxDVDdmOUJFbzFFQS1HRVhncGJocXpDWlNfM3llalVIdjQxMzVfRzVkcDFXSjRrTTM0bTBhdEt6c2xjZEpMNEd2VmxGeGpNR1Fsa0dubEFWVG1UdzhHRlRVMg?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE1WSjhMbHZwWGU5eUxDVDdmOUJFbzFFQS1HRVhncGJocXpDWlNfM3llalVIdjQxMzVfRzVkcDFXSjRrTTM0bTBhdEt6c2xjZEpMNEd2VmxGeGpNR1Fsa0dubEFWVG1UdzhHRlRVMg?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/)
+
+○7月4日　アナリスト不在、ノーマーク銘柄にAI有望株 PER100倍超株②　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB01BHA0R00C26A7000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB01BHA0R00C26A7000000)
 
 ○7月4日　メールに業務時間の3割超 AIよりシンプル思考で時短　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTE43QXhqZ283YmxIOTdRYjBPeDVkelJkOUVERTBmNUJnX0hyYkkwRDZOTlhrMnptczlCQzRNckM2ajZUMlhOLWlNZUhyWVFwS24yTGVGbDMwOURhUUdoZTVhZ1NvdzdjaXpIZUstZA?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTE43QXhqZ283YmxIOTdRYjBPeDVkelJkOUVERTBmNUJnX0hyYkkwRDZOTlhrMnptczlCQzRNckM2ajZUMlhOLWlNZUhyWVFwS24yTGVGbDMwOURhUUdoZTVhZ1NvdzdjaXpIZUstZA?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUD198300Z10C26A6000000/](https://www.nikkei.com/article/DGXZQOUD198300Z10C26A6000000/)
 
 ○7月4日　BIPROGY株軟調 システム開発にAI脅威論再び、買収負担懸念も　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMibEFVX3lxTFAyR0J6cUJGeF9Gd0lDQ0p2c09IeGgtTHd1WDhHTVNKcHBZS2ZZdnV3MzR4T3p3dU5tSzJvaGVXbS1iaTAyaFBUNU9FWFJGQzRjcnRVY1lvV2JTZy00TGJFTGhuOEVscloyZEp6MQ?oc=5](https://news.google.com/rss/articles/CBMibEFVX3lxTFAyR0J6cUJGeF9Gd0lDQ0p2c09IeGgtTHd1WDhHTVNKcHBZS2ZZdnV3MzR4T3p3dU5tSzJvaGVXbS1iaTAyaFBUNU9FWFJGQzRjcnRVY1lvV2JTZy00TGJFTGhuOEVscloyZEp6MQ?oc=5)
+　[https://www.nikkei.com/article/DGXZQOUB034RN0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOUB034RN0T00C26A7000000/)
 
 ○7月4日　ＥＵ グーグルに制裁確定 ７６００億円 ＩＴ規制後押し　読売新聞<br>
-　[https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TdWh6RG5VSVZnZDFyUjIyTFBnMFp5UW41aWJQVFMyS3ZrQmJ3MTVrY1l3b0VvMUwxUGJPcnZrZDdub1FsMHNOeHpUdENmbEdNU3BRNFZqMWxPdGFhNFF2S3lFSQ?oc=5](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TdWh6RG5VSVZnZDFyUjIyTFBnMFp5UW41aWJQVFMyS3ZrQmJ3MTVrY1l3b0VvMUwxUGJPcnZrZDdub1FsMHNOeHpUdENmbEdNU3BRNFZqMWxPdGFhNFF2S3lFSQ?oc=5)
-
-○7月4日　キオクシア 北上の新工場公開 年平均4700億円設備投資へ 次世代半導体記録媒体、出荷開始 ／岩手　毎日新聞<br>
-　[https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HQTlIdkdnODFnM0xyTUJwY2ZWMi1aZ0RNMjI3VE5WNnN5NlU1ZGZxVEZRTkJLbFhYV1ltMjFFLVl1Z1hwU0ZKNVF6VWhRZDVGN2UtRnBJRV9wUkpzTXlrM1ByaW5oMUtF?oc=5](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HQTlIdkdnODFnM0xyTUJwY2ZWMi1aZ0RNMjI3VE5WNnN5NlU1ZGZxVEZRTkJLbFhYV1ltMjFFLVl1Z1hwU0ZKNVF6VWhRZDVGN2UtRnBJRV9wUkpzTXlrM1ByaW5oMUtF?oc=5)
+　[https://www.yomiuri.co.jp/shimen/20260704-GYT9T00014/](https://www.yomiuri.co.jp/shimen/20260704-GYT9T00014/)
 
 ○7月4日　【そもそも解説】見直し相次ぐ遺言制度 デジタル活用の新方式導入へ　朝日新聞<br>
-　[https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRZWdFcmFZY2dhZ3FDc0hxVnhueU4zOHZqU3k4a0EydWpsTGx0WlJMZjVsdE1xWE1aSXQ4VlNGMnFCQ3p0WXIxVENLcU1qVlRXLWlaenBOZ3FjWG9WdHF0ZkY5dHdJYm8?oc=5](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRZWdFcmFZY2dhZ3FDc0hxVnhueU4zOHZqU3k4a0EydWpsTGx0WlJMZjVsdE1xWE1aSXQ4VlNGMnFCQ3p0WXIxVENLcU1qVlRXLWlaenBOZ3FjWG9WdHF0ZkY5dHdJYm8?oc=5)
+　[https://www.asahi.com/articles/ASV6Y4H7WV6YOIPE001M.html](https://www.asahi.com/articles/ASV6Y4H7WV6YOIPE001M.html)
 
 ○7月4日　AI半導体まとめ読み 「入門」LIVEの予習・復習に14本　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHlBeUpjQVpTM0lMVnM3U2JnZGhnUUhrVlpKcXNzT1gxeGdzZVB0Tk96MEtMR2FaQjRNQ21MR015MnlGWGxNc3ZfWThGNXE0bnJfYk44LWN2cUxHaDJvRTZFeS1WbEEteGxLMFZlTWxPTmpXY2JVNHFjcGtoVlQ3aDVWdkRvSUhreUxQRTJkWDFPeDBmbk1JY0ViTXVUcFZ2SjlwekxNYUxVMVlp?oc=5](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOHlBeUpjQVpTM0lMVnM3U2JnZGhnUUhrVlpKcXNzT1gxeGdzZVB0Tk96MEtMR2FaQjRNQ21MR015MnlGWGxNc3ZfWThGNXE0bnJfYk44LWN2cUxHaDJvRTZFeS1WbEEteGxLMFZlTWxPTmpXY2JVNHFjcGtoVlQ3aDVWdkRvSUhreUxQRTJkWDFPeDBmbk1JY0ViTXVUcFZ2SjlwekxNYUxVMVlp?oc=5)
-
-○7月4日　AIでカレービジネスは加速する！AI活用の差がビジネス成果を左右する＜【カレー大学院AI×カレー×ビジネス総合コース】AIを使わないのは「徒歩で新幹線を追いかける」のと同じ＞動画公開キャンペーン　産経ニュース<br>
-　[https://news.google.com/rss/articles/CBMie0FVX3lxTFBiM21ZV0tLWWhqY1EtZi0zclh0c2FuMnZFUVpoNFJHeU54NXJ6dUlWaG5QVlN4SVJwbXllTXhVOGhTU25JbjdlalNELXNrOFk2LXVrWDRIREdDNlRIc05NV0xNYVBGbGFnTFowV3p4YXpOREJFTVlEZ1EyUQ?oc=5](https://news.google.com/rss/articles/CBMie0FVX3lxTFBiM21ZV0tLWWhqY1EtZi0zclh0c2FuMnZFUVpoNFJHeU54NXJ6dUlWaG5QVlN4SVJwbXllTXhVOGhTU25JbjdlalNELXNrOFk2LXVrWDRIREdDNlRIc05NV0xNYVBGbGFnTFowV3p4YXpOREJFTVlEZ1EyUQ?oc=5)
+　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC021BQ0S6A700C2000000?n_cid=DSPRM1OTR01_NKD_Prime](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC021BQ0S6A700C2000000?n_cid=DSPRM1OTR01_NKD_Prime)
 
 ○7月4日　ことでん、QRコードのデジタル切符導入へ アプリは不要 香川 [香川県]　朝日新聞<br>
-　[https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QUHlWNUJUbnhRQkNCN1hNSWNlZVU5WWRNR1lBZjQyS3NvcEk2WkVNS1dhQVpXak41MjNVX2FGV21pYkR6NzdfcmY3SWctQU9ZUTZ3dGc0NlMxUnNHdDlGc3hNQllNZEU?oc=5](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QUHlWNUJUbnhRQkNCN1hNSWNlZVU5WWRNR1lBZjQyS3NvcEk2WkVNS1dhQVpXak41MjNVX2FGV21pYkR6NzdfcmY3SWctQU9ZUTZ3dGc0NlMxUnNHdDlGc3hNQllNZEU?oc=5)
+　[https://www.asahi.com/articles/ASV7341FHV73PLXB00LM.html](https://www.asahi.com/articles/ASV7341FHV73PLXB00LM.html)
 
 ○7月4日　フィジカルAI 製造業の人手不足で注目 さまざまなロボットが登場 | NHK　NHKニュース<br>
-　[https://news.google.com/rss/articles/CBMiX0FVX3lxTE91RFVkZ2pLTUZEVkxiOTNHUHFlalVzSjlhZ21jbGhFWW1RQTBxX1dNWVJlVUpnUFhxMkZuV3BKc0RqQXl6RHQ0di1ZY1RHTUY0cmJtRGVacEY5Tm5fdUow?oc=5](https://news.google.com/rss/articles/CBMiX0FVX3lxTE91RFVkZ2pLTUZEVkxiOTNHUHFlalVzSjlhZ21jbGhFWW1RQTBxX1dNWVJlVUpnUFhxMkZuV3BKc0RqQXl6RHQ0di1ZY1RHTUY0cmJtRGVacEY5Tm5fdUow?oc=5)
+　[https://news.web.nhk/shutoken/articles/101/032/95/](https://news.web.nhk/shutoken/articles/101/032/95/)
 
 ○7月4日　「データセンター」関東・関西に９割集中するが九州にも優位性あり…北九州市、先手を打って「誘致戦略」　読売新聞<br>
-　[https://news.google.com/rss/articles/CBMickFVX3lxTFBUdFdDakh0OFZqSTBVTHZrMzRMekozM01PWFJDS1FUOWdxWGlrTjVwU1lwVE9NUUZxVnVMWEVnOXp0cmJHeUh5VjczU2JtWFZPN3ZhMU5WZ0poTk1SSFJDOExoM2UxTzNDX2NJZ2YtemNmQQ?oc=5](https://news.google.com/rss/articles/CBMickFVX3lxTFBUdFdDakh0OFZqSTBVTHZrMzRMekozM01PWFJDS1FUOWdxWGlrTjVwU1lwVE9NUUZxVnVMWEVnOXp0cmJHeUh5VjczU2JtWFZPN3ZhMU5WZ0poTk1SSFJDOExoM2UxTzNDX2NJZ2YtemNmQQ?oc=5)
+　[https://www.yomiuri.co.jp/local/kyushu/news/20260626-GYS1T00126/](https://www.yomiuri.co.jp/local/kyushu/news/20260626-GYS1T00126/)
 
 ○7月4日　キオクシア、岩手に新工場 AI普及で半導体需要増に対応　毎日新聞<br>
-　[https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCRUhrSFk2X2ZkQUltZEszTEt2ZnNfb21JaGZUUWlLYktlYnlRTzAtNmd3bkkwd2NGZFhWZTdMQ1ZTNkpSbFQ3alNlVWdiRTI4MXRwSVkwVTV6U2U2ZnNaTW5CbEdudTQ5?oc=5](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCRUhrSFk2X2ZkQUltZEszTEt2ZnNfb21JaGZUUWlLYktlYnlRTzAtNmd3bkkwd2NGZFhWZTdMQ1ZTNkpSbFQ3alNlVWdiRTI4MXRwSVkwVTV6U2U2ZnNaTW5CbEdudTQ5?oc=5)
+　[https://mainichi.jp/articles/20260703/k00/00m/020/373000c](https://mainichi.jp/articles/20260703/k00/00m/020/373000c)
 
 ○7月4日　鹿島・桐生新社長 AIに注力しつつ「最後は人」 人手不足どう対応　朝日新聞<br>
-　[https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xMTB0N0VpX0pnenIzajdwWGh0Uk1PR19sOGplUW5LaURINlZnU1lVdWdoY3pZN1pBOTlJbXlPS1UwcVBVbW9EYkVnM1hLWFR5NFZ0OGJzbUU1VVljU2p2UzFuVGZ2Wms?oc=5](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xMTB0N0VpX0pnenIzajdwWGh0Uk1PR19sOGplUW5LaURINlZnU1lVdWdoY3pZN1pBOTlJbXlPS1UwcVBVbW9EYkVnM1hLWFR5NFZ0OGJzbUU1VVljU2p2UzFuVGZ2Wms?oc=5)
+　[https://www.asahi.com/articles/ASV722BYHV72ULFA00ZM.html](https://www.asahi.com/articles/ASV722BYHV72ULFA00ZM.html)
 
 ○7月4日　企業のAI実装一括支援 リコー、新会社設立　日本経済新聞<br>
-　[https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGp4RGZzT21jVjIwSGc2SkVZaXZzbERYU0xWaUFTeTVxUEZTV3RTY3IyaGdsZ2NfNG5TeG0xYjQxeFRFZFlUSU5FN1lEVV80U1ZsSG1WYkkzSHV2RF9qVzN0dnAxeXZYQzNWdWtLVDE5OHlaOXRxMU5HaHlPbHZHcUZudWpNcE9Bem5CclJWR0pfVXo0emN6RURHSTduaUtJdWU4N0VR?oc=5](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGp4RGZzT21jVjIwSGc2SkVZaXZzbERYU0xWaUFTeTVxUEZTV3RTY3IyaGdsZ2NfNG5TeG0xYjQxeFRFZFlUSU5FN1lEVV80U1ZsSG1WYkkzSHV2RF9qVzN0dnAxeXZYQzNWdWtLVDE5OHlaOXRxMU5HaHlPbHZHcUZudWpNcE9Bem5CclJWR0pfVXo0emN6RURHSTduaUtJdWU4N0VR?oc=5)
+　[https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=034&ng=DGKKZO97353750U6A700C2BZ0000](https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=034&ng=DGKKZO97353750U6A700C2BZ0000)
 
 ○7月4日　Apple Books「今年ここまでのベスト」に選出！統合失調症の家族をめぐる衝撃のノンフィクション『どうすればよかったか？』が2万部突破　時事ドットコム<br>
-　[https://news.google.com/rss/articles/CBMia0FVX3lxTFB2b0dCWnFWbGRJNXR3OXZkZlZjZU00RXowRWc4cFFNcHVuSmJEaXRkQVp4M0pVUG45b0NZbk5ocFdKU210TjFQSmR5SW9RdWNqOWIwM1NwVzI3M2VMT0R3anZKYVVGZGp2QkRZ?oc=5](https://news.google.com/rss/articles/CBMia0FVX3lxTFB2b0dCWnFWbGRJNXR3OXZkZlZjZU00RXowRWc4cFFNcHVuSmJEaXRkQVp4M0pVUG45b0NZbk5ocFdKU210TjFQSmR5SW9RdWNqOWIwM1NwVzI3M2VMT0R3anZKYVVGZGp2QkRZ?oc=5)
+　[https://www.jiji.com/jc/article?k=000001024.000043732&g=prt](https://www.jiji.com/jc/article?k=000001024.000043732&g=prt)
+

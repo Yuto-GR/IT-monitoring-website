@@ -1982,7 +1982,7 @@ import re, sys, html, time, hashlib, requests, xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse
 
 # ───────── 検索キーワード ──────────────────────────────────
 KEYWORDS = [
@@ -2033,6 +2033,7 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
 JST = timezone(timedelta(hours=9))
 SINCE_DAYS = 4
 RSS_URL = "https://news.google.com/rss/search?hl=ja&gl=JP&ceid=JP:ja&q={}%20when:4d"
+GOOGLE_NEWS_DECODE_URL = "https://news.google.com/_/DotsSplashUi/data/batchexecute"
 
 
 def strip_html(raw: str) -> str:
@@ -2046,6 +2047,77 @@ def contains_exclude_keywords(text: str) -> bool:
         if exclude_kw.lower() in low_text:
             return True
     return False
+
+
+def resolve_google_news_url(url: str) -> str:
+    """Google News の中継URLを記事配信元のURLに変換する。"""
+    parsed = urlparse(url)
+    path_parts = [part for part in parsed.path.split("/") if part]
+    if (
+        parsed.hostname != "news.google.com"
+        or len(path_parts) < 2
+        or path_parts[-2] not in {"articles", "read"}
+    ):
+        return url
+
+    article_id = path_parts[-1]
+    headers = {"User-Agent": UA}
+
+    try:
+        # 記事ごとの署名とタイムスタンプをGoogle Newsのページから取得する。
+        page = requests.get(url, headers=headers, timeout=30)
+        page.raise_for_status()
+        soup = BeautifulSoup(page.text, "html.parser")
+        params = soup.find(attrs={"data-n-a-id": article_id})
+        if params is None:
+            params = soup.find(attrs={"data-n-a-sg": True, "data-n-a-ts": True})
+        if params is None:
+            return url
+
+        signature = params.get("data-n-a-sg")
+        timestamp = params.get("data-n-a-ts")
+        if not signature or not timestamp:
+            return url
+
+        context = [
+            [
+                "X", "X", ["X", "X"], None, None, 1, 1, "US:en",
+                None, 1, None, None, None, None, None, 0, 1,
+            ],
+            "X", "X", 1, [1, 1, 1], 1, 1, None, 0, 0, None, 0,
+        ]
+        decode_request = [
+            "garturlreq", context, article_id, int(timestamp), signature,
+        ]
+        payload = [[[
+            "Fbv4je",
+            json.dumps(decode_request, separators=(",", ":")),
+        ]]]
+
+        response = requests.post(
+            GOOGLE_NEWS_DECODE_URL,
+            headers=headers,
+            data={"f.req": json.dumps(payload, separators=(",", ":"))},
+            timeout=30,
+        )
+        response.raise_for_status()
+
+        # 応答先頭のXSSI対策行を飛ばし、配信元URLを取り出す。
+        response_data = next(
+            json.loads(line)
+            for line in response.text.splitlines()
+            if line.lstrip().startswith("[[")
+        )
+        decoded_data = json.loads(response_data[0][2])
+        resolved_url = decoded_data[1]
+        resolved = urlparse(resolved_url)
+        if resolved.scheme in {"http", "https"} and resolved.hostname:
+            return resolved_url
+    except (requests.RequestException, ValueError, TypeError, IndexError, StopIteration):
+        pass
+
+    # 一時的な通信障害やGoogle側の仕様変更時は、リンク切れを避ける。
+    return url
 
 
 def fetch_hits(keyword: str):
@@ -2132,6 +2204,9 @@ def main():
         time.sleep(0.6)
 
     news.sort(key=lambda x: x["dt"])
+
+    for item in news:
+        item["url"] = resolve_google_news_url(item["url"])
 
     print("【ニュース】<br>")
     if not news:

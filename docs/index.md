@@ -1,4 +1,4 @@
-更新日時：2026年7月5日 11:06（JST）
+更新日時：2026年7月5日 18:42（JST）
 
 【松本尚デジタル大臣】<br>
 ○7月3日の大臣記者会見（6分7秒）<br>
@@ -171,15 +171,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○7月1日　米送電網運営ＰＪＭ、データセンターの需要管理に向け計画推進　Reuters<br>
-　[https://jp.reuters.com/markets/oil/73YHT7EXLFNFDJ5KWA6LCZLTPY-2026-07-01/](https://jp.reuters.com/markets/oil/73YHT7EXLFNFDJ5KWA6LCZLTPY-2026-07-01/)
-
-○7月1日　サイバーセキュリティクラウド[4493]：自己株式の取得状況に関するお知らせ （会社法第459条第1項の規定による定款の定めに基づく自己株式の取得） 2026年7月1日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20260701586214/](https://www.nikkei.com/nkd/disclosure/tdnr/20260701586214/)
-
-○7月1日　高市首相 インドに向け出発 経済安全保障など協力進展目指す　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/na-k10015166051000](https://news.web.nhk/newsweb/na/na-k10015166051000)
-
 ○7月2日　スウェーデン裁判所、Googleに2400億円支払い命令 自社サイト優遇　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGR01C860R00C26A7000000/](https://www.nikkei.com/article/DGXZQOGR01C860R00C26A7000000/)
 
@@ -192,6 +183,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月2日　米メタ、余剰ＡＩ計算能力販売へクラウド事業構築を計画＝報道　Reuters<br>
 　[https://jp.reuters.com/markets/japan/5VGNRR6RJBN3XNMYU3XVXVFCVI-2026-07-01/](https://jp.reuters.com/markets/japan/5VGNRR6RJBN3XNMYU3XVXVFCVI-2026-07-01/)
 
+○7月2日　サイバーセキュリティクラウドグループ、新たに4名がAWS表彰・認定を獲得。AWS Hero・Community BuilderなどAWS認定・表彰者は計7名に　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000355.000009107&g=prt](https://www.jiji.com/jc/article?k=000000355.000009107&g=prt)
+
 ○7月2日　米メタ、クラウド事業参入計画か ＡＩ計算能力貸し出す―報道　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026070200315&g=int](https://www.jiji.com/jc/article?k=2026070200315&g=int)
 
@@ -201,14 +195,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月2日　午前の日経平均は反落、半導体株安が押し下げ ＴＯＰＩＸは底堅い　Reuters<br>
 　[https://jp.reuters.com/markets/japan/7DLT6BOJUVPRHL7NBEKKQZPQ7Q-2026-07-02/](https://jp.reuters.com/markets/japan/7DLT6BOJUVPRHL7NBEKKQZPQ7Q-2026-07-02/)
 
+○7月2日　貿易取引・企業所有リスク検知支援のSAYARI マツダのグローバルサプライチェーンリスク管理体制強化を支援　朝日新聞<br>
+　[https://www.asahi.com/and/pressrelease/16694526](https://www.asahi.com/and/pressrelease/16694526)
+
 ○7月2日　ＥＵ半導体産業、「暗い未来」に直面 米中リスクで＝報告書　Reuters<br>
 　[https://jp.reuters.com/markets/global-markets/DZO3EABFOZLRFCEEEALEH53YPM-2026-07-02/](https://jp.reuters.com/markets/global-markets/DZO3EABFOZLRFCEEEALEH53YPM-2026-07-02/)
 
 ○7月2日　グーグル、対アフリカ投資が10億ドルの目標を突破　Reuters<br>
 　[https://jp.reuters.com/markets/global-markets/XTZMTY6ANJJS5NT5MX7XMTIKHU-2026-07-02/](https://jp.reuters.com/markets/global-markets/XTZMTY6ANJJS5NT5MX7XMTIKHU-2026-07-02/)
-
-○7月2日　データセンター運用移管 SCSK、子会社に10月　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=146&ng=DGKKZO97297140S6A700C2BZ0000](https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=146&ng=DGKKZO97297140S6A700C2BZ0000)
 
 ○7月2日　【7月23日開催】国内最大級・法人向けWeb3ビジネスコミュニティ「N.Avenue club」ラウンドテーブルのゲスト参加枠募集　朝日新聞<br>
 　[https://www.asahi.com/and/pressrelease/16695247](https://www.asahi.com/and/pressrelease/16695247)
@@ -267,9 +261,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月3日　TSMCが斬新な冷却、AI半導体表面に「水路」 量産へ前進　日本経済新聞<br>
 　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC020460S6A700C2000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC020460S6A700C2000000)
 
-○7月3日　日本化薬、自動車安全装置の世界首位 半導体材料でも存在感　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOUC294ZC0Z20C26A6000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUC294ZC0Z20C26A6000000)
-
 ○7月3日　NYダウ反発594ドル高、最高値更新 半導体安でナスダック総合は続落　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFL02CU60S6A700C2000000/](https://www.nikkei.com/article/DGXZQOFL02CU60S6A700C2000000/)
 
@@ -315,6 +306,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月4日　サカナAIの「フグ」、米モデル代替になり得るか 開発者が語る　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/)
 
+○7月4日　ＥＵ グーグルに制裁確定 ７６００億円 ＩＴ規制後押し　読売新聞<br>
+　[https://www.yomiuri.co.jp/shimen/20260704-GYT9T00014/](https://www.yomiuri.co.jp/shimen/20260704-GYT9T00014/)
+
 ○7月4日　【そもそも解説】見直し相次ぐ遺言制度 デジタル活用の新方式導入へ　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV6Y4H7WV6YOIPE001M.html](https://www.asahi.com/articles/ASV6Y4H7WV6YOIPE001M.html)
 
@@ -330,26 +324,17 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月4日　キオクシア、岩手に新工場 AI普及で半導体需要増に対応　毎日新聞<br>
 　[https://mainichi.jp/articles/20260703/k00/00m/020/373000c](https://mainichi.jp/articles/20260703/k00/00m/020/373000c)
 
-○7月4日　鹿島・桐生新社長 AIに注力しつつ「最後は人」 人手不足どう対応　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV722BYHV72ULFA00ZM.html](https://www.asahi.com/articles/ASV722BYHV72ULFA00ZM.html)
-
-○7月4日　『子育てDX』の「乳幼児健診サービス」を広島県広島市が導入！　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000549.000099909&g=prt](https://www.jiji.com/jc/article?k=000000549.000099909&g=prt)
-
-○7月4日　半導体安定供給「極めて重要」 マイクロン広島工場で赤沢経産相　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026070400340&g=eco&p=20260704at35S&rel=pv](https://www.jiji.com/jc/article?k=2026070400340&g=eco&p=20260704at35S&rel=pv)
+○7月4日　【GeminiでGoogle ビジネスプロフィールの管理が可能に 他】Google マップ・Google ビジネスプロフィールのアップデート情報（2026年6月版）を無料公開　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000582.000037205&g=prt](https://www.jiji.com/jc/article?k=000000582.000037205&g=prt)
 
 ○7月4日　マイクロン 広島で工場拡張の起工式 生成AIなどの半導体量産へ　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/na-k10015168891000](https://news.web.nhk/newsweb/na/na-k10015168891000)
 
-○7月4日　【社説】先端AIのルールづくりへ連帯を 突然の運用停止を考える [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7330SGV73USPT00DM.html](https://www.asahi.com/articles/ASV7330SGV73USPT00DM.html)
-
-○7月4日　【社説】先端AIのルールづくりへ連帯を 突然の運用停止を考える　朝日新聞<br>
-　[https://www.asahi.com/sp/articles/photo/AS20260703003607.html](https://www.asahi.com/sp/articles/photo/AS20260703003607.html)
-
 ○7月4日　マイクロン・テクノロジー、広島工場拡張に着工 AI向けメモリー半導体の製造能力を強化　産経ニュース<br>
 　[https://www.sankei.com/article/20260704-NHSKXLXBXBNIZKPIL7JUT6LRB4/](https://www.sankei.com/article/20260704-NHSKXLXBXBNIZKPIL7JUT6LRB4/)
+
+○7月5日　みどりの窓口で発券めざしAI対話、大宮駅と立川駅で JR東日本が実証　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC091W10Z00C26A6000000/](https://www.nikkei.com/article/DGXZQOUC091W10Z00C26A6000000/)
 
 ○7月5日　社説：海図なき世界 脅威高まるAI 暴走させぬ知恵集める時　毎日新聞<br>
 　[https://mainichi.jp/articles/20260705/ddm/005/070/104000c](https://mainichi.jp/articles/20260705/ddm/005/070/104000c)
@@ -360,14 +345,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月5日　（フロントライン 世界）米の巨大データセンター 干上がるソルトレーク、建設計画に揺れる街　朝日新聞<br>
 　[https://www.asahi.com/articles/DA3S16496640.html](https://www.asahi.com/articles/DA3S16496640.html)
 
+○7月5日　AIはブラックスワンの夢を見るか 投資判断で重み増す人間　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQODK034NI0T00C26A7000000/](https://www.nikkei.com/article/DGXZQODK034NI0T00C26A7000000/)
+
 ○7月5日　模倣するAIの脅威 声優の津田健次郎氏「TikTok提訴」が問うもの　毎日新聞<br>
 　[https://mainichi.jp/premier/business/articles/20260702/biz/00m/020/006000c](https://mainichi.jp/premier/business/articles/20260702/biz/00m/020/006000c)
 
 ○7月5日　東京の花農家が描く農業の未来 「AI搭載の二足歩行ロボットが育苗」　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCD028T10S6A700C2000000/](https://www.nikkei.com/article/DGXZQOCD028T10S6A700C2000000/)
-
-○7月5日　AIはブラックスワンの夢を見るか 投資判断で重み増す人間　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQODK034NI0T00C26A7000000/](https://www.nikkei.com/article/DGXZQODK034NI0T00C26A7000000/)
 
 ○7月5日　日本に「チップ文化」があった？ “デジタル心付け”を導入した宿も　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV6Y2494V6YUCVL00VM.html](https://www.asahi.com/articles/ASV6Y2494V6YUCVL00VM.html)
@@ -381,9 +366,15 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月5日　病歴や犯歴も同意なく提供 個人情報保護法の改正案、弁護士語る課題　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV723G99V72ULZU00CM.html](https://www.asahi.com/articles/ASV723G99V72ULZU00CM.html)
 
+○7月5日　会社員の8割弱が、今後のDX投資や業務改善において「社外とのファイル共有プロセス全体」の自動化・システム化を進める必要性を感じている！　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000055.000050710&g=prt](https://www.jiji.com/jc/article?k=000000055.000050710&g=prt)
+
 ○7月5日　JASM、中学生にプログラミング体験 半導体人材育成へ出前授業　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/00785790?gnr_footer=0087790](https://www.nikkan.co.jp/articles/view/00785790?gnr_footer=0087790)
 
 ○7月5日　AIのサイバー攻撃、政府が自治体に対策要請へ 脆弱性を総点検　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUA02AAA0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOUA02AAA0S6A700C2000000/)
+
+○7月5日　人の心を読めるAI開発へ 国が脳科学に本腰、安全保障・倫理に課題 [AIの時代]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV733CPRV73UTFL00HM.html](https://www.asahi.com/articles/ASV733CPRV73UTFL00HM.html)
 

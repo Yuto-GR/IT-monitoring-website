@@ -1,16 +1,10 @@
-更新日時：2026年7月4日 16:58（JST）
+更新日時：2026年7月5日 11:06（JST）
 
 【松本尚デジタル大臣】<br>
 ○7月3日の大臣記者会見（6分7秒）<br>
 　[https://www.digital.go.jp/speech/minister-260703-01](https://www.digital.go.jp/speech/minister-260703-01)
 
-○6月30日の大臣記者会見（18分41秒）<br>
-　[https://www.digital.go.jp/speech/minister-260630-01](https://www.digital.go.jp/speech/minister-260630-01)
-
 【自由民主党】<br>
-○6月30日　政調、終末期医療に関する検討プロジェクトチーム
-　有識者ヒアリング ・渥美　生弘　浜松医科大学救急災害医学講座教授
-
 ○7月1日　政調、厚生労働部会
 　１．経済財政運営と改革の基本方針２０２６（案）について ２．日本成長戦略（案）について ３．規制改革実施計画（案）について
 
@@ -105,11 +99,6 @@
 
 ○7月9日　政調、情報通信戦略調査会
 　放送事業者におけるガバナンス確保に関するフォローアップ
-[WARN] 経済産業省ニュースリリースを取得できませんでした。
-[WARN] 取得先URLとエラーを確認するには IT_MONITORING_DEBUG=1 で再実行してください。
-[WARN] failed to fetch https://www.meti.go.jp/press/archive_202607.html: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
-[WARN] failed to fetch https://www.meti.go.jp/press/archive_202606.html: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
-[WARN] failed to fetch https://www.meti.go.jp/press/: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
 
 ○7月10日　政調、地方行政調査会
 　人口減少時代の地方自治の枠組みについて （講師）砂原　庸介 神戸大学大学院法学研究科教授
@@ -117,7 +106,12 @@
 【デジタル庁】<br>
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
-【総務省】<br>
+【総務省】<br>[WARN] 経済産業省ニュースリリースを取得できませんでした。
+[WARN] 取得先URLとエラーを確認するには IT_MONITORING_DEBUG=1 で再実行してください。
+[WARN] failed to fetch https://www.meti.go.jp/press/archive_202607.html: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
+[WARN] failed to fetch https://www.meti.go.jp/press/archive_202606.html: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
+[WARN] failed to fetch https://www.meti.go.jp/press/: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
+
 ○7月3日　令和7年度補正予算「地域社会DX推進パッケージ事業」　―『実証事業（先進的通信システム活用タイプ）』二次公募の選定結果―<br>
 　[https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000483.html](https://www.soumu.go.jp/menu_news/s-news/01ryutsu06_02000483.html)
 
@@ -141,12 +135,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○7月9日　情報通信審議会　情報通信技術分科会　陸上無線通信委員会（第102回）<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban14_04001342.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban14_04001342.html)
-
-○6月30日　情報通信審議会 情報通信技術分科会 IPネットワーク設備委員会（第94回）<br>
-　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/ipnet/02kiban05_04000790.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/ipnet/02kiban05_04000790.html)
-
-○6月30日　情報通信審議会　電気通信事業政策部会（第91回）配布資料・議事概要・議事録<br>
-　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denki_seisaku/02tsushin10_04000725.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denki_seisaku/02tsushin10_04000725.html)
 
 ○7月6日　デジタル空間における情報流通の諸課題への対処に関する検討会（第12回） 開催案内<br>
 　[https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000583.html](https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000583.html)
@@ -174,30 +162,15 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【国家サイバー統括室・NCO】<br>
-6月30日〜7月4日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+7月1日〜7月5日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【金融庁】<br>
-6月30日〜7月4日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+7月1日〜7月5日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【公正取引委員会】<br>
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○6月30日　アップル・グーグルのアプリストア決済規則緩和案、手数料引き下げへ英競争当局　Reuters<br>
-　[https://jp.reuters.com/markets/global-markets/6LK4S7LWIROATPPGGA4QSFUYTY-2026-06-30/](https://jp.reuters.com/markets/global-markets/6LK4S7LWIROATPPGGA4QSFUYTY-2026-06-30/)
-
-○6月30日　データセンターの工期を半分に NTT系と日鉄系が「モジュール型」開発　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC307EL0Q6A630C2000000/](https://www.nikkei.com/article/DGXZQOUC307EL0Q6A630C2000000/)
-
-○7月1日　ドコモビジネス、首都圏にコンテナ型AIデータセンター 28年度まで整備　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC198WG0Z10C26A6000000/](https://www.nikkei.com/article/DGXZQOUC198WG0Z10C26A6000000/)
-
-○7月1日　Web3×地方創生専門メディア「WEB3地方創生ねっと」、掲載事例が500件を突破　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000034.000111738&g=prt](https://www.jiji.com/jc/article?k=000000034.000111738&g=prt)
-
-○7月1日　日米共同訓練の終了式、陸自西部方面総監「日米間で相互運用性と共同対処能力の向上を図ることができた」　読売新聞<br>
-　[https://www.yomiuri.co.jp/local/kyushu/news/20260701-GYS1T00022/](https://www.yomiuri.co.jp/local/kyushu/news/20260701-GYS1T00022/)
-
 ○7月1日　米送電網運営ＰＪＭ、データセンターの需要管理に向け計画推進　Reuters<br>
 　[https://jp.reuters.com/markets/oil/73YHT7EXLFNFDJ5KWA6LCZLTPY-2026-07-01/](https://jp.reuters.com/markets/oil/73YHT7EXLFNFDJ5KWA6LCZLTPY-2026-07-01/)
 
@@ -237,8 +210,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月2日　データセンター運用移管 SCSK、子会社に10月　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=146&ng=DGKKZO97297140S6A700C2BZ0000](https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=146&ng=DGKKZO97297140S6A700C2BZ0000)
 
+○7月2日　【7月23日開催】国内最大級・法人向けWeb3ビジネスコミュニティ「N.Avenue club」ラウンドテーブルのゲスト参加枠募集　朝日新聞<br>
+　[https://www.asahi.com/and/pressrelease/16695247](https://www.asahi.com/and/pressrelease/16695247)
+
 ○7月2日　クオンタムソリューションズ[2338]：ＡＩインフラストラクチャ（ＡＩＤＣ）事業におけるデータセンター容量確保に向けた保証金初回支払い完了に関するお知らせ 2026年7月2日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g0bbjv&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260702587003/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g0bbjv&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260702587003/)
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20260702587003/](https://www.nikkei.com/nkd/disclosure/tdnr/20260702587003/)
 
 ○7月2日　キオクシア株価が13%安 米半導体株急落で連想売り（2日の株式市場）　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUB024FR0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOUB024FR0S6A700C2000000/)
@@ -267,14 +243,17 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月2日　ＥＵ最高裁、グーグルへの制裁金支持 競争法違反で７６００億円　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026070201106&g=int](https://www.jiji.com/jc/article?k=2026070201106&g=int)
 
+○7月2日　ＥＵ最高裁、グーグルへの制裁金支持 競争法違反で７６００億円　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=2026070201106&g=int&p=20260702ds72&rel=pv](https://www.jiji.com/jc/article?k=2026070201106&g=int&p=20260702ds72&rel=pv)
+
+○7月2日　日印首脳、経済安全保障分野での連携強化で一致…高市首相、共同記者発表で意義強調　読売新聞<br>
+　[https://www.yomiuri.co.jp/stream/article/27599/](https://www.yomiuri.co.jp/stream/article/27599/)
+
 ○7月2日　ヨーロッパ司法裁判所 グーグルへの巨額制裁金を支持する判決　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/na-k10015167471000](https://news.web.nhk/newsweb/na/na-k10015167471000)
 
 ○7月3日　EU最高裁、グーグルへの7600億円制裁金を支持 競争法違反　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV724WTGV72ULFA01KM.html](https://www.asahi.com/articles/ASV724WTGV72ULFA01KM.html)
-
-○7月3日　半導体装置販売額26%増 今年度見通し1兆円上振れ メモリー大手、生産増強で　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGKKZO97321330S6A700C2TB1000&scode=285A&ba=1](https://www.nikkei.com/nkd/company/article/?DisplayType=1&ng=DGKKZO97321330S6A700C2TB1000&scode=285A&ba=1)
 
 ○7月3日　アップル、折り畳み型含む5機種 iPhone 来年前半までに　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/company/us/AAPL/news/?DisplayType=1&ng=DGKKZO9732127002072026TB1000](https://www.nikkei.com/nkd/company/us/AAPL/news/?DisplayType=1&ng=DGKKZO9732127002072026TB1000)
@@ -298,10 +277,7 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　[https://www.nikkei.com/article/DGXZQOGN02CNJ0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOGN02CNJ0S6A700C2000000/)
 
 ○7月3日　Google、EU独禁訴訟で7600億円制裁金確定 自社サービス優遇に制限　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN02CXO0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOGN02CXO0S6A700C2000000/)
-
-○7月3日　米国個別株騰落（2日） アップル4.8%高 リヴィアン8.4%高 ロビンフッド3.7%高　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOFL02CJ70S6A700C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOFL02CJ70S6A700C2000000)
+　[https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=146&ng=DGXZQOGN02CXO0S6A700C2000000](https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=146&ng=DGXZQOGN02CXO0S6A700C2000000)
 
 ○7月3日　今日の株式見通し＝続落へ、半導体株安継続 循環物色でＴＯＰＩＸ優位　Reuters<br>
 　[https://jp.reuters.com/markets/japan/PJCJ22ORJNINRIFO6CCUICH5RE-2026-07-02/](https://jp.reuters.com/markets/japan/PJCJ22ORJNINRIFO6CCUICH5RE-2026-07-02/)
@@ -311,9 +287,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○7月3日　日経平均は続落で寄り付く、米半導体株安の流れ引き継ぎ　Reuters<br>
 　[https://jp.reuters.com/markets/japan/2CGZFX6XJBOEJFM4IHIL7DQB6U-2026-07-03/](https://jp.reuters.com/markets/japan/2CGZFX6XJBOEJFM4IHIL7DQB6U-2026-07-03/)
-
-○7月3日　クラウド型ワークフロー「X-point Cloud」が『ITreview The Best Software in Japan 2026』にて初のTOP100選出　朝日新聞<br>
-　[https://www.asahi.com/and/pressrelease/16593038](https://www.asahi.com/and/pressrelease/16593038)
 
 ○7月3日　今年度の半導体装置販売26％増 DRAM投資大幅増 SEAJ予測　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/00785858](https://www.nikkan.co.jp/articles/view/00785858)
@@ -336,47 +309,20 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月3日　今村証券、経済産業省の「DX認定事業者」に 推進体制を評価　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCC036WL0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOCC036WL0T00C26A7000000/)
 
-○7月4日　AI社会とは（今さら聞けない 日本政治の超基本）　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV5H36DCV5HDIFI014M.html](https://www.asahi.com/articles/ASV5H36DCV5HDIFI014M.html)
-
-○7月4日　ストックフォトのPIXTA、生成AI素材と決別 リアル体験ビジネス拡大　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC220AA0S6A620C2000000/](https://www.nikkei.com/article/DGXZQOUC220AA0S6A620C2000000/)
-
-○7月4日　リンプレス、事業部門やDX専門部署の"DX推進リーダー向け"育成プログラム「LDP」を8月に開催【関連調査レポート＆ウェビナーアーカイブ公開中】　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000107.000086655&g=prt](https://www.jiji.com/jc/article?k=000000107.000086655&g=prt)
-
-○7月4日　AI開発者が追求する圧倒的豊かさ「アバンダンス」（佐々木明子）　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUB032ZC0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOUB032ZC0T00C26A7000000/)
-
 ○7月4日　今村証券、DX事業者に 経産省が認定 推進体制を評価　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/company/article/?DisplayType=2&ng=DGKKZO97344130T00C26A7LB0000&scode=7175](https://www.nikkei.com/nkd/company/article/?DisplayType=2&ng=DGKKZO97344130T00C26A7LB0000&scode=7175)
+　[https://www.nikkei.com/nkd/company/article/?DisplayType=2&ng=DGKKZO97344130T00C26A7LB0000&scode=7175&ba=1](https://www.nikkei.com/nkd/company/article/?DisplayType=2&ng=DGKKZO97344130T00C26A7LB0000&scode=7175&ba=1)
 
 ○7月4日　サカナAIの「フグ」、米モデル代替になり得るか 開発者が語る　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOUC031KK0T00C26A7000000/)
-
-○7月4日　アナリスト不在、ノーマーク銘柄にAI有望株 PER100倍超株②　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB01BHA0R00C26A7000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB01BHA0R00C26A7000000)
-
-○7月4日　メールに業務時間の3割超 AIよりシンプル思考で時短　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUD198300Z10C26A6000000/](https://www.nikkei.com/article/DGXZQOUD198300Z10C26A6000000/)
-
-○7月4日　BIPROGY株軟調 システム開発にAI脅威論再び、買収負担懸念も　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUB034RN0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOUB034RN0T00C26A7000000/)
-
-○7月4日　ＥＵ グーグルに制裁確定 ７６００億円 ＩＴ規制後押し　読売新聞<br>
-　[https://www.yomiuri.co.jp/shimen/20260704-GYT9T00014/](https://www.yomiuri.co.jp/shimen/20260704-GYT9T00014/)
 
 ○7月4日　【そもそも解説】見直し相次ぐ遺言制度 デジタル活用の新方式導入へ　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV6Y4H7WV6YOIPE001M.html](https://www.asahi.com/articles/ASV6Y4H7WV6YOIPE001M.html)
 
 ○7月4日　AI半導体まとめ読み 「入門」LIVEの予習・復習に14本　日本経済新聞<br>
-　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC021BQ0S6A700C2000000?n_cid=DSPRM1OTR01_NKD_Prime](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC021BQ0S6A700C2000000?n_cid=DSPRM1OTR01_NKD_Prime)
+　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC021BQ0S6A700C2000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC021BQ0S6A700C2000000)
 
 ○7月4日　ことでん、QRコードのデジタル切符導入へ アプリは不要 香川 [香川県]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV7341FHV73PLXB00LM.html](https://www.asahi.com/articles/ASV7341FHV73PLXB00LM.html)
-
-○7月4日　フィジカルAI 製造業の人手不足で注目 さまざまなロボットが登場 | NHK　NHKニュース<br>
-　[https://news.web.nhk/shutoken/articles/101/032/95/](https://news.web.nhk/shutoken/articles/101/032/95/)
 
 ○7月4日　「データセンター」関東・関西に９割集中するが九州にも優位性あり…北九州市、先手を打って「誘致戦略」　読売新聞<br>
 　[https://www.yomiuri.co.jp/local/kyushu/news/20260626-GYS1T00126/](https://www.yomiuri.co.jp/local/kyushu/news/20260626-GYS1T00126/)
@@ -387,9 +333,57 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月4日　鹿島・桐生新社長 AIに注力しつつ「最後は人」 人手不足どう対応　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV722BYHV72ULFA00ZM.html](https://www.asahi.com/articles/ASV722BYHV72ULFA00ZM.html)
 
-○7月4日　企業のAI実装一括支援 リコー、新会社設立　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=034&ng=DGKKZO97353750U6A700C2BZ0000](https://www.nikkei.com/nkd/industry/article/?DisplayType=1&n_m_code=034&ng=DGKKZO97353750U6A700C2BZ0000)
+○7月4日　『子育てDX』の「乳幼児健診サービス」を広島県広島市が導入！　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000549.000099909&g=prt](https://www.jiji.com/jc/article?k=000000549.000099909&g=prt)
 
-○7月4日　Apple Books「今年ここまでのベスト」に選出！統合失調症の家族をめぐる衝撃のノンフィクション『どうすればよかったか？』が2万部突破　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000001024.000043732&g=prt](https://www.jiji.com/jc/article?k=000001024.000043732&g=prt)
+○7月4日　半導体安定供給「極めて重要」 マイクロン広島工場で赤沢経産相　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=2026070400340&g=eco&p=20260704at35S&rel=pv](https://www.jiji.com/jc/article?k=2026070400340&g=eco&p=20260704at35S&rel=pv)
+
+○7月4日　マイクロン 広島で工場拡張の起工式 生成AIなどの半導体量産へ　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/na-k10015168891000](https://news.web.nhk/newsweb/na/na-k10015168891000)
+
+○7月4日　【社説】先端AIのルールづくりへ連帯を 突然の運用停止を考える [AIの時代]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV7330SGV73USPT00DM.html](https://www.asahi.com/articles/ASV7330SGV73USPT00DM.html)
+
+○7月4日　【社説】先端AIのルールづくりへ連帯を 突然の運用停止を考える　朝日新聞<br>
+　[https://www.asahi.com/sp/articles/photo/AS20260703003607.html](https://www.asahi.com/sp/articles/photo/AS20260703003607.html)
+
+○7月4日　マイクロン・テクノロジー、広島工場拡張に着工 AI向けメモリー半導体の製造能力を強化　産経ニュース<br>
+　[https://www.sankei.com/article/20260704-NHSKXLXBXBNIZKPIL7JUT6LRB4/](https://www.sankei.com/article/20260704-NHSKXLXBXBNIZKPIL7JUT6LRB4/)
+
+○7月5日　社説：海図なき世界 脅威高まるAI 暴走させぬ知恵集める時　毎日新聞<br>
+　[https://mainichi.jp/articles/20260705/ddm/005/070/104000c](https://mainichi.jp/articles/20260705/ddm/005/070/104000c)
+
+○7月5日　（デジタル教科書の課題：上）自分に合った教科書、なぜ選べないの？　朝日新聞<br>
+　[https://www.asahi.com/articles/DA3S16496689.html](https://www.asahi.com/articles/DA3S16496689.html)
+
+○7月5日　（フロントライン 世界）米の巨大データセンター 干上がるソルトレーク、建設計画に揺れる街　朝日新聞<br>
+　[https://www.asahi.com/articles/DA3S16496640.html](https://www.asahi.com/articles/DA3S16496640.html)
+
+○7月5日　模倣するAIの脅威 声優の津田健次郎氏「TikTok提訴」が問うもの　毎日新聞<br>
+　[https://mainichi.jp/premier/business/articles/20260702/biz/00m/020/006000c](https://mainichi.jp/premier/business/articles/20260702/biz/00m/020/006000c)
+
+○7月5日　東京の花農家が描く農業の未来 「AI搭載の二足歩行ロボットが育苗」　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCD028T10S6A700C2000000/](https://www.nikkei.com/article/DGXZQOCD028T10S6A700C2000000/)
+
+○7月5日　AIはブラックスワンの夢を見るか 投資判断で重み増す人間　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQODK034NI0T00C26A7000000/](https://www.nikkei.com/article/DGXZQODK034NI0T00C26A7000000/)
+
+○7月5日　日本に「チップ文化」があった？ “デジタル心付け”を導入した宿も　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV6Y2494V6YUCVL00VM.html](https://www.asahi.com/articles/ASV6Y2494V6YUCVL00VM.html)
+
+○7月5日　公正証書遺言、デジタル化でどう変わった? ウェブ会議での作成例は　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV6Y7WC2V6YOIPE01FM.html](https://www.asahi.com/articles/ASV6Y7WC2V6YOIPE01FM.html)
+
+○7月5日　新設「デジタル遺言」使い勝手どうなる? 弁護士に聞く遺言の使い方　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV6Z007GV6ZOIPE01HM.html](https://www.asahi.com/articles/ASV6Z007GV6ZOIPE01HM.html)
+
+○7月5日　病歴や犯歴も同意なく提供 個人情報保護法の改正案、弁護士語る課題　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV723G99V72ULZU00CM.html](https://www.asahi.com/articles/ASV723G99V72ULZU00CM.html)
+
+○7月5日　JASM、中学生にプログラミング体験 半導体人材育成へ出前授業　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/00785790?gnr_footer=0087790](https://www.nikkan.co.jp/articles/view/00785790?gnr_footer=0087790)
+
+○7月5日　AIのサイバー攻撃、政府が自治体に対策要請へ 脆弱性を総点検　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUA02AAA0S6A700C2000000/](https://www.nikkei.com/article/DGXZQOUA02AAA0S6A700C2000000/)
 

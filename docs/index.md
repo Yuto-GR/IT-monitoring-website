@@ -1,25 +1,10 @@
-更新日時：2026年7月14日 18:03（JST）
+更新日時：2026年7月15日 10:25（JST）
 
 【松本尚デジタル大臣】<br>
 ○7月14日の大臣記者会見（12分33秒）<br>
 　[https://www.digital.go.jp/speech/minister-260714-01](https://www.digital.go.jp/speech/minister-260714-01)
 
-○7月10日の大臣記者会見（7分1秒）<br>
-　[https://www.digital.go.jp/speech/minister-260710-01](https://www.digital.go.jp/speech/minister-260710-01)
-
 【自由民主党】<br>
-○7月10日　政調、消費者問題調査会
-　消費者教育に関するヒアリング ・消費者庁 ・文部科学省 ・柿野 成美　昭和女子大学大学院福祉社会・経営研究科特命教授 （公財）消費者教育支援センター理事・首席主任研究員 ・坂倉 忠夫　（公社）日本消費生活アドバイザー・コンサルタント・相談員協会専務理事 元（公社）消費者関連専門家会議理事長
-
-○7月10日　政調、行政改革推進本部
-　デジタルに関するPTからの 提言（案）について
-
-○7月10日　政調、地方行政調査会
-　人口減少時代の地方自治の枠組みについて （講師）砂原　庸介 神戸大学大学院法学研究科教授
-
-○7月10日　政調、国家サイバーセキュリティ戦略本部
-　サイバーセキュリティ関連の取り組みについて ・OpenAI
-
 ○7月13日　政調、経済安全保障推進本部・外交部会・外交調査会・国際協力調査会 合同会議
 　１．国際機関における邦人職員プレゼンスの強化について 根本　　拓　経済安全保障推進本部事務局次長より報告 ２．有識者ヒアリング ○御厨　邦雄　世界税関機構(WCO)元事務総局長 ○日比絵里子　国際連合食糧農業機関(FAO)駐日連絡事務所長
 
@@ -115,23 +100,17 @@
 ○7月13日　情報通信審議会 電気通信事業政策部会 消費者保護政策委員会（第9回）<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/shohishahogo/02kiban08_04000525.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/shohishahogo/02kiban08_04000525.html)
 
-○7月10日　情報通信審議会　総会（第57回）配付資料・議事概要・議事録<br>
-　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/sokai/02tsushin10_04000728.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/sokai/02tsushin10_04000728.html)
-
-○7月10日　国立研究開発法人審議会　情報通信研究機構部会（第55回）<br>
-　[https://www.soumu.go.jp/main_sosiki/singi/nrda-council/02tsushin03_04000643.html](https://www.soumu.go.jp/main_sosiki/singi/nrda-council/02tsushin03_04000643.html)
-
 ○7月17日　情報通信審議会 情報通信技術分科会 IPネットワーク設備委員会　電気通信事業におけるパブリッククラウド利用に関する検討作業班（第6回）開催案内<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban05_04000791.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban05_04000791.html)
+
+○7月22日　情報通信審議会　情報通信技術分科会　電波利用環境委員会　CISPR　B作業班（第29回）開催案内<br>
+　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban16_04000948.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban16_04000948.html)
 
 ○7月17日　デジタル空間における情報流通の諸課題への対処に関する検討会 デジタル広告ワーキンググループ（第17回）開催案内<br>
 　[https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000588.html](https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000588.html)
 
 ○7月15日　情報通信審議会　情報通信技術分科会　陸上無線通信委員会　 公共業務用無線システム作業班（第1回）の開催について<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban13_04000101.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban13_04000101.html)
-
-○7月10日　「安全性・信頼性を確保したデジタルインフラの海外展開支援事業」　令和8年度「ローカル・スタートアップ枠」公募の採択結果 　及び二次公募の実施<br>
-　[https://www.soumu.go.jp/menu_news/s-news/01tsushin06_02000349.html](https://www.soumu.go.jp/menu_news/s-news/01tsushin06_02000349.html)
 
 ○7月14日　情報通信審議会　情報通信技術分科会　電波利用環境委員会(第67回)開催案内<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban16_04000946.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban16_04000946.html)
@@ -170,52 +149,20 @@
 　[https://www.meti.go.jp/shingikai/mono_info_service/digital_platform_monitoring/2026_001.html](https://www.meti.go.jp/shingikai/mono_info_service/digital_platform_monitoring/2026_001.html)
 
 【内閣府】<br>
-○7月10日　第６回人工知能（AI）技術の利用と消費者問題に関する専門調査会【７月17日開催】<br>
-
-　[https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/006/kaisai/index.html](https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/006/kaisai/index.html)
+DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【国家サイバー統括室・NCO】<br>
-7月10日〜7月14日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+7月11日〜7月15日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【金融庁】<br>
-7月10日〜7月14日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+7月11日〜7月15日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【公正取引委員会】<br>
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○7月10日　山梨県警元巡査長 個人情報保護法違反の罪で略式起訴　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nb-1040030334](https://news.web.nhk/newsweb/na/nb-1040030334)
-
-○7月10日　病歴もいつのまにか誰かの手に？ 個人情報保護法の改正に渦巻く懸念　朝日新聞<br>
-　[https://www.asahi.com/sp/articles/photo/AS20260710002257.html?iref=sp_photo_gallery_next_arrow](https://www.asahi.com/sp/articles/photo/AS20260710002257.html?iref=sp_photo_gallery_next_arrow)
-
-○7月10日　本人の同意なく病歴収集可能に 改正個人情報保護法が成立 漏洩リスク対応に課題　産経ニュース<br>
-　[https://www.sankei.com/article/20260710-G4VEUYRWSJNG7F3JQ6AYLXH5DM/](https://www.sankei.com/article/20260710-G4VEUYRWSJNG7F3JQ6AYLXH5DM/)
-
-○7月10日　改正個人情報保護法、参院で可決・成立 同意なしで犯罪歴提供も　毎日新聞<br>
-　[https://mainichi.jp/articles/20260710/k00/00m/010/441000c](https://mainichi.jp/articles/20260710/k00/00m/010/441000c)
-
-○7月11日　全国の日本茶、知的財産に ＧＩ登録 海外の模倣品から保護　朝日新聞<br>
-　[https://www.asahi.com/articles/DA3S16501183.html](https://www.asahi.com/articles/DA3S16501183.html)
-
-○7月11日　米アップル、元社員とオープンＡＩを提訴 営業秘密の不正流用主張　ロイター<br>
-　[https://jp.reuters.com/economy/5RE5IJGLSNIARCGYSU5LXYZIRI-2026-07-10/](https://jp.reuters.com/economy/5RE5IJGLSNIARCGYSU5LXYZIRI-2026-07-10/)
-
-○7月11日　Apple、OpenAIを提訴 端末開発で「機密情報を不正取得」と主張　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN110210R10C26A7000000/](https://www.nikkei.com/article/DGXZQOGN110210R10C26A7000000/)
-
-○7月11日　アップル、オープンAIを提訴 端末開発のため「企業秘密を盗んだ」 [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7C007TV7CUHBI004M.html](https://www.asahi.com/articles/ASV7C007TV7CUHBI004M.html)
-
-○7月11日　米アップルがオープンＡＩ提訴 元従業員通じ機密情報窃取と主張　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026071100278&g=int](https://www.jiji.com/jc/article?k=2026071100278&g=int)
-
 ○7月11日　AppleがOpenAI提訴「元幹部が機密持ち出し主導」 端末開発に流用か　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN110A50R10C26A7000000/](https://www.nikkei.com/article/DGXZQOGN110A50R10C26A7000000/)
-
-○7月11日　アップルがオープンＡＩ提訴、ＡＩ端末に「機密情報を不正利用された」と主張　読売新聞<br>
-　[https://www.yomiuri.co.jp/economy/20260711-GYT1T00187/](https://www.yomiuri.co.jp/economy/20260711-GYT1T00187/)
 
 ○7月13日　スペースX「AIモデルの性能はグーグル超え」 アナリスト見解　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC0682Q0W6A700C2000000/](https://www.nikkei.com/article/DGXZQOUC0682Q0W6A700C2000000/)
@@ -247,98 +194,32 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月14日　日東紡･味の素にもAIデータセンター｢270兆円｣特需 過剰投資の恐れも　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC297XO0Z20C26A6000000/](https://www.nikkei.com/article/DGXZQOUC297XO0Z20C26A6000000/)
 
-○7月14日　湖北工業、低電力の光変調器 データセンター向け　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOSG178OQ0X10C26A6000000/](https://www.nikkei.com/article/DGXZQOSG178OQ0X10C26A6000000/)
+○7月14日　半導体高騰、消費冷やす DRAM価格6倍に スマホ・PC出荷2億台減　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGKKZO97532790T10C26A7EA2000/](https://www.nikkei.com/article/DGKKZO97532790T10C26A7EA2000/)
 
 ○7月14日　メタ、米南部のAIデータセンターに8兆円投資 当初計画の5倍　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN13AMT0T10C26A7000000/](https://www.nikkei.com/article/DGXZQOGN13AMT0T10C26A7000000/)
 
-○7月14日　「理科の実験せずに動画で」懸念…「デジタル正式教科書」見据えた検定ルール議論始まる　読売新聞<br>
-　[https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20260713-GYT1T00476/](https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20260713-GYT1T00476/)
+○7月14日　秋田県をAIデータセンター集積地に 日米スタートアップが布石着々　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCC060DG0W6A700C2000000/](https://www.nikkei.com/article/DGXZQOCC060DG0W6A700C2000000/)
 
 ○7月14日　データセンターの液冷技術、施工・運用ノウハウが不足 進む共同検証　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC261N50W6A620C2000000/](https://www.nikkei.com/article/DGXZQOUC261N50W6A620C2000000/)
 
-○7月14日　秋田県をAIデータセンター集積地に 日米スタートアップが布石着々　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOCC060DG0W6A700C2000000/](https://www.nikkei.com/article/DGXZQOCC060DG0W6A700C2000000/)
-
-○7月14日　AI人材がほしい、半導体産業の危機感 長崎総合科学大とNVIDIA連携　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOJC1963C0Z10C26A6000000/](https://www.nikkei.com/article/DGXZQOJC1963C0Z10C26A6000000/)
-
-○7月14日　AI優先、人は後回し？ 「半導体高騰、スマホなど値上げラッシュ」など3本をお届けします　日本経済新聞<br>
-　[https://www.nikkei.com/prime/minutes/article/DGXZQOCD132XH0T10C26A7000000](https://www.nikkei.com/prime/minutes/article/DGXZQOCD132XH0T10C26A7000000)
-
-○7月14日　AIで｢大規模な雇用喪失｣ ノーベル賞スティグリッツ氏ら200人が声明　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN13ALY0T10C26A7000000/](https://www.nikkei.com/article/DGXZQOGN13ALY0T10C26A7000000/)
-
-○7月14日　地政学リスクと経済安全保障（5）外患でじわり「欧州式保護主義」　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/00786661](https://www.nikkan.co.jp/articles/view/00786661)
+○7月14日　［社説］個人情報保護法 漏洩防止よりＡＩ開発優先か　読売新聞<br>
+　[https://www.yomiuri.co.jp/shimen/20260713-GYT9T00113/](https://www.yomiuri.co.jp/shimen/20260713-GYT9T00113/)
 
 ○7月14日　サプライチェーンの「変態」マテリアル編（35）銅高騰が示す資源配分の課題　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/00786649](https://www.nikkan.co.jp/articles/view/00786649)
 
-○7月14日　推論時代のAI半導体、3大不足で新勢力図 脱NVIDIA独走　日本経済新聞<br>
-　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC134U10T10C26A7000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC134U10T10C26A7000000)
-
-○7月14日　米でAIブームは失速するのか 投資家の意欲試すデータセンターIPO　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN13AF90T10C26A7000000/](https://www.nikkei.com/article/DGXZQOGN13AF90T10C26A7000000/)
-
-○7月14日　チャレンジ！ デジタル 数独 2026.7.14　朝日新聞<br>
-　[https://www.asahi.com/edua/article/16677302](https://www.asahi.com/edua/article/16677302)
-
 ○7月14日　メタ、ルイジアナ州のデータセンター拡張 投資額500億ドル超に　ロイター<br>
 　[https://jp.reuters.com/markets/japan/PV5DOQTKSFPNXEK4IUWEF25PSQ-2026-07-13/](https://jp.reuters.com/markets/japan/PV5DOQTKSFPNXEK4IUWEF25PSQ-2026-07-13/)
 
-○7月14日　AI・半導体株で相次ぐ変調 キオクシア三尊天井、太陽誘電は半値　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFL1405WTU6A710C2000000/](https://www.nikkei.com/article/DGXZQOFL1405WTU6A710C2000000/)
-
-○7月14日　【7月30日】製造業DXウェビナー｜設備・機械の異常を未然に防ぐ！製造業向け異常予兆検知AI解説ウェビナー開催　産経ニュース<br>
-　[https://www.sankei.com/pressrelease/prtimes/IMV24AIEMVPT3MX5ZLWS2IWOIU/](https://www.sankei.com/pressrelease/prtimes/IMV24AIEMVPT3MX5ZLWS2IWOIU/)
-
-○7月14日　日経平均は続落で寄り付く、米株安が重し 半導体株下落　ロイター<br>
-　[https://jp.reuters.com/markets/japan/AE23XH466BMULIITY6K4Y52MIU-2026-07-14/](https://jp.reuters.com/markets/japan/AE23XH466BMULIITY6K4Y52MIU-2026-07-14/)
-
-○7月14日　AI基本計画が閣議決定 サイバー環境激変、わずか半年で改定 [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7F34Z5V7FUTFL01BM.html](https://www.asahi.com/articles/ASV7F34Z5V7FUTFL01BM.html)
-
-○7月14日　【まとめてわかる】日本のAI主権とは 米国に翻弄、対抗の技術は？ [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7F36J6V7FUTFL010M.html](https://www.asahi.com/articles/ASV7F36J6V7FUTFL010M.html)
-
-○7月14日　TD SYNNEX、法人向けにスマートフォン「Google Pixel 10a」取り扱い開始 企業リリース　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/releases/view/220286](https://www.nikkan.co.jp/releases/view/220286)
-
-○7月14日　「AIで大規模な雇用喪失、対策を」 ノーベル経済学賞学者らが声明 [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7G03G4V7GUHBI009M.html](https://www.asahi.com/articles/ASV7G03G4V7GUHBI009M.html)
-
-○7月14日　キオクシアHD株価、荒い値動き 米半導体関連は軒並み安　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFL140J60U6A710C2000000/](https://www.nikkei.com/article/DGXZQOFL140J60U6A710C2000000/)
-
-○7月14日　台湾、「デジタル防壁」構築へ自前AI開発 中国発データの依存回避　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGM242JU0U6A520C2000000/](https://www.nikkei.com/article/DGXZQOGM242JU0U6A520C2000000/)
-
-○7月14日　破格待遇で医学部並み難関に 韓国受験に異変、半導体学科の魅力　毎日新聞<br>
-　[https://mainichi.jp/articles/20260713/k00/00m/030/052000c](https://mainichi.jp/articles/20260713/k00/00m/030/052000c)
-
-○7月14日　ソフトバンクG孫正義氏 世界のAIインフラ投資「40年に800兆円へ」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC142BO0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUC142BO0U6A710C2000000/)
-
-○7月14日　インタビュー／経済産業省製造産業局産業機械課長・須賀千鶴氏 製造AX拠点をDXインフラに　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/00786675](https://www.nikkan.co.jp/articles/view/00786675)
-
-○7月14日　電通総研、営業から製品設計・製造までの部門間連携を支援する「BtoB製造業向け顧客接点DXコンサルティング・ソリューション」を提供開始　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000471.000043138&g=prt](https://www.jiji.com/jc/article?k=000000471.000043138&g=prt)
-
 ○7月14日　個人情報保護法の改正「懸念は承知」 透明性高める考え デジタル相　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7G12VDV7GULFA00FM.html?iref=com_latestnews_01](https://www.asahi.com/articles/ASV7G12VDV7GULFA00FM.html?iref=com_latestnews_01)
-
-○7月14日　シンガポール、4〜6月GDPは5.7%増 半導体の好調持続　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGM138KF0T10C26A7000000/](https://www.nikkei.com/article/DGXZQOGM138KF0T10C26A7000000/)
+　[https://www.asahi.com/articles/ASV7G12VDV7GULFA00FM.html](https://www.asahi.com/articles/ASV7G12VDV7GULFA00FM.html)
 
 ○7月14日　ペイクラウド　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/disclosure/tdnr/20260714593108/](https://www.nikkei.com/nkd/disclosure/tdnr/20260714593108/)
-
-○7月14日　政府、AI・科技計画を閣議決定 サイバー対策に高性能AI活用へ　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUA141D70U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUA141D70U6A710C2000000/)
 
 ○7月14日　エヌビディア、アジアのＡＩ半導体顧客リスト半減 審査強化＝ＦＴ　ロイター<br>
 　[https://jp.reuters.com/world/ZNMIZEY5FVNT7MDDUGARLI66CA-2026-07-14/](https://jp.reuters.com/world/ZNMIZEY5FVNT7MDDUGARLI66CA-2026-07-14/)
@@ -346,47 +227,20 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月14日　独ボッシュ、米国初の自社半導体工場で試作生産を開始　ロイター<br>
 　[https://jp.reuters.com/world/6FJYKLETFNKMXPYQPWU3URPFTE-2026-07-14/](https://jp.reuters.com/world/6FJYKLETFNKMXPYQPWU3URPFTE-2026-07-14/)
 
-○7月14日　ソフトバンク、AIサイバー防御に137社関心 孫正義氏｢インフラ守る｣　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC089OF0Y6A700C2000000/](https://www.nikkei.com/article/DGXZQOUC089OF0Y6A700C2000000/)
-
-○7月14日　「懐かしい」 京急・上大岡駅の“デジタルパタパタ”話題 細やかなアップデートも　産経ニュース<br>
-　[https://www.sankei.com/article/20260714-VMSTDW3RB5P7POMR4CI6GHTT3A/](https://www.sankei.com/article/20260714-VMSTDW3RB5P7POMR4CI6GHTT3A/)
-
 ○7月14日　松本デジタル相、個人情報保護「規則決め懸念払拭」 改正法成立で　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUA141EN0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUA141EN0U6A710C2000000/)
-
-○7月14日　韓国、26年成長率予測を3.0％に上方修正 ＡＩ半導体ブームで　ロイター<br>
-　[https://jp.reuters.com/markets/japan/63VNHXVFQBNG7APQJFVLLQUEDE-2026-07-14/](https://jp.reuters.com/markets/japan/63VNHXVFQBNG7APQJFVLLQUEDE-2026-07-14/)
-
-○7月14日　AIの雇用喪失リスク挙げ「いま行動を」ノーベル賞受賞者ら声明　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/na-k10015176511000](https://news.web.nhk/newsweb/na/na-k10015176511000)
 
 ○7月14日　タワーセミコンダクターの半導体生産に1600億円補助 光通信用　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUA141SA0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUA141SA0U6A710C2000000/)
 
-○7月14日　WSJ日本版：データセンター運営業者、今夏に数百億ドル規模の株売却模索　毎日新聞<br>
-　[https://mainichi.jp/articles/20260714/wsj/00m/020/012000c](https://mainichi.jp/articles/20260714/wsj/00m/020/012000c)
+○7月14日　光通信用半導体に１５９０億円 イスラエル企業に助成―経産省　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=2026071400545&g=eco](https://www.jiji.com/jc/article?k=2026071400545&g=eco)
 
-○7月14日　元M&Aクラウド代表取締役の及川厚博氏がSenior Executive, M&A に就任　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000246.000015235&g=prt](https://www.jiji.com/jc/article?k=000000246.000015235&g=prt)
-
-○7月14日　デジタルキューブ[263A]：本社移転に関するお知らせ 2026年7月14日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1168d&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260714593165/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1168d&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260714593165/)
-
-○7月14日　ソフトバンクG 孫社長 “AIエージェント普及で景色変わる”　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/na-k10015176631000](https://news.web.nhk/newsweb/na/na-k10015176631000)
+○7月14日　デジタルキューブ[263A]：TOKYO PRO Market への上場目的の開示 2026年7月14日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20260714593160/](https://www.nikkei.com/nkd/disclosure/tdnr/20260714593160/)
 
 ○7月14日　NVIDIAと三菱重工、AIデータセンターで提携 次世代冷却技術で　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC104V50Q6A710C2000000/](https://www.nikkei.com/article/DGXZQOUC104V50Q6A710C2000000/)
-
-○7月14日　ａｂｃ[8783]：（開示事項の経過）フィジカルAIロボット事業の推進状況に関するお知らせ 2026年7月14日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1165v&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260714593075/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1165v&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260714593075/)
-
-○7月14日　自民党、「AI共創時代」の社会構想を提言へ 萩生田氏トップで始動　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUA141SO0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUA141SO0U6A710C2000000/)
-
-○7月14日　「アレサ」シリーズ、35年の沈黙を経て復活へ。クラウドファンディング「アレサ再会プロジェクト ～もういちど逢いたい～」7月15日よりCAMPFIREにてスタート！　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000100.000076359&g=prt](https://www.jiji.com/jc/article?k=000000100.000076359&g=prt)
 
 ○7月14日　宇佐市に台南市からアップルマンゴー 市内のこども園で給食に　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/nb-5070024686](https://news.web.nhk/newsweb/na/nb-5070024686)
@@ -394,30 +248,144 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月14日　日経平均は反発、ＡＩ・半導体株の一角に買い戻し　ロイター<br>
 　[https://jp.reuters.com/markets/japan/MWF4547C7BNCVKVO3TB6V2LTMI-2026-07-14/](https://jp.reuters.com/markets/japan/MWF4547C7BNCVKVO3TB6V2LTMI-2026-07-14/)
 
-○7月14日　NEC、スマホ映像から3Dモデルを高速生成 独自AIで最短1分　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC139250T10C26A7000000/](https://www.nikkei.com/article/DGXZQOUC139250T10C26A7000000/)
-
 ○7月14日　中部圏の産学官、デジタルツイン普及へ推進団体 製造業DX後押し　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFD144LH0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOFD144LH0U6A710C2000000/)
-
-○7月14日　デジタルガレージ[4819]：デジタルガレージグループのポケットチェンジ デジタル電子マネー基盤を通じ 観光・地域経済・DXを融合した新たな地域周遊モデルに貢献 2026年7月14日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20260714593444/](https://www.nikkei.com/nkd/disclosure/tdnr/20260714593444/)
 
 ○7月14日　半導体市場は拡大続く予想 NGK社長「新工場建設の検討が必要」　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV7G10MXV7GULFA028M.html](https://www.asahi.com/articles/ASV7G10MXV7GULFA028M.html)
 
-○7月14日　富士通、最新AIと実践知でレガシーシステムの刷新加速　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/00786707](https://www.nikkan.co.jp/articles/view/00786707)
-
-○7月14日　富山県などでの半導体量産計画に経産省が最大１６００億円補助　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nb-3060023778](https://news.web.nhk/newsweb/na/nb-3060023778)
-
-○7月14日　JR東､新幹線の線路をAI点検 320キロ走行の新検測車　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC144NG0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUC144NG0U6A710C2000000/)
+○7月14日　人気声優、自身の声をAIで再現 「海賊版ボイス」に事業化で対抗　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC26ASS0W6A620C2000000/](https://www.nikkei.com/article/DGXZQOUC26ASS0W6A620C2000000/)
 
 ○7月14日　Google､外部企業提供の決済解禁を前倒し 12月→9月に　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC1468I0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUC1468I0U6A710C2000000/)
 
 ○7月14日　三菱電機､オランダの業務用空調2社買収 データセンター需要に対応　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC147420U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUC147420U6A710C2000000/)
+
+○7月14日　経産省 光通信用半導体の量産計画に最大約1600億円補助　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/na-k10015176701000](https://news.web.nhk/newsweb/na/na-k10015176701000)
+
+○7月14日　SLBとリバティ・エナジー、データセンター向けインフラおよび電力分野で戦略的提携へ　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=20260714975616&g=bw](https://www.jiji.com/jc/article?k=20260714975616&g=bw)
+
+○7月14日　経産省、イスラエル半導体大手の6000億円投資計画に助成　ロイター<br>
+　[https://jp.reuters.com/economy/QA4SNJX3TVOGLGOIQFG3EAWNA4-2026-07-14/](https://jp.reuters.com/economy/QA4SNJX3TVOGLGOIQFG3EAWNA4-2026-07-14/)
+
+○7月14日　新潟・富山に光通信用の半導体拠点 イスラエル企業が6000億円 27年5月から供給　産経ニュース<br>
+　[https://www.sankei.com/article/20260714-DWKIVM6QSFKPTPN35MIYWMRYTI/](https://www.sankei.com/article/20260714-DWKIVM6QSFKPTPN35MIYWMRYTI/)
+
+○7月14日　住友商事、データセンター機器リユースの米企業に出資 数十億円　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC149GW0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUC149GW0U6A710C2000000/)
+
+○7月14日　デジタルユーロ、27年後半に試験運用 欧州中銀、1年間検証　毎日新聞<br>
+　[https://mainichi.jp/articles/20260714/k00/00m/030/295000c](https://mainichi.jp/articles/20260714/k00/00m/030/295000c)
+
+○7月14日　新潟県妙高市に半導体の巨額投資、県はGX推進に期待　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCC147UJ0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOCC147UJ0U6A710C2000000/)
+
+○7月14日　デジタルユーロ実証実験に36社選定、ドイツ銀や新興レボリュート 27年後半実施　ロイター<br>
+　[https://jp.reuters.com/markets/japan/JYDWIER3HJMCVPMXSQ5Y27IBOA-2026-07-14/](https://jp.reuters.com/markets/japan/JYDWIER3HJMCVPMXSQ5Y27IBOA-2026-07-14/)
+
+○7月14日　東証反発、500円高 AI、半導体株買い戻し キオクシアも買われる　産経ニュース<br>
+　[https://www.sankei.com/article/20260714-4J5MYKNF3FKG7G75NWMPN6FRW4/](https://www.sankei.com/article/20260714-4J5MYKNF3FKG7G75NWMPN6FRW4/)
+
+○7月14日　富山県魚津市に半導体の巨額投資 新田知事「県産業の歴史的転換点」　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCC145I80U6A710C2000000/](https://www.nikkei.com/article/DGXZQOCC145I80U6A710C2000000/)
+
+○7月14日　ソフトバンクG、生成AIの特許数で世界首位 WIPOが報告書　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGR14A030U6A710C2000000/](https://www.nikkei.com/article/DGXZQOGR14A030U6A710C2000000/)
+
+○7月14日　アクアスター、新たな顧客接点を生み出すリブートマーケティング戦略ー「SamuraiDX 2026 夏」マーケティング・営業支援系DX ～歴史を変えるマーケティング術～に登壇ー　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000128.000055500&g=prt](https://www.jiji.com/jc/article?k=000000128.000055500&g=prt)
+
+○7月15日　クラウド型モバイルPOSレジ「POS＋（ポスタス）」飲食店売上動向レポート2026年7月　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000245.000056468&g=prt](https://www.jiji.com/jc/article?k=000000245.000056468&g=prt)
+
+○7月15日　クボタ、「管路DX」で守る水道覇権 インフロニアなど新興勢力に備え　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC2982Z0Z20C26A6000000/](https://www.nikkei.com/article/DGXZQOUC2982Z0Z20C26A6000000/)
+
+○7月15日　民事訴訟デジタル化はまだ途上 柴田啓介氏　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCD1434S0U6A510C2000000/](https://www.nikkei.com/article/DGXZQOCD1434S0U6A510C2000000/)
+
+○7月15日　マスク氏、27年に宇宙データセンター 孫氏やアルトマン氏と見解対立　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN22B5E0S6A620C2000000/](https://www.nikkei.com/article/DGXZQOGN22B5E0S6A620C2000000/)
+
+○7月15日　自治体DXの強力助っ人 地域活性化起業人で栃木｢最少｣町支援の小森氏　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCC270I30X20C26A6000000/](https://www.nikkei.com/article/DGXZQOCC270I30X20C26A6000000/)
+
+○7月15日　巨大投資ゲーム「GW級データセンター建設」、48兆円の価値は本当か　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC304NO0Q6A630C2000000/](https://www.nikkei.com/article/DGXZQOUC304NO0Q6A630C2000000/)
+
+○7月15日　不動産大手ESR社長「データセンターの成長顕著」 専用ファンド組成　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC2217P0S6A620C2000000/](https://www.nikkei.com/article/DGXZQOUC2217P0S6A620C2000000/)
+
+○7月15日　世界半導体売上高、26年5月 増加が続き前年同月比2倍　日本経済新聞<br>
+　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC1432L0U6A710C2000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC1432L0U6A710C2000000)
+
+○7月15日　半導体マネーも台湾発 ファンドや銀行が九州進出、資金の支え手太く　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOJC2597O0V20C26A6000000/](https://www.nikkei.com/article/DGXZQOJC2597O0V20C26A6000000/)
+
+○7月15日　ウエハー大手SUMCO龍田次郎社長 AI特需「3〜5年は続く」 - 日経テックフォーサイト　日本経済新聞<br>
+　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC141XN0U6A710C2000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC141XN0U6A710C2000000)
+
+○7月15日　キッセイコムテック、文書管理支援にAI 内情に通じた「番頭」に　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCC076HM0X00C26A7000000/](https://www.nikkei.com/article/DGXZQOCC076HM0X00C26A7000000/)
+
+○7月15日　偏見なき科学「AIとロボにしかできず」 東京科学大の中山センター長　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC03BEI0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOUC03BEI0T00C26A7000000/)
+
+○7月15日　偽装USB判定ツールを無償公開 AIデータ社、自治体の調査後押し　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUE140VF0U6A610C2000000/](https://www.nikkei.com/article/DGXZQOUE140VF0U6A610C2000000/)
+
+○7月15日　コマツ、空港プロで建設DX シンガポールに初　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/00786755](https://www.nikkan.co.jp/articles/view/00786755)
+
+○7月15日　NY州、知事が大規模データセンター新設1年停止命令 全米で初　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN14CF70U6A710C2000000/](https://www.nikkei.com/article/DGXZQOGN14CF70U6A710C2000000/)
+
+○7月15日　米IBMが記録的急落、「AI負け組」レッテルの重荷　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN14CIX0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOGN14CIX0U6A710C2000000/)
+
+○7月15日　AI新世紀：ミュトス級AIの暴走止められるか 規制強化と開発で揺れる米国　毎日新聞<br>
+　[https://mainichi.jp/articles/20260714/k00/00m/020/251000c](https://mainichi.jp/articles/20260714/k00/00m/020/251000c)
+
+○7月15日　「AI戦略だけでは足りない」 AI基本計画改定、専門家の評価は　毎日新聞<br>
+　[https://mainichi.jp/articles/20260714/k00/00m/040/404000c](https://mainichi.jp/articles/20260714/k00/00m/040/404000c)
+
+○7月15日　WSJ日本版：米データセンター向け土地売却、富豪が続々誕生　毎日新聞<br>
+　[https://mainichi.jp/articles/20260715/wsj/00m/020/003000c](https://mainichi.jp/articles/20260715/wsj/00m/020/003000c)
+
+○7月15日　NVIDIA「国産AI」で稼ぐ 世界20カ国超に関与、日本にも半導体供給　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN071DT0X00C26A7000000/](https://www.nikkei.com/article/DGXZQOGN071DT0X00C26A7000000/)
+
+○7月15日　エヌビディアＡＩ半導体「Ｈ２００」、中国向け出荷開始＝米商務次官　ロイター<br>
+　[https://jp.reuters.com/economy/HKLEV7PJFZO3RDYOEEV2NJJQXE-2026-07-14/](https://jp.reuters.com/economy/HKLEV7PJFZO3RDYOEEV2NJJQXE-2026-07-14/)
+
+○7月15日　日経平均、米半導体株高が追い風 ASML決算に注目（先読み株式相場）　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL1505C0V10C26A7000000/](https://www.nikkei.com/article/DGXZQOFL1505C0V10C26A7000000/)
+
+○7月15日　今日の株式見通し＝買い先行、米半導体株高が支え ＡＳＭＬ決算に関心　ロイター<br>
+　[https://jp.reuters.com/markets/japan/7CPHM4SGWVLP3N73VXNROIZGKQ-2026-07-14/](https://jp.reuters.com/markets/japan/7CPHM4SGWVLP3N73VXNROIZGKQ-2026-07-14/)
+
+○7月15日　デジタルグリッド[350A]：複数の太陽光発電所を組み合わせバーチャルPPAで環境価値提供 ダイセルの再エネ調達を支援 2026年7月15日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20260714593040/](https://www.nikkei.com/nkd/disclosure/tdnr/20260714593040/)
+
+○7月15日　アステリア[3853]：AI機能強化の「ASTERIA Warp」新版はAIデータ活用を高度化！ 2026年7月15日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20260715593727/](https://www.nikkei.com/nkd/disclosure/tdnr/20260715593727/)
+
+○7月15日　「授業中に漫画や動画見続ける生徒」「手書き減少」…デジタル教科書に負の側面「立ち止まる勇気も必要」　読売新聞<br>
+　[https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20260715-GYT1T00077/](https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20260715-GYT1T00077/)
+
+○7月15日　日経平均は続伸で寄り付く、米半導体株高を好感 金融株しっかり　ロイター<br>
+　[https://jp.reuters.com/markets/japan/MSI64JJGZVMPBOWT3TFQP35BPQ-2026-07-15/](https://jp.reuters.com/markets/japan/MSI64JJGZVMPBOWT3TFQP35BPQ-2026-07-15/)
+
+○7月15日　AI新世紀：高市首相「時間との闘い」 AI基本計画、半年で方針転換　毎日新聞<br>
+　[https://mainichi.jp/articles/20260714/k00/00m/010/260000c](https://mainichi.jp/articles/20260714/k00/00m/010/260000c)
+
+○7月15日　三菱重工業の株価反発 「エヌビディアとAIデータセンターで提携」報道　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL150LT0V10C26A7000000/](https://www.nikkei.com/article/DGXZQOFL150LT0V10C26A7000000/)
+
+○7月15日　米NY州、データセンター許可「モラトリアム」 電気代高騰など懸念　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV7H02HVV7HBQBQ0VSM.html](https://www.asahi.com/articles/ASV7H02HVV7HBQBQ0VSM.html)
 

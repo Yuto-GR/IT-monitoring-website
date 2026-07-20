@@ -1,4 +1,4 @@
-更新日時：2026年7月20日 12:19（JST）
+更新日時：2026年7月20日 19:09（JST）
 
 【松本尚デジタル大臣】<br>
 ○7月17日の大臣記者会見（9分45秒）<br>
@@ -121,30 +121,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○7月16日　日本向け機密クラウド受注、オラクル優勢 米がサイバー対策強化迫る　日本経済新聞<br>
-　[https://www.nikkei.com/prime/ft/article/DGXZQOCB1611M0W6A710C2000000](https://www.nikkei.com/prime/ft/article/DGXZQOCB1611M0W6A710C2000000)
-
-○7月16日　Googleの個人向けAIエージェント、日本で開始 一部有料会員向け　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN162SA0W6A710C2000000/](https://www.nikkei.com/article/DGXZQOGN162SA0W6A710C2000000/)
-
-○7月16日　アップル、ＡＩ半導体企業の買収を模索＝報道　ロイター<br>
-　[https://jp.reuters.com/economy/G5DSF6PNRFLJFCELECKKXUA3HE-2026-07-16/](https://jp.reuters.com/economy/G5DSF6PNRFLJFCELECKKXUA3HE-2026-07-16/)
-
-○7月16日　東京電力、データセンターの廃熱利用で都から支援 最大5億円　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC167PB0W6A710C2000000/](https://www.nikkei.com/article/DGXZQOUC167PB0W6A710C2000000/)
-
-○7月16日　グーグルAI検索、「岩手の会社が事業停止」と誤情報 参照元も憤り [岩手県]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7J2HWBV7JUJUB003M.html](https://www.asahi.com/articles/ASV7J2HWBV7JUJUB003M.html)
-
-○7月16日　IHI、アンモニア発電機を試験稼働 データセンターなどへ27年度販売　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC164KH0W6A710C2000000/](https://www.nikkei.com/article/DGXZQOUC164KH0W6A710C2000000/)
-
-○7月16日　ノエトラが本格始動、エヌビディアからＡＩ半導体調達 国も支援　ロイター<br>
-　[https://jp.reuters.com/economy/DYMVC2RCUVMBHHJDNKGLNQIZVE-2026-07-16/](https://jp.reuters.com/economy/DYMVC2RCUVMBHHJDNKGLNQIZVE-2026-07-16/)
-
-○7月16日　【社説】改正個人情報保護法が成立 人々の切実な不安が置き去りに　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7J14DLV7JUSPT011M.html](https://www.asahi.com/articles/ASV7J14DLV7JUSPT011M.html)
-
 ○7月16日　グーグル、賭博広告巡る制裁金訴訟で敗訴 欧州司法裁が判断　ロイター<br>
 　[https://jp.reuters.com/economy/5IAR2JBVRZI7BIFG6MJYSAHTQI-2026-07-16/](https://jp.reuters.com/economy/5IAR2JBVRZI7BIFG6MJYSAHTQI-2026-07-16/)
 
@@ -170,6 +146,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　[https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC130R90T10C26A7000000](https://www.nikkei.com/prime/digital-governance/article/DGXZQOUC130R90T10C26A7000000)
 
 ○7月17日　（社説）個人情報保護法 人々の不安 置き去りに　朝日新聞<br>
+　[https://www.asahi.com/articles/DA3S16505741.html](https://www.asahi.com/articles/DA3S16505741.html)
+
+○7月17日　（社説）個人情報保護法 人々の不安 置き去りに　朝日新聞<br>
 　[https://www.asahi.com/sp/articles/photo/AS20260717000052.html](https://www.asahi.com/sp/articles/photo/AS20260717000052.html)
 
 ○7月17日　グーグルＡＩ検索が誤情報「岩手の会社、事業停止」 参照元の「岩手日報の報道」存在せず　朝日新聞<br>
@@ -183,9 +162,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○7月17日　急増データセンターに「待った」 米国で広がる自治体のモラトリアム　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV7920RTV79UHBI002M.html](https://www.asahi.com/articles/ASV7920RTV79UHBI002M.html)
-
-○7月17日　今日の株式見通し＝売り先行、米半導体株安が波及 弱い地合いが継続　ロイター<br>
-　[https://jp.reuters.com/markets/japan/KEFVGXPY2JNJHOY2PKLB5APMLQ-2026-07-16/](https://jp.reuters.com/markets/japan/KEFVGXPY2JNJHOY2PKLB5APMLQ-2026-07-16/)
 
 ○7月17日　米でデータセンター反対広がる、政治家に圧力 ミシガン州予備選の争点に　ロイター<br>
 　[https://jp.reuters.com/world/us/D325PBLL5JJTNGUSMJ5KNFZKUA-2026-07-17/](https://jp.reuters.com/world/us/D325PBLL5JJTNGUSMJ5KNFZKUA-2026-07-17/)
@@ -214,9 +190,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月17日　AIデータセンターの水使用、公表値よりはるかに多い　毎日新聞<br>
 　[https://mainichi.jp/premier/business/articles/20260713/biz/00m/020/010000c](https://mainichi.jp/premier/business/articles/20260713/biz/00m/020/010000c)
 
-○7月17日　データセクション、国内第1号のAIデータセンターにNVIDIA製B300搭載GPUサーバーの搬入を開始　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZRSP710071_X10C26A7000000/](https://www.nikkei.com/article/DGXZRSP710071_X10C26A7000000/)
-
 ○7月17日　【タイ】データセンターに費用負担要求 電気料金見直しで７施策　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026071700438&g=jnb](https://www.jiji.com/jc/article?k=2026071700438&g=jnb)
 
@@ -244,9 +217,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月18日　京セラの作島社長「半導体製造装置向け部品需要、30年まで上昇基調」　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUF07B4W0X00C26A7000000/](https://www.nikkei.com/article/DGXZQOUF07B4W0X00C26A7000000/)
 
-○7月18日　NVIDIAファン氏、日本半導体にエール もつ鍋囲んだ経営者の顔ぶれ　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC1670G0W6A710C2000000/](https://www.nikkei.com/article/DGXZQOUC1670G0W6A710C2000000/)
-
 ○7月18日　「特別清算」とＡＩが誤情報…グーグル検索で岩手・矢巾の繊維製品卸売　読売新聞<br>
 　[https://www.yomiuri.co.jp/local/iwate/news/20260717-GYTNT00330/](https://www.yomiuri.co.jp/local/iwate/news/20260717-GYTNT00330/)
 
@@ -259,17 +229,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月18日　メタ、アンソロピックにデータセンター提供へ 1.6兆円規模の契約交渉　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN1802O0Y6A710C2000000/](https://www.nikkei.com/article/DGXZQOGN1802O0Y6A710C2000000/)
 
-○7月18日　半導体露光装置に重点投資 カメラは動画に注力―ニコン社長　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026071700828&g=eco](https://www.jiji.com/jc/article?k=2026071700828&g=eco)
-
 ○7月18日　ｉＰｈｏｎｅ、日本で値上げ 「１７」標準は１０％、円安影響か―米アップル　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026071800183&g=int](https://www.jiji.com/jc/article?k=2026071800183&g=int)
 
 ○7月18日　ｉＰｈｏｎｅの国内価格、アップルが１割前後値上げ…１７シリーズ標準モデルは１４万２８００円に　読売新聞<br>
 　[https://www.yomiuri.co.jp/economy/20260718-GYT1T00076/](https://www.yomiuri.co.jp/economy/20260718-GYT1T00076/)
 
-○7月18日　グーグルAI検索で「倒産」と誤情報 専務が直感した同業他社の存在 [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7K3W97V7KUTIL03JM.html?iref=_business_business_list_n](https://www.asahi.com/articles/ASV7K3W97V7KUTIL03JM.html?iref=_business_business_list_n)
+○7月18日　沖縄公庫のDX実践事例を公開：時事ドットコム　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000018.000133879&g=prt](https://www.jiji.com/jc/article?k=000000018.000133879&g=prt)
 
 ○7月18日　アップル、日本でiPhone1割値上げ 円安や半導体高騰が理由か　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV7L0QB2V7LUHBI00SM.html](https://www.asahi.com/articles/ASV7L0QB2V7LUHBI00SM.html)
@@ -304,29 +271,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月19日　ITエンジニアの賃金二極化 「AI代替」の仕事5割安、日本も雇用縮小　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC115KO0R10C26A6000000/](https://www.nikkei.com/article/DGXZQOUC115KO0R10C26A6000000/)
 
-○7月19日　【社説】情報教育、AI対応で大幅拡充へ 主権者育成も充実を [学習指導要領の改訂]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7K3V96V7KUSPT008M.html](https://www.asahi.com/articles/ASV7K3V96V7KUSPT008M.html)
-
-○7月19日　中国ムーンショットAI、香港上場を計画 ブルームバーグ報道　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGM191J60Z10C26A7000000/](https://www.nikkei.com/article/DGXZQOGM191J60Z10C26A7000000/)
-
 ○7月20日　AIサーバー部品数は車の40倍 デジタル革命の主役、市場はスマホ逆転　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC23AY70T20C26A6000000/](https://www.nikkei.com/article/DGXZQOUC23AY70T20C26A6000000/)
 
 ○7月20日　〈データセンターEconomy〉パラダイムシフト（1）AIサーバー、巨大経済圏に 部品数は車の40倍、デジタル革命の新たな主役　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGKKZO97653820Z10C26A7TB2000/](https://www.nikkei.com/article/DGKKZO97653820Z10C26A7TB2000/)
 
-○7月20日　社員の働きがい、AI普及で低下 雇用不安「今後も通用するか心配」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUD065GO0W6A700C2000000/](https://www.nikkei.com/article/DGXZQOUD065GO0W6A700C2000000/)
-
-○7月20日　エンジニア賃金、二極化 コード生成など5割安、AI代替で雇用縮小　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGKKZO97657790Q6A720C2MM8000/](https://www.nikkei.com/article/DGKKZO97657790Q6A720C2MM8000/)
-
-○7月20日　「ChatGPT広告」日本上陸 AIが揺さぶるマーケティングの常識　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC060DM0W6A700C2000000/](https://www.nikkei.com/article/DGXZQOUC060DM0W6A700C2000000/)
-
-○7月20日　島井咲緒里女流二段のラストファイト 勝つことより大切にした 自分らしさ デジタル版　朝日新聞<br>
-　[https://www.asahi.com/articles/DA3S16507619.html](https://www.asahi.com/articles/DA3S16507619.html)
+○7月20日　福島イノベ機構、DXでヘルスケア課題解決 浜通り企業が成果披露　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/00787101](https://www.nikkan.co.jp/articles/view/00787101)
 
 ○7月20日　TSMCという夢・AI人材育成、九州半導体の成長の方程式探る　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOJC1750U0X10C26A7000000/](https://www.nikkei.com/article/DGXZQOJC1750U0X10C26A7000000/)
@@ -334,23 +286,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月20日　米テック5社AI投資、｢見えざる債務｣268兆円 注記のみ記載に危うさ　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN265UU0W6A620C2000000/](https://www.nikkei.com/article/DGXZQOGN265UU0W6A620C2000000/)
 
+○7月20日　「サイバー防衛、AI任せにできず」「国産に政府も関心」 「SaaSの死」を超えて⑤　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB089F90Y6A700C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB089F90Y6A700C2000000)
+
 ○7月20日　他社倒産の記事、ＡＩ混同？ 企業のグーグル検索誤表示　朝日新聞<br>
 　[https://www.asahi.com/articles/DA3S16507646.html](https://www.asahi.com/articles/DA3S16507646.html)
 
-○7月20日　ニュース拡大鏡／AI、インフラ全体自律化 日立、エヌビディアと協業　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/00787158](https://www.nikkan.co.jp/articles/view/00787158)
-
-○7月20日　阪神電鉄、駅設備の監視装置更新 デジタル技術活用　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/00787129](https://www.nikkan.co.jp/articles/view/00787129)
-
-○7月20日　福島イノベ機構、DXでヘルスケア課題解決 浜通り企業が成果披露　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/00787101](https://www.nikkan.co.jp/articles/view/00787101)
-
 ○7月20日　イチから分かる半導体 「産業のコメ」仕組みから活況の背景まで　毎日新聞<br>
 　[https://mainichi.jp/articles/20260716/k00/00m/020/197000c](https://mainichi.jp/articles/20260716/k00/00m/020/197000c)
-
-○7月20日　HDD部品タイで増産 ニッパツが新生産棟 AI・DC向け　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/00787173](https://www.nikkan.co.jp/articles/view/00787173)
 
 ○7月20日　苦がないAIに人々の苦が解決できるのか 全日本仏教会の新事務総長　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV7J2W3TV7JUCVL015M.html](https://www.asahi.com/articles/ASV7J2W3TV7JUCVL015M.html)
@@ -363,4 +306,22 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○7月20日　デジタル端末でロゴ制作にモデル歩き 高校生の学ぶ「デザイン探究」 [山形県]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV7H24LWV7HUTIL014M.html](https://www.asahi.com/articles/ASV7H24LWV7HUTIL014M.html)
+
+○7月20日　中国ムーンショットAI、利用急増で新規利用停止 「計算資源不足」　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM200KF0Q6A720C2000000/](https://www.nikkei.com/article/DGXZQOGM200KF0Q6A720C2000000/)
+
+○7月20日　データセンター建設に反対、米42州で抗議活動 保守系団体主導　ロイター<br>
+　[https://jp.reuters.com/world/us/CFPZ2G4P6ZL6ND34WWDE2ABLLY-2026-07-20/](https://jp.reuters.com/world/us/CFPZ2G4P6ZL6ND34WWDE2ABLLY-2026-07-20/)
+
+○7月20日　バーナム次期英首相、デジタルＩＤ計画撤回へ 生活費対策を優先　ロイター<br>
+　[https://jp.reuters.com/world/security/WIK77PCYEFJT7E2VTT2V3QJ2NQ-2026-07-20/](https://jp.reuters.com/world/security/WIK77PCYEFJT7E2VTT2V3QJ2NQ-2026-07-20/)
+
+○7月20日　エスペック、AI半導体の検査精度1000倍に 低電流で故障予測　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUF135200T10C26A7000000/](https://www.nikkei.com/article/DGXZQOUF135200T10C26A7000000/)
+
+○7月20日　中国・アリババ、最新AIモデル公開へ 「米先端に次ぐ性能」主張　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM201JP0Q6A720C2000000/](https://www.nikkei.com/article/DGXZQOGM201JP0Q6A720C2000000/)
+
+○7月20日　米国驚かせた中国新興の最新AI 上海の｢世界大会｣で見せた自信 [AIの時代]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV7N336DV7NUHBI027M.html?iref=comtop_Tech_science_01](https://www.asahi.com/articles/ASV7N336DV7NUHBI027M.html?iref=comtop_Tech_science_01)
 

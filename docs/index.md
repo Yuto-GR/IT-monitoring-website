@@ -1,4 +1,4 @@
-更新日時：2026年7月22日 18:25（JST）
+更新日時：2026年7月23日 10:53（JST）
 
 【松本尚デジタル大臣】<br>
 ○7月21日の大臣記者会見（22分34秒）<br>
@@ -111,29 +111,17 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　[https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/006/shiryou/index.html](https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/006/shiryou/index.html)
 
 【国家サイバー統括室・NCO】<br>
-7月18日〜7月22日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+7月19日〜7月23日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【金融庁】<br>
-7月18日〜7月22日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+7月19日〜7月23日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【公正取引委員会】<br>
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○7月19日　［スキャナー］中古護衛艦の輸出進展、各国との相互運用性も向上　読売新聞<br>
-　[https://www.yomiuri.co.jp/politics/20260718-GYT1T00216/](https://www.yomiuri.co.jp/politics/20260718-GYT1T00216/)
-
-○7月19日　個人情報保護法は誰のため？ 規制緩和求めたロビイストに聞く　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7J2CJBV7JULZU004M.html](https://www.asahi.com/articles/ASV7J2CJBV7JULZU004M.html)
-
-○7月19日　データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動　読売新聞<br>
-　[https://www.yomiuri.co.jp/national/20260718-GYT1T00204/](https://www.yomiuri.co.jp/national/20260718-GYT1T00204/)
-
 ○7月20日　〈データセンターEconomy〉パラダイムシフト（1）AIサーバー、巨大経済圏に 部品数は車の40倍、デジタル革命の新たな主役　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGKKZO97653820Z10C26A7TB2000/](https://www.nikkei.com/article/DGKKZO97653820Z10C26A7TB2000/)
-
-○7月20日　他社倒産の記事、ＡＩ混同？ 企業のグーグル検索誤表示　朝日新聞<br>
-　[https://www.asahi.com/articles/DA3S16507646.html](https://www.asahi.com/articles/DA3S16507646.html)
 
 ○7月20日　『サプライチェーンリスク、なぜ可視化したのに改善が進まないのか』というテーマのウェビナーを開催　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=000005460.000054842&g=prt](https://www.jiji.com/jc/article?k=000005460.000054842&g=prt)
@@ -156,80 +144,29 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月21日　グーグルやメタ、世界のみ込む「ギガスケーラー」へ 投資は日本1国分　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC075UI0X00C26A7000000/](https://www.nikkei.com/article/DGXZQOUC075UI0X00C26A7000000/)
 
-○7月21日　WSJ日本版：ブラックロック、メタのデータセンターに120億ドル調達へ 債券発行主導　毎日新聞<br>
-　[https://mainichi.jp/articles/20260721/wsj/00m/020/008000c](https://mainichi.jp/articles/20260721/wsj/00m/020/008000c)
-
 ○7月21日　米データセンターの「制約」が生む日本企業の商機　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUB14BIU0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUB14BIU0U6A710C2000000/)
 
 ○7月21日　グーグル、ＡＩモデルの要素を組み込んだサーバー用半導体を開発中＝報道　ロイター<br>
 　[https://jp.reuters.com/markets/japan/HWBP6OOYLNMQDOQ562FEJPCVNM-2026-07-21/](https://jp.reuters.com/markets/japan/HWBP6OOYLNMQDOQ562FEJPCVNM-2026-07-21/)
 
-○7月21日　コマースＯｎｅホールディングス[4496]：フューチャーショップ、スタッフ DX アプリ 「STAFF START」とのタグ連携を開始 2026年7月21日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1g8vw&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260721596444/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1g8vw&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260721596444/)
-
-○7月21日　今夜のNEXT データセンターを宇宙に？ マスク氏構想の実現性は　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOCD2120Z0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOCD2120Z0R20C26A7000000/)
-
-○7月21日　稚内 風力発電直結データセンター建設進む 来年度中の運転へ　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nb-7000086791](https://news.web.nhk/newsweb/na/nb-7000086791)
-
-○7月21日　「DXでんわ」が ITreview Grid Award 2026 Summer にて最高位である「Leader」を受賞　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000222.000072025&g=prt](https://www.jiji.com/jc/article?k=000000222.000072025&g=prt)
-
-○7月22日　二極化するAI相場 出遅れたクラウド事業者 AIインフラ関連、設備投資の恩恵享受　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGKKZO97683230R20C26A7ENG000/](https://www.nikkei.com/article/DGKKZO97683230R20C26A7ENG000/)
-
 ○7月22日　国内データセンターの4割は東阪外へ、電力不足で地方分散 独自調査　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC067RK0W6A700C2000000/](https://www.nikkei.com/article/DGXZQOUC067RK0W6A700C2000000/)
-
-○7月22日　〈データセンターEconomy〉パラダイムシフト（2）世界のむ「ギガスケーラー」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGKKZO97681140R20C26A7TB2000/](https://www.nikkei.com/article/DGKKZO97681140R20C26A7TB2000/)
-
-○7月22日　先端半導体で変わる北海道 ラピダスが一貫体制へ、AI活用・人材育成加速　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFC130HS0T10C26A7000000/](https://www.nikkei.com/article/DGXZQOFC130HS0T10C26A7000000/)
 
 ○7月22日　メモリー急騰の実相（下）メモリー争奪戦、アップル買い負け 次世代iPhone、最高40万円も　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGKKZO97681340R20C26A7TB2000/](https://www.nikkei.com/article/DGKKZO97681340R20C26A7TB2000/)
 
-○7月22日　安川電機の産業ロボ、グーグルAIと連携 大まかな指示でも動作　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGKKZO97681260R20C26A7TB2000/](https://www.nikkei.com/article/DGKKZO97681260R20C26A7TB2000/)
-
 ○7月22日　Google、中・低価格AIの性能向上 高性能モデルは開発に遅れ　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN21B6J0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOGN21B6J0R20C26A7000000/)
 
-○7月22日　自動車にも半導体インフレの波 GMやフォード、値上げや確保に走る　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN2103C0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOGN2103C0R20C26A7000000/)
-
 ○7月22日　AI立国めざす湾岸諸国、データセンターが新たな急所 イランが標的　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGR1920J0Z10C26A7000000/](https://www.nikkei.com/article/DGXZQOGR1920J0Z10C26A7000000/)
-
-○7月22日　北海道：国内初風力発電直結のデータセンター 稚内市で工事の安全祈願 本格稼働は２８年３月までに ：地域ニュース　読売新聞<br>
-　[https://www.yomiuri.co.jp/local/hokkaido/news/20260721-GYTNT00324/](https://www.yomiuri.co.jp/local/hokkaido/news/20260721-GYTNT00324/)
-
-○7月22日　「半導体人材、AI対応へ質を転換」ソニー系の山口前社長 高校から教育　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOJC16B6F0W6A710C2000000/](https://www.nikkei.com/article/DGXZQOJC16B6F0W6A710C2000000/)
-
-○7月22日　ＴＯＴＯ、稼ぎ頭は半導体関連 衛生陶器の技活用、世界シェア２位　朝日新聞<br>
-　[https://www.asahi.com/articles/DA3S16509681.html](https://www.asahi.com/articles/DA3S16509681.html)
-
-○7月22日　＜主張＞デジタル教科書 紙と鉛筆の学びが基本だ 社説　産経ニュース<br>
-　[https://www.sankei.com/article/20260722-ARZFQAFYLVNPHMCWRKZQL77AVM/](https://www.sankei.com/article/20260722-ARZFQAFYLVNPHMCWRKZQL77AVM/)
-
-○7月22日　NYダウ反発385ドル高 半導体関連株に買い、好決算も材料視　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFL2201E0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOFL2201E0S6A720C2000000/)
 
 ○7月22日　米国株式市場＝反発、半導体株が高い ハイテク大手の決算待ち　ロイター<br>
 　[https://jp.reuters.com/markets/japan/WRKALCV43ZNA7C44MAXPFLGMPY-2026-07-21/](https://jp.reuters.com/markets/japan/WRKALCV43ZNA7C44MAXPFLGMPY-2026-07-21/)
 
 ○7月22日　米共和党議員団がＥＵデジタル規制問題視、トランプ氏に対抗措置促す　ロイター<br>
 　[https://jp.reuters.com/world/us/4Q6QWJHPERN47CVL4BACRQL44I-2026-07-21/](https://jp.reuters.com/world/us/4Q6QWJHPERN47CVL4BACRQL44I-2026-07-21/)
-
-○7月22日　日経平均株価、米半導体株高が追い風（先読み株式相場）　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFL217D00R20C26A7000000/](https://www.nikkei.com/article/DGXZQOFL217D00R20C26A7000000/)
-
-○7月22日　米グーグルのAI「ジェミニ」のアプリ（ロイター＝共同）　産経ニュース<br>
-　[https://www.sankei.com/article/20260722-KS5PBWNT3BJXVK6NN577FDVT2I/photo/UBL73QQLHVLWVDLVUVDJ5G57XE/](https://www.sankei.com/article/20260722-KS5PBWNT3BJXVK6NN577FDVT2I/photo/UBL73QQLHVLWVDLVUVDJ5G57XE/)
 
 ○7月22日　グーグル、AI「ジェミニ」の新3モデルを発表 サイバー防御で先行「ミュトス」に対抗　産経ニュース<br>
 　[https://www.sankei.com/article/20260722-KS5PBWNT3BJXVK6NN577FDVT2I/](https://www.sankei.com/article/20260722-KS5PBWNT3BJXVK6NN577FDVT2I/)
@@ -243,120 +180,174 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月22日　グーグルが「ジェミニ」低価格版発表、最上位モデル投入時期は明言せず　ロイター<br>
 　[https://jp.reuters.com/economy/ZE3XECTR7NPGJLBV23KWWPHX6Q-2026-07-21/](https://jp.reuters.com/economy/ZE3XECTR7NPGJLBV23KWWPHX6Q-2026-07-21/)
 
-○7月22日　日経平均は続伸で寄り付く、ＡＩ・半導体株がけん引 内需株弱い　ロイター<br>
-　[https://jp.reuters.com/markets/japan/EHMYLKYJV5NQ7KEAHXASKDRRZA-2026-07-22/](https://jp.reuters.com/markets/japan/EHMYLKYJV5NQ7KEAHXASKDRRZA-2026-07-22/)
-
-○7月22日　OpenAI、開発中のAIがサイバー攻撃 他社システムに「誤侵入」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN2208J0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOGN2208J0S6A720C2000000/)
-
-○7月22日　【売却時の仲介手数料１％】AIとDX活用で不動産売却時の仲介手数料１％サービスをリリース　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000005.000184841&g=prt](https://www.jiji.com/jc/article?k=000000005.000184841&g=prt)
-
 ○7月22日　モービルアイ、ステランティスにクラウド型運転支援技術を供給　ロイター<br>
 　[https://jp.reuters.com/markets/japan/2OPKSZLW4BIYTBMM6GKEO2TMXE-2026-07-22/](https://jp.reuters.com/markets/japan/2OPKSZLW4BIYTBMM6GKEO2TMXE-2026-07-22/)
-
-○7月22日　売れるネット広告社グループ[9235]：営業AIエージェント「SOBAセールスAI」の提供を開始～営業担当者は売ることだけに集中。営業事務をAIが代行する新時代へ～ 2026年7月22日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1g9ex&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260721597129/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1g9ex&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260721597129/)
-
-○7月22日　日経平均株価終値116円安 急失速、半導体株買いの勢い続かず　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUB2192HTR20C26A7000000/](https://www.nikkei.com/article/DGXZQOUB2192HTR20C26A7000000/)
 
 ○7月22日　デジタルプラス[3691]：岐阜県「ぎふモーニングスタンプラリー」にデジタルギフトを提供 2026年7月22日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/disclosure/tdnr/20260722597343/](https://www.nikkei.com/nkd/disclosure/tdnr/20260722597343/)
 
-○7月22日　4〜6月の投資信託の運用成績、半導体株関連が上位に　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUB1536U0V10C26A7000000/](https://www.nikkei.com/article/DGXZQOUB1536U0V10C26A7000000/)
-
 ○7月22日　ハンモック[173A]：DX OCR、マスタ連携機能の強化およびUI/UXを刷新した新バージョンをリリース 2026年7月22日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/disclosure/tdnr/20260722597329/](https://www.nikkei.com/nkd/disclosure/tdnr/20260722597329/)
-
-○7月22日　製造業の75％、サプライチェーン“全体”を把握できずTier2以降が“見えない”企業は44.5％＝製造業SCM実態調査2026　産経ニュース<br>
-　[https://www.sankei.com/pressrelease/prtimes/XQ3IAZYVZNLEZKLBQ2HABPUM64/](https://www.sankei.com/pressrelease/prtimes/XQ3IAZYVZNLEZKLBQ2HABPUM64/)
-
-○7月22日　株式会社BPIO、日本最大級のDX総合展「DX総合EXPO 2026 夏 東京」に出展　産経ニュース<br>
-　[https://www.sankei.com/pressrelease/prtimes/NRD3YD4PHZIGBPODZ6QQVPIXUM/](https://www.sankei.com/pressrelease/prtimes/NRD3YD4PHZIGBPODZ6QQVPIXUM/)
 
 ○7月22日　米アップル、米国内で新たなリースプログラムを導入へ＝ＢＢＧ　ロイター<br>
 　[https://jp.reuters.com/world/3DKTFFWUJ5N7TGSB3YMX275RII-2026-07-22/](https://jp.reuters.com/world/3DKTFFWUJ5N7TGSB3YMX275RII-2026-07-22/)
 
-○7月22日　Terra Drone株価2カ月ぶり高値 迎撃AIドローン市場展開　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFL221FO0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOFL221FO0S6A720C2000000/)
+○7月22日　AI半導体、高値奪還には時間 韓国株で揺れない銘柄選び ヴェリタスEYE（7月22日）　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOKC225LV0S6A720C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOKC225LV0S6A720C2000000)
 
-○7月22日　オプティム[3694]：病院向け生成AIサービス「OPTiM AI ホスピタル」ver.3.1、申し送り業務を支援するAI機能を強化 2026年7月22日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1iewb&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260722597547/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1iewb&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260722597547/)
-
-○7月22日　オプティム[3694]：病院向け生成AIサービス「OPTiM AI ホスピタル」ver.3.1、申し送り業務を支援するAI機能を強化 2026年7月22日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20260722597547/](https://www.nikkei.com/nkd/disclosure/tdnr/20260722597547/)
-
-○7月22日　バブルか否か 日本株、AI相場の行方を探る　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOKC221SG0S6A720C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOKC221SG0S6A720C2000000)
-
-○7月22日　【発売5ヶ月で5万部突破】『Googleで学んだ 圧倒的成果を出し続けるマネジャーの最優先事項』　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000001589.000018193&g=prt](https://www.jiji.com/jc/article?k=000001589.000018193&g=prt)
-
-○7月22日　岐阜県「ぎふモーニングスタンプラリー」にデジタルギフト(R)を提供　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000340.000007199&g=prt](https://www.jiji.com/jc/article?k=000000340.000007199&g=prt)
-
-○7月22日　安川電機株価続伸 岡三証券が目標上げ「フィジカルAI最注目テーマ」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFL223I20S6A720C2000000/](https://www.nikkei.com/article/DGXZQOFL223I20S6A720C2000000/)
-
-○7月22日　AI新世紀：勉強はAI先生と「マンツーマン」 激変の塾業界、個別化教育の行方　毎日新聞<br>
-　[https://mainichi.jp/articles/20260719/k00/00m/040/196000c](https://mainichi.jp/articles/20260719/k00/00m/040/196000c)
-
-○7月22日　エクイニクス・ジャパン小川社長「AIインフラ、地域との共存課題」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC223UF0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOUC223UF0S6A720C2000000/)
-
-○7月22日　音声認識・AI要約サービス「QuickSummary2.0」とクラウド型コールセンターシステム「BIZTEL」がシステム連携を開始　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000046.000062562&g=prt](https://www.jiji.com/jc/article?k=000000046.000062562&g=prt)
-
-○7月22日　【開催報告】第99回勉強会「医療DX時代に病院が知るべきサイバー危機管理」主催：日本の医療の未来を考える会　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000172.000096694&g=prt](https://www.jiji.com/jc/article?k=000000172.000096694&g=prt)
-
-○7月22日　Apple Watchバンド専門店「BELTIES」、2点以上で20％OFFのサマーセールを開催中　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000039.000046265&g=prt](https://www.jiji.com/jc/article?k=000000039.000046265&g=prt)
-
-○7月22日　クラウド型コールセンターシステム「 BIZTEL 」と音声認識・AI要約サービス「QuickSummary2.0」が連携開始　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000208.000007832&g=prt](https://www.jiji.com/jc/article?k=000000208.000007832&g=prt)
-
-○7月22日　米オープンAI 高性能モデルが意図せず他社に攻撃と発表 | NHKニュース | 生成AI・人工知能、サイバー攻撃、IT・ネット　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/na-k10015182641000](https://news.web.nhk/newsweb/na/na-k10015182641000)
-
-○7月22日　オープンAIの人工知能 テスト中に隔離環境抜け出し、サイバー攻撃「自律的に起こった」　産経ニュース<br>
-　[https://www.sankei.com/article/20260722-2MMNPNOKB5EXJL7M3EUB3LVKGY/](https://www.sankei.com/article/20260722-2MMNPNOKB5EXJL7M3EUB3LVKGY/)
-
-○7月22日　ＡＩメカテック[6227]：ＡＩ用先端半導体パッケージ向けはんだボールマウンタシステム受注のお知らせ 2026年7月22日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1g9d1&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260721597061/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g1g9d1&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260721597061/)
-
-○7月22日　【調達数5年で3.8倍】官公庁のクラウド調達が36件→135件に拡大--増加の裏にある「ある構造」とは　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000016.000183887&g=prt](https://www.jiji.com/jc/article?k=000000016.000183887&g=prt)
-
-○7月22日　1〜6月輸出13.7%増、半導体けん引 台湾やマレーシアから需要拡大　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUA211PC0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOUA211PC0R20C26A7000000/)
-
-○7月22日　クラウドPBX「GoodLine」が「ITreview Grid Award 2026 Summer」にて、クラウドPBX部門で最高位の「Leader」を9期連続受賞　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000025.000034520&g=prt](https://www.jiji.com/jc/article?k=000000025.000034520&g=prt)
-
-○7月22日　九州の5月鉱工業生産「持ち直している」 半導体・自動車で上方修正　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOJC224890S6A720C2000000/](https://www.nikkei.com/article/DGXZQOJC224890S6A720C2000000/)
-
-○7月22日　事務職×AI活用スキルを習得できる職業訓練「オフィスDXを基礎から学ぶ！AI時代の事務担当者養成科」受講生募集開始　産経ニュース<br>
-　[https://www.sankei.com/pressrelease/prtimes/XDEV76A46FIC5IQRMWGEG3ZX34/](https://www.sankei.com/pressrelease/prtimes/XDEV76A46FIC5IQRMWGEG3ZX34/)
-
-○7月22日　AI暴走、開発元OpenAIも防げず 制御の難しさ浮き彫りに　日本経済新聞<br>
+○7月22日　AI暴走、実験環境を脱出 OpenAIがサイバー事故に危機感　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN222210S6A720C2000000/](https://www.nikkei.com/article/DGXZQOGN222210S6A720C2000000/)
-
-○7月22日　高松市、AIによる電話対応を8月から導入 担当職員に取り次ぎ　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOCC223PH0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOCC223PH0S6A720C2000000/)
-
-○7月22日　AI新世紀：ムーンショットショック? 中国の最新AI「Kimi」に米国衝撃　毎日新聞<br>
-　[https://mainichi.jp/articles/20260722/k00/00m/020/266000c](https://mainichi.jp/articles/20260722/k00/00m/020/266000c)
-
-○7月22日　新潟県労働金庫、顧客対応の訓練にAIアバター活用　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOCC211XY0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOCC211XY0R20C26A7000000/)
 
 ○7月22日　JX金属、韓国の半導体材料拠点の加工能力2倍に 40億円投資　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC227J30S6A720C2000000/](https://www.nikkei.com/article/DGXZQOUC227J30S6A720C2000000/)
 
-○7月22日　群馬大学、中学校の健診で「デジタル心音図検査」 胸部の露出不要　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOCC211ZZ0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOCC211ZZ0R20C26A7000000/)
+○7月22日　オープンAIの開発中モデル、勝手にサイバー攻撃 試験の高得点狙う [AIの時代]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV7Q2TF0V7QUHBI00WM.html](https://www.asahi.com/articles/ASV7Q2TF0V7QUHBI00WM.html)
+
+○7月22日　データセンター共生へ 薩摩川内市や鹿児島大学などが連携協定　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nb-5050036160](https://news.web.nhk/newsweb/na/nb-5050036160)
+
+○7月22日　日立、インテル・産総研と「シリコン量子コンピューター」開発　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC227Q60S6A720C2000000/](https://www.nikkei.com/article/DGXZQOUC227Q60S6A720C2000000/)
+
+○7月22日　浜名湖産の親ウナギ放流にクラウドファンディング 30万円調達目標　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCC223D40S6A720C2000000/](https://www.nikkei.com/article/DGXZQOCC223D40S6A720C2000000/)
+
+○7月22日　九州電力やソニー系、鹿児島・薩摩川内と連携 データセンター集積へ　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOJC225X40S6A720C2000000/](https://www.nikkei.com/article/DGXZQOJC225X40S6A720C2000000/)
+
+○7月22日　【売却時の仲介手数料１％】AIとDX活用で不動産売却時の仲介手数料１％サービスをリリース　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000005.000184841&g=prt](https://www.jiji.com/jc/article?k=000000005.000184841&g=prt)
+
+○7月22日　茂木外相、対中念頭にASEANと連携深化図る QUAD外相会合も　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV7Q3JPSV7QUTFK00VM.html](https://www.asahi.com/articles/ASV7Q3JPSV7QUTFK00VM.html)
+
+○7月22日　ＡＭＤ、アンソロピックに最大50億ドル出資 ＡＩ半導体供給へ　ロイター<br>
+　[https://jp.reuters.com/economy/JKUSDDV64NLVBMRCGTES7SNSXE-2026-07-22/](https://jp.reuters.com/economy/JKUSDDV64NLVBMRCGTES7SNSXE-2026-07-22/)
+
+○7月23日　岐阜県「ぎふモーニングスタンプラリー」にデジタルギフト(R)を提供　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000340.000007199&g=prt](https://www.jiji.com/jc/article?k=000000340.000007199&g=prt)
+
+○7月23日　WSJ日本版：オープンAI、クラウド予算122兆円に引き上げ 計算能力確保へ　毎日新聞<br>
+　[https://mainichi.jp/articles/20260723/wsj/00m/020/001000c](https://mainichi.jp/articles/20260723/wsj/00m/020/001000c)
+
+○7月23日　米IBM、通期売り上げ下方修正 決算から透けるAIの破壊力　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN2031Q0Q6A720C2000000/](https://www.nikkei.com/article/DGXZQOGN2031Q0Q6A720C2000000/)
+
+○7月23日　米州政府、データセンターでオラクルに1兆円担保要求 住民反発で　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN21BAP0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOGN21BAP0R20C26A7000000/)
+
+○7月23日　旅行や保険をAIに相談「過半数」 電通デジタル調査　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC173S90X10C26A7000000/](https://www.nikkei.com/article/DGXZQOUC173S90X10C26A7000000/)
+
+○7月23日　世界デジタルサミット、AI有効活用 ユニツリー、ロボ2万台生産 スカパーJSATは衛星データ分析　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGKKZO97709040S6A720C2TB1000/](https://www.nikkei.com/article/DGKKZO97709040S6A720C2TB1000/)
+
+○7月23日　【調達数5年で3.8倍】官公庁のクラウド調達が36件→135件に拡大--増加の裏にある「ある構造」とは　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000016.000183887&g=prt](https://www.jiji.com/jc/article?k=000000016.000183887&g=prt)
+
+○7月23日　AMD、アンソロピックに8200億円投資 AI半導体の供給契約も　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN22BHN0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOGN22BHN0S6A720C2000000/)
+
+○7月23日　［再考 デジタル教育］教科書「紙中心に」根強い声…文科省 教委や学校調査　読売新聞<br>
+　[https://www.yomiuri.co.jp/kyoiku/kyoiku/20260722-GYT8T00161/](https://www.yomiuri.co.jp/kyoiku/kyoiku/20260722-GYT8T00161/)
+
+○7月23日　TDKや出光興産参入で活況、データセンターの冷却8兆円市場　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC111ZA0R10C26A7000000/](https://www.nikkei.com/article/DGXZQOUC111ZA0R10C26A7000000/)
+
+○7月23日　九電やソニー系など､データセンター集積見据え連携　日本経済新聞<br>
+　[https://www.nikkei.com/prime/gx/article/DGXZQOUC22A2X0S6A720C2000000](https://www.nikkei.com/prime/gx/article/DGXZQOUC22A2X0S6A720C2000000)
+
+○7月23日　データセンター建設ラッシュの印西市、「地区計画変更」で乱開発抑止　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC080LZ0Y6A700C2000000/](https://www.nikkei.com/article/DGXZQOUC080LZ0Y6A700C2000000/)
+
+○7月23日　半導体、信号遅延を最小化 ファーウェイが新設計思想　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOSG0774J0X00C26A7000000/](https://www.nikkei.com/article/DGXZQOSG0774J0X00C26A7000000/)
+
+○7月23日　「九州の半導体、成長のジャンプ台に」経産省の野原局長 供給網分厚く　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOJC16B6W0W6A710C2000000/](https://www.nikkei.com/article/DGXZQOJC16B6W0W6A710C2000000/)
+
+○7月23日　東京大学など、発光を電気制御できる2D半導体 光集積回路に - 日経テックフォーサイト　日本経済新聞<br>
+　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC140OC0U6A710C2000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC140OC0U6A710C2000000)
+
+○7月23日　野村総研、国内事業好調で上振れ余地 AI導入支援で再評価も　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB191780Z10C26A7000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB191780Z10C26A7000000)
+
+○7月23日　AI面接サービス乱立、パソナも参入 顧客の「選考」突破へ機能拡張　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC121KE0S6A710C2000000/](https://www.nikkei.com/article/DGXZQOUC121KE0S6A710C2000000/)
+
+○7月23日　サムスン、大画面で折り畳みスマホ競争へ Apple迎え撃つ　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM201MS0Q6A720C2000000/](https://www.nikkei.com/article/DGXZQOGM201MS0Q6A720C2000000/)
+
+○7月23日　点描／半導体検査装置、光電融合デバイス照準 AI向け低消費電力通信支える　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/00787483](https://www.nikkan.co.jp/articles/view/00787483)
+
+○7月23日　アルファベット純利益18兆円、クラウド好調 スペースX上場も恩恵　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN180O60Y6A710C2000000/](https://www.nikkei.com/article/DGXZQOGN180O60Y6A710C2000000/)
+
+○7月23日　Kimiが突きつけたAI「コモディティー化」 トランプ政権で規制論浮上　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN21B4Z0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOGN21B4Z0R20C26A7000000/)
+
+○7月23日　「AIの黒子」代表もつまずく市場期待のハードル 米国株相場の上値重く　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN22BAH0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOGN22BAH0S6A720C2000000/)
+
+○7月23日　グーグル親会社 4～6月期決算 営業利益前年同期比30％増　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/na-k10015183101000](https://news.web.nhk/newsweb/na/na-k10015183101000)
+
+○7月23日　AIに負けない人材を 戸田市立「デジタライズド中学校」の中身 [埼玉県]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV7M3D1JV7MUTNB01DM.html](https://www.asahi.com/articles/ASV7M3D1JV7MUTNB01DM.html)
+
+○7月23日　データセンター建設、住民と摩擦も 地方分散へ合意形成が課題　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=2026072200799&g=eco](https://www.jiji.com/jc/article?k=2026072200799&g=eco)
+
+○7月23日　データセンター建設、住民と摩擦も 地方分散へ合意形成が課題　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=2026072200799&g=eco&p=20260722ax04S&rel=pv](https://www.jiji.com/jc/article?k=2026072200799&g=eco&p=20260722ax04S&rel=pv)
+
+○7月23日　半導体のAMD1.4%高 米国個別株騰落（22日）　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOFL22BQC0S6A720C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOFL22BQC0S6A720C2000000)
+
+○7月23日　米IT大手グーグルのロゴ＝3月、米テキサス州ヒューストン（ロイター＝共同）　産経ニュース<br>
+　[https://www.sankei.com/article/20260723-7DG47TKWBJJA3MLZ4GACOUN3MU/photo/5THOQDDGMVIO5FLRB6OSPAAOZU/](https://www.sankei.com/article/20260723-7DG47TKWBJJA3MLZ4GACOUN3MU/photo/5THOQDDGMVIO5FLRB6OSPAAOZU/)
+
+○7月23日　アルファベット、設備投資見通し上げ クラウド好調で売上高予想超え　ロイター<br>
+　[https://jp.reuters.com/economy/DFLS3HZFINJXDD5CQZF4CCM5HQ-2026-07-22/](https://jp.reuters.com/economy/DFLS3HZFINJXDD5CQZF4CCM5HQ-2026-07-22/)
+
+○7月23日　AI電力需要増も送電網の容量に課題 東京ガスが見いだす商機は？　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV7Q2Q09V7QULFA01RM.html](https://www.asahi.com/articles/ASV7Q2Q09V7QULFA01RM.html)
+
+○7月23日　韓国ＧＤＰ、第2四半期は前期比0.6％増で予想上回る 半導体輸出好調　ロイター<br>
+　[https://jp.reuters.com/markets/japan/U6ACNLYZGNMHFIHSTYZNS4424Q-2026-07-22/](https://jp.reuters.com/markets/japan/U6ACNLYZGNMHFIHSTYZNS4424Q-2026-07-22/)
+
+○7月23日　日産化学株、年初から5割高 半導体「ニッチ材料」に脚光　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL214UQTR20C26A7000000/](https://www.nikkei.com/article/DGXZQOFL214UQTR20C26A7000000/)
+
+○7月23日　日本参加の米AI活用科学戦略が始動 原子力分野や重要鉱物重視　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/na-k10015183111000](https://news.web.nhk/newsweb/na/na-k10015183111000)
+
+○7月23日　日経平均株価、一時800円高 米半導体や韓国株高で　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL230J90T20C26A7000000/](https://www.nikkei.com/article/DGXZQOFL230J90T20C26A7000000/)
+
+○7月23日　日経平均は反発で寄り付く、半導体株底堅い　ロイター<br>
+　[https://jp.reuters.com/markets/japan/XFDJDMREYJI7NMZ6NXUOFYJ7IE-2026-07-23/](https://jp.reuters.com/markets/japan/XFDJDMREYJI7NMZ6NXUOFYJ7IE-2026-07-23/)
+
+○7月23日　アルファベット、クラウド加速もAI投資は増額 好材料不足　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL22BFV0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOFL22BFV0S6A720C2000000/)
+
+○7月23日　尊厳が置き去りにされないAI社会を…「人間中心」提言する団体発足 [AIの時代]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV7Q351ZV7QUTFL00FM.html](https://www.asahi.com/articles/ASV7Q351ZV7QUTFL00FM.html)
+
+○7月23日　アンドドット、顧客企業に常駐しDX／AXを一気通貫で推進する「常駐型FDE」サービスの提供を開始　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000113.000125579&g=prt](https://www.jiji.com/jc/article?k=000000113.000125579&g=prt)
+
+○7月23日　AIメカテックの株価、一時13%高 海外大手から半導体装置受注　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL230PJ0T20C26A7000000/](https://www.nikkei.com/article/DGXZQOFL230PJ0T20C26A7000000/)
+
+○7月23日　米、中国企業がAIで不正と非難 制裁警告、アンソロピックの技術　毎日新聞<br>
+　[https://mainichi.jp/articles/20260723/k00/00m/020/030000c](https://mainichi.jp/articles/20260723/k00/00m/020/030000c)
+
+○7月23日　韓国GDP0.6％増 4～6月期、半導体や機械輸出がけん引 原油価格上昇影響打ち消す　産経ニュース<br>
+　[https://www.sankei.com/article/20260723-MMSPKT74YBNLHD3WQMDK4MMLMQ/](https://www.sankei.com/article/20260723-MMSPKT74YBNLHD3WQMDK4MMLMQ/)
+
+○7月23日　AI導入で営業利益は3倍に 元電機大手の理系人材が変える建設現場　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV7B1SSMV7BOXIE050M.html](https://www.asahi.com/articles/ASV7B1SSMV7BOXIE050M.html)
 

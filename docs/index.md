@@ -1,4 +1,4 @@
-更新日時：2026年7月25日 10:49（JST）
+更新日時：2026年7月25日 18:00（JST）
 
 【松本尚デジタル大臣】<br>
 ○7月24日の大臣記者会見（13分21秒）<br>
@@ -154,9 +154,6 @@
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○7月21日　米データセンターの「制約」が生む日本企業の商機　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUB14BIU0U6A710C2000000/](https://www.nikkei.com/article/DGXZQOUB14BIU0U6A710C2000000/)
-
 ○7月21日　地政学リスクと経済安全保障（6）欧州の右翼勢力伸長とビジネス環境　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/00787191](https://www.nikkan.co.jp/articles/view/00787191)
 
@@ -199,6 +196,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月22日　茂木外相、対中念頭にASEANと連携深化図る QUAD外相会合も　朝日新聞<br>
 　[https://www.asahi.com/sp/articles/photo/AS20260722004565.html?iref=sp_photo_gallery_3](https://www.asahi.com/sp/articles/photo/AS20260722004565.html?iref=sp_photo_gallery_3)
 
+○7月22日　ＡＭＤ、アンソロピックに最大50億ドル出資 ＡＩ半導体供給へ　ロイター<br>
+　[https://jp.reuters.com/economy/JKUSDDV64NLVBMRCGTES7SNSXE-2026-07-22/](https://jp.reuters.com/economy/JKUSDDV64NLVBMRCGTES7SNSXE-2026-07-22/)
+
 ○7月23日　米州政府、データセンターでオラクルに1兆円担保要求 住民反発で　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN21BAP0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOGN21BAP0R20C26A7000000/)
 
@@ -225,6 +225,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○7月23日　日産化学株、年初から5割高 半導体「ニッチ材料」に脚光　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFL214UQTR20C26A7000000/](https://www.nikkei.com/article/DGXZQOFL214UQTR20C26A7000000/)
+
+○7月23日　アルファベット、クラウド加速もAI投資は増額 好材料不足　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL22BFV0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOFL22BFV0S6A720C2000000/)
 
 ○7月23日　デジタルハーツホールディングス[3676]：AGEST、米Lazarus社との共同開発を通じた「自律型AIによる包括的サイバーセキュリティプラットフォーム『AGEST ZERO SHIELD』」の商用化に向けたPoC提供を開始 2026年7月23日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/disclosure/tdnr/20260723598024/](https://www.nikkei.com/nkd/disclosure/tdnr/20260723598024/)
@@ -280,11 +283,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月24日　中国AI新興「オープンソース」4強、米優位揺らす 企業価値30兆円超　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM180R50Y6A710C2000000/](https://www.nikkei.com/article/DGXZQOGM180R50Y6A710C2000000/)
 
+○7月24日　半導体のテキサス・インスツルメンツ3.1%安 米国個別株騰落（23日）　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOFL23BRE0T20C26A7000000](https://www.nikkei.com/prime/veritas/article/DGXZQOFL23BRE0T20C26A7000000)
+
 ○7月24日　インテル、7─9月見通しが予想超え ＡＩブームで半導体需要拡大　ロイター<br>
 　[https://jp.reuters.com/economy/7U7SFBWYUFPN7BMSP542QH55UY-2026-07-23/](https://jp.reuters.com/economy/7U7SFBWYUFPN7BMSP542QH55UY-2026-07-23/)
-
-○7月24日　日本の生成AI利用まだ6割 仕事中心、7割超の米国は「友達」使い　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUA223GZ0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOUA223GZ0S6A720C2000000/)
 
 ○7月24日　総務省がグーグルやXなど5社に勧告 情プラ法に基づく報告に不備　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV7S0CVRV7SULFA007M.html](https://www.asahi.com/articles/ASV7S0CVRV7SULFA007M.html)
@@ -292,17 +295,8 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月24日　総務省がグーグルやXなど5社に勧告 情プラ法に基づく報告に不備　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV7S0CVRV7SULFA007M.html?iref=comtop_Business_01](https://www.asahi.com/articles/ASV7S0CVRV7SULFA007M.html?iref=comtop_Business_01)
 
-○7月24日　米グーグルに1600億円制裁 EU、自社サービス優遇 「デジタル市場法に違反」　産経ニュース<br>
-　[https://www.sankei.com/article/20260724-FBMNOGI5HJNBJHBI77H2IE45UU/](https://www.sankei.com/article/20260724-FBMNOGI5HJNBJHBI77H2IE45UU/)
-
 ○7月24日　米Googleなど5社に初の是正勧告 総務省、悪質投稿対策を要請　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUA240R20U6A720C2000000/](https://www.nikkei.com/article/DGXZQOUA240R20U6A720C2000000/)
-
-○7月24日　グーグルなど５社に勧告 投稿削除の公表で不備―総務省　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026072400539&g=eco&p=20260724ds59&rel=pv](https://www.jiji.com/jc/article?k=2026072400539&g=eco&p=20260724ds59&rel=pv)
-
-○7月24日　高市首相「半導体・自動車で重要」 南鳥島沖でレアアース確認　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUA2442H0U6A720C2000000/](https://www.nikkei.com/article/DGXZQOUA2442H0U6A720C2000000/)
 
 ○7月24日　〈Leader's Voice〉データセンター投資でファンド 物流不動産大手ESR フィリップ・ピアース社長　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGKKZO97741890U6A720C2BZ0000](https://www.nikkei.com/article/DGKKZO97741890U6A720C2BZ0000)
@@ -316,26 +310,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月24日　京セラ、半導体分野に6500億円投資 社長「さらに攻める局面も」 [AIの時代]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV7Q0PGSV7QPLFA005M.html?iref=com_rnavi_rensai_1](https://www.asahi.com/articles/ASV7Q0PGSV7QPLFA005M.html?iref=com_rnavi_rensai_1)
 
-○7月24日　SNS上の不適切投稿めぐりグーグルやXなど5社に勧告 総務省　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/na-k10015185231000](https://news.web.nhk/newsweb/na/na-k10015185231000)
-
-○7月24日　スターティアホールディングス[3393]：クラウドサーカスの『BowNow』、ITreview Grid Award 2026 Summerで2部門受賞 2026年7月24日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20260724599047/](https://www.nikkei.com/nkd/disclosure/tdnr/20260724599047/)
-
-○7月24日　設定方法（画像：Googleの動画より）　産経ニュース<br>
-　[https://www.sankei.com/article/20260724-FBK43ZP5TNJMJPYSCALWJFTSLI/photo/MWK4T3VKXBJLPHUL664SLEAYL4/](https://www.sankei.com/article/20260724-FBK43ZP5TNJMJPYSCALWJFTSLI/photo/MWK4T3VKXBJLPHUL664SLEAYL4/)
-
-○7月24日　キヤノンMJがオフィス複合機値上げ 9月、半導体や樹脂高騰　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC2480Q0U6A720C2000000/](https://www.nikkei.com/article/DGXZQOUC2480Q0U6A720C2000000/)
-
 ○7月24日　微生物から半導体部材の原料量産 東大発新興企業、ナフサ依存脱却へ　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC074XX0X00C26A7000000/](https://www.nikkei.com/article/DGXZQOUC074XX0X00C26A7000000/)
 
 ○7月24日　ＥＵ欧州委、ＴｉｋＴｏｋはデジタルサービス法違反と暫定的見解…未成年者の安全利用に不備　読売新聞<br>
 　[https://www.yomiuri.co.jp/economy/20260724-GYT1T00354/](https://www.yomiuri.co.jp/economy/20260724-GYT1T00354/)
-
-○7月24日　金融市場揺らした中国ムーンショットAIとは ロンドン×東京視点で語る【ポッドキャスト】　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOLC217700R20C26A7000000/](https://www.nikkei.com/article/DGXZQOLC217700R20C26A7000000/)
 
 ○7月24日　ＴｉｋＴｏｋ、未成年保護で不備 デジタル法違反と暫定判断―ＥＵ　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026072400818&g=int](https://www.jiji.com/jc/article?k=2026072400818&g=int)
@@ -345,12 +324,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○7月25日　東大発新興、微生物から半導体部材原料 29年にも量産 ナフサ由来の代替めざす　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGKKZO97763050U6A720C2EA5000/](https://www.nikkei.com/article/DGKKZO97763050U6A720C2EA5000/)
-
-○7月25日　Genspark、AIスライド資料で日韓席巻 次の一手はメールとボイレコ　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC230SK0T20C26A7000000/](https://www.nikkei.com/article/DGXZQOUC230SK0T20C26A7000000/)
-
-○7月25日　二極化するデザイナー、AIが「頭の中の判断基準」学習 中間層不要に　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC130DH0T10C26A7000000/](https://www.nikkei.com/article/DGXZQOUC130DH0T10C26A7000000/)
 
 ○7月25日　「見せかけAI」で訴訟急増 投資家欺いた疑い、米当局は摘発強化　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN16CTK0W6A710C2000000/](https://www.nikkei.com/article/DGXZQOGN16CTK0W6A710C2000000/)
@@ -362,7 +335,7 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB235B60T20C26A7000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB235B60T20C26A7000000)
 
 ○7月25日　26年4〜6月決算、半導体関連の好調どこまで 米テックは設備投資焦点　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB1770J0X10C26A7000000?n_cid=DSPRM1OTR01_NKD_Prime](https://www.nikkei.com/prime/veritas/article/DGXZQOUB1770J0X10C26A7000000?n_cid=DSPRM1OTR01_NKD_Prime)
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB1770J0X10C26A7000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB1770J0X10C26A7000000)
 
 ○7月25日　半導体軸足 市場評価 事業も再編 株高招く 社名変更の連載〈２〉：地域ニュース　読売新聞<br>
 　[https://www.yomiuri.co.jp/local/chubu/feature/20260724-GYTAT00034/](https://www.yomiuri.co.jp/local/chubu/feature/20260724-GYTAT00034/)
@@ -370,17 +343,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月25日　理研、新スパコン公開 科学研究用AI開発や量子コンピューター連携　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUF2466P0U6A720C2000000/](https://www.nikkei.com/article/DGXZQOUF2466P0U6A720C2000000/)
 
-○7月25日　「AIの『脳』の解読が私の仕事」 アンソロピック研究者が語る展望　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOSG200QQ0Q6A720C2000000/](https://www.nikkei.com/article/DGXZQOSG200QQ0Q6A720C2000000/)
-
 ○7月25日　電通、あえて「95%」止まりのAI化 見えてきた人の役割　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC225NM0S6A720C2000000/](https://www.nikkei.com/article/DGXZQOUC225NM0S6A720C2000000/)
 
-○7月25日　AIの急速な進歩に後れ取らず 茶谷栄治・公正取引委員会委員長　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUA217MV0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOUA217MV0R20C26A7000000/)
-
-○7月25日　さくらネット、タイの大学でAI人材育成へ ASEAN展開の足場に　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUF216YS0R20C26A7000000/](https://www.nikkei.com/article/DGXZQOUF216YS0R20C26A7000000/)
+○7月25日　「AIの『脳』の解読が私の仕事」 アンソロピック研究者が語る展望　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOSG200QQ0Q6A720C2000000/](https://www.nikkei.com/article/DGXZQOSG200QQ0Q6A720C2000000/)
 
 ○7月25日　情報開示不備で勧告 総務省 グーグルやＸなど５社 情プラ法違反　読売新聞<br>
 　[https://www.yomiuri.co.jp/shimen/20260725-GYT9T00055/](https://www.yomiuri.co.jp/shimen/20260725-GYT9T00055/)
@@ -400,12 +367,21 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○7月25日　落ちた冷麺を出した店が許せない AIに訴状書かせ企業を訴えてみた [大阪府] [AIの時代]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV7J33P2V7JPTIL008M.html](https://www.asahi.com/articles/ASV7J33P2V7JPTIL008M.html)
 
-○7月25日　トランプ米大統領、高関税掲げEUけん制 欧州委のグーグルへの1600億円制裁金で　産経ニュース<br>
-　[https://www.sankei.com/article/20260725-HKWF2SM64JNIZM4HQZX6VERLDQ/](https://www.sankei.com/article/20260725-HKWF2SM64JNIZM4HQZX6VERLDQ/)
-
 ○7月25日　アングル：韓国の半導体メガクラスター構想、電力と水不足の懸念に住民反発　ロイター<br>
 　[https://jp.reuters.com/economy/ZMER2NWJSBLINFOA5PPFUWV44M-2026-07-24/](https://jp.reuters.com/economy/ZMER2NWJSBLINFOA5PPFUWV44M-2026-07-24/)
 
-○7月25日　Nasdaq lags on angst over AI spending ahead of earnings reports　ロイター<br>
-　[https://jp.reuters.com/video/watch/idRW069924072026RP1/](https://jp.reuters.com/video/watch/idRW069924072026RP1/)
+○7月25日　「米韓でAIインフラ強化」サムスン・SKと米テック連携 韓国大統領訪米　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN24BKO0U6A720C2000000/](https://www.nikkei.com/article/DGXZQOGN24BKO0U6A720C2000000/)
+
+○7月25日　夏休み、AI時代の「学ぶ力」は 認知心理学の今井むつみさんに聞く　朝日新聞<br>
+　[https://www.asahi.com/articles/ASV7S1GLKV7SUTIL01JM.html](https://www.asahi.com/articles/ASV7S1GLKV7SUTIL01JM.html)
+
+○7月25日　デジタル教科書「ハイブリッド」希望、小中学校で約9割 文科省調査　朝日新聞<br>
+　[https://www.asahi.com/sensei-connect/articles/16749255](https://www.asahi.com/sensei-connect/articles/16749255)
+
+○7月25日　公式デジタルトレーディングカード 台湾開幕戦に「T リーグカード」ブース出展　産経ニュース<br>
+　[https://www.sankei.com/pressrelease/prtimes/RLMQSWIUTRPENKSOIKEIWWSIWA/](https://www.sankei.com/pressrelease/prtimes/RLMQSWIUTRPENKSOIKEIWWSIWA/)
+
+○7月25日　アンソロピック、新型AI「オーパス5」提供 最上位並み性能で料金抑制　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN2503K0V20C26A7000000/](https://www.nikkei.com/article/DGXZQOGN2503K0V20C26A7000000/)
 

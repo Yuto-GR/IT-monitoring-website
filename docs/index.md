@@ -2,7 +2,7 @@
 [WARN] failed to fetch https://r.jina.ai/https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
 [WARN] failed to fetch https://r.jina.ai/https://www.meti.go.jp/shingikai/index.html: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
 [WARN] failed to fetch https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee: urllib attempt 1: The read operation timed out; urllib attempt 2: The read operation timed out; curl fallback: curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received
-更新日時：2026年8月15日 16:29（JST）
+更新日時：2026年8月16日 09:42（JST）
 
 【松本尚デジタル大臣】<br>
 該当データなし
@@ -43,30 +43,15 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　[https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/008/kaisai/index.html](https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/008/kaisai/index.html)
 
 【国家サイバー統括室・NCO】<br>
-8月11日〜8月15日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+8月12日〜8月16日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【金融庁】<br>
-8月11日〜8月15日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+8月12日〜8月16日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【公正取引委員会】<br>
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○8月12日　データセンター建設、テキサス州が抑制 トランプ氏は共和知事に反発　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN108ZJ0Q6A810C2000000/](https://www.nikkei.com/article/DGXZQOGN108ZJ0Q6A810C2000000/)
-
-○8月12日　フランス報道団体、競争当局に措置要請 グーグルのＡＩ要約記事巡り　ロイター<br>
-　[https://jp.reuters.com/economy/T2HJHNY2XFJ67C47RQWH5X2HGM-2026-08-11/](https://jp.reuters.com/economy/T2HJHNY2XFJ67C47RQWH5X2HGM-2026-08-11/)
-
-○8月12日　日本半導体産業、外資進出で生産基盤に厚み 投資額6兆円規模に　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC100GW0Q6A810C2000000/](https://www.nikkei.com/article/DGXZQOUC100GW0Q6A810C2000000/)
-
-○8月12日　Apple、株高にブレーキかけたメモリー高騰の「洪水」　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB076MN0X00C26A8000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB076MN0X00C26A8000000)
-
-○8月12日　キオクシアやAppleの特許を分析 知財記事まとめ読み　日本経済新聞<br>
-　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC05BAQ0V00C26A8000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC05BAQ0V00C26A8000000)
-
 ○8月12日　米オラクルとクオンティニュアム、量子コンピューター分野で複数年提携　ロイター<br>
 　[https://jp.reuters.com/economy/3EHBD6JONJNPRCKT5CMYWFYEVI-2026-08-12/](https://jp.reuters.com/economy/3EHBD6JONJNPRCKT5CMYWFYEVI-2026-08-12/)
 
@@ -90,6 +75,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○8月13日　埼玉の久保井塗装、塗料の使用量3割・不良品率半減 DXで好循環　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCC01B6F0R00C26A7000000/](https://www.nikkei.com/article/DGXZQOCC01B6F0R00C26A7000000/)
+
+○8月13日　TOTO半導体や光電融合 読まれた記事〜インタビュー編　日本経済新聞<br>
+　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC0559G0V00C26A8000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC0559G0V00C26A8000000)
 
 ○8月13日　東陽テクニカ、フィンランドIQMの量子コンピューターを産総研に設置　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC103U60Q6A810C2000000/](https://www.nikkei.com/article/DGXZQOUC103U60Q6A810C2000000/)
@@ -148,17 +136,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月13日　日経平均は3日続伸、半導体関連株がリード ＴＯＰＩＸは連日の最高値　ロイター<br>
 　[https://jp.reuters.com/markets/japan/RKPYMNL6UBL5TMMQVVDEJ5QGNY-2026-08-13/](https://jp.reuters.com/markets/japan/RKPYMNL6UBL5TMMQVVDEJ5QGNY-2026-08-13/)
 
-○8月13日　サカナAI最先端モデル、チャット利用可能に 高精度のやり取り実現　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC131IE0T10C26A8000000/](https://www.nikkei.com/article/DGXZQOUC131IE0T10C26A8000000/)
+○8月13日　高市戦略17分野、AI用半導体に賭け 官民68兆円投資の勝算は？　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUA231UJ0T20C26A7000000/](https://www.nikkei.com/article/DGXZQOUA231UJ0T20C26A7000000/)
 
 ○8月13日　「グーグルストア表参道」オープン…米国外で初の直営店、「技術と情熱が詰まった空間体験して」　読売新聞<br>
 　[https://www.yomiuri.co.jp/economy/20260813-GYT1T00265/](https://www.yomiuri.co.jp/economy/20260813-GYT1T00265/)
 
 ○8月13日　中国半導体受託SMIC、4〜6月の純利益3.6倍 AI・国産化推進が追い風　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM137T90T10C26A8000000/](https://www.nikkei.com/article/DGXZQOGM137T90T10C26A8000000/)
-
-○8月14日　国内ITシステム11社、30年にAI主導の開発に転換 生産性は最大1.5倍　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC0747M0X00C26A5000000/](https://www.nikkei.com/article/DGXZQOUC0747M0X00C26A5000000/)
 
 ○8月14日　深層断面／中小、設備保全DX加速 遠隔監視・故障予防など強化　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/00789305](https://www.nikkan.co.jp/articles/view/00789305)
@@ -171,9 +156,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○8月14日　NVIDIA、半導体後工程の米アムコーと15億ドル契約 米国生産を強化　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC282KP0Y6A720C2000000/](https://www.nikkei.com/article/DGXZQOUC282KP0Y6A720C2000000/)
-
-○8月14日　AI電力網は国民負担？ 大手電力が「6000億円分」値上げ申請　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/](https://www.nikkei.com/article/DGXZQOUC104JQ0Q6A810C2000000/)
 
 ○8月14日　グーグル、表参道に直営店 米国外で初、ＡＩ技術体験コーナーも　朝日新聞<br>
 　[https://www.asahi.com/articles/DA3S16525999.html](https://www.asahi.com/articles/DA3S16525999.html)
@@ -208,14 +190,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月14日　「ｉＰＳ細胞は次世代医療にとって半導体のような存在になる」日本を〈発明国〉から〈供給拠点〉へ…「マイｉＰＳ」をつくって保管するサービスも、製造コスト巡る企業の開発競争が激化　読売新聞<br>
 　[https://www.yomiuri.co.jp/local/kansai/news/20260814-GYO1T00100/](https://www.yomiuri.co.jp/local/kansai/news/20260814-GYO1T00100/)
 
-○8月14日　デジタルプラス[3691]：2026年９月期 第３四半期決算短信〔ＩＦＲＳ〕(連結) 2026年8月14日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g2u2p0&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260814521220/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g2u2p0&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260814521220/)
-
 ○8月14日　クラウドワークス[3900]：2026年９月期第３四半期 決算説明資料 2026年8月14日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g2u2da&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260814520798/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g2u2da&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260814520798/)
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20260814520798/](https://www.nikkei.com/nkd/disclosure/tdnr/20260814520798/)
 
 ○8月14日　ASMLが継続勤務ボーナス、370万円株支給 半導体技術者つなぎ留め　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGR22BV20S6A720C2000000/](https://www.nikkei.com/article/DGXZQOGR22BV20S6A720C2000000/)
+
+○8月14日　サイバーセキュリティクラウド[4493]：2026年12月期 第2四半期（中間期）決算短信〔日本基準〕（連結） 2026年8月14日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20260814521234/](https://www.nikkei.com/nkd/disclosure/tdnr/20260814521234/)
 
 ○8月14日　強もち合い、半導体株高の展開なら日経平均7万円回復も＝来週の東京株式市場　ロイター<br>
 　[https://jp.reuters.com/markets/japan/QGEDRTFSUBO7HPOGSEFXRS7FFU-2026-08-14/](https://jp.reuters.com/markets/japan/QGEDRTFSUBO7HPOGSEFXRS7FFU-2026-08-14/)
@@ -241,26 +223,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月15日　半導体が取り持つ台湾と米国 クリス・ホートン氏　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCD100SM0Q6A810C2000000/](https://www.nikkei.com/article/DGXZQOCD100SM0Q6A810C2000000/)
 
-○8月15日　車内環境のAIカスタマイズ、利用意向は日本で3割 先進国で最も低く　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC3198Z0R30C26A7000000/](https://www.nikkei.com/article/DGXZQOUC3198Z0R30C26A7000000/)
-
-○8月15日　アップル入社蹴って起業 中国AI「Kimi」楊CEO 米テックの磁力低下映す　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGKKZO98166220U6A810C2EA5000/](https://www.nikkei.com/article/DGKKZO98166220U6A810C2EA5000/)
-
 ○8月15日　ウォール・ストリート・ジャーナル：中国、米AI半導体を猛追 「総力戦」の内幕　毎日新聞<br>
 　[https://mainichi.jp/articles/20260807/org/00m/020/006000d](https://mainichi.jp/articles/20260807/org/00m/020/006000d)
 
 ○8月15日　ウォール・ストリート・ジャーナル：グーグル離れ 一部メディアが検討中　毎日新聞<br>
 　[https://mainichi.jp/articles/20260807/org/00m/020/007000d](https://mainichi.jp/articles/20260807/org/00m/020/007000d)
-
-○8月15日　シカゴ大法科大学院長「AI時代の弁護士、人間力を磨け」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN149SJ0U6A810C2000000/](https://www.nikkei.com/article/DGXZQOGN149SJ0U6A810C2000000/)
-
-○8月15日　奈良：戦後８１年 戦災孤児映画デジタル化「大佛さまと子供たち」：地域ニュース　読売新聞<br>
-　[https://www.yomiuri.co.jp/local/nara/news/20260814-GYTNT00195/](https://www.yomiuri.co.jp/local/nara/news/20260814-GYTNT00195/)
-
-○8月15日　茨城：【語り継ぐ 戦憶】資料、遺品 デジタル保存 特攻隊員日記や訓練写真：地域ニュース　読売新聞<br>
-　[https://www.yomiuri.co.jp/local/ibaraki/feature/20260814-GYTAT00050/](https://www.yomiuri.co.jp/local/ibaraki/feature/20260814-GYTAT00050/)
 
 ○8月15日　［挑む 新トップ２０２６］データセンター 世界で投資 ＮＴＴデータグループ 中山和彦社長 ６１　読売新聞<br>
 　[https://www.yomiuri.co.jp/shimen/20260814-GYT9T00339/](https://www.yomiuri.co.jp/shimen/20260814-GYT9T00339/)
@@ -268,36 +235,42 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月15日　住友ベークライト株が最高値接近 世界シェア4割の半導体材料好調　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUB1439N0U6A810C2000000/](https://www.nikkei.com/article/DGXZQOUB1439N0U6A810C2000000/)
 
-○8月15日　「富士フイルム、AI、バイオ、創薬で利益拡大」出遅れ国策株⑦　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB1212A0S6A810C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB1212A0S6A810C2000000)
-
-○8月15日　中国Kimi、米国モデルと互角の戦い オープン型AIの大攻勢 日経調査　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC061OQ0W6A800C2000000/](https://www.nikkei.com/article/DGXZQOUC061OQ0W6A800C2000000/)
-
 ○8月15日　米国株式市場＝Ｓ＆Ｐ反落、半導体銘柄が安い アプライド5％超安　ロイター<br>
 　[https://jp.reuters.com/markets/japan/SLBLF5BWB5JJ7GQJNFDXUAEDPY-2026-08-14/](https://jp.reuters.com/markets/japan/SLBLF5BWB5JJ7GQJNFDXUAEDPY-2026-08-14/)
-
-○8月15日　債券自警団は目覚めるか 財政赤字とAI投資、米国債への重圧　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFL141PG0U6A810C2000000/](https://www.nikkei.com/article/DGXZQOFL141PG0U6A810C2000000/)
 
 ○8月15日　上場企業、純利益６４％増 ＡＩ、半導体需要強く―４～６月期　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026081400651&g=eco&p=20260814ax10S&rel=pv](https://www.jiji.com/jc/article?k=2026081400651&g=eco&p=20260814ax10S&rel=pv)
 
-○8月15日　AI開発新興の買収完了、スペースX 評価額9兆5000億円で競争力強化　産経ニュース<br>
-　[https://www.sankei.com/article/20260815-ZRUYR6VGUVK3XGQXHTX6QH6FQM/](https://www.sankei.com/article/20260815-ZRUYR6VGUVK3XGQXHTX6QH6FQM/)
-
-○8月15日　悩みや生きづらさ、ネットでお坊さんに相談 AIが代替できないこと [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV7Z449KV7ZUHBI018M.html](https://www.asahi.com/articles/ASV7Z449KV7ZUHBI018M.html)
-
-○8月15日　AI陣営の「米中二股」許さず トランプ政権が各国に意向確認準備、中国を選ぶなら排除　産経ニュース<br>
-　[https://www.sankei.com/article/20260815-RWBJ2ISMBRNVVO4ZHE45CBBRXI/](https://www.sankei.com/article/20260815-RWBJ2ISMBRNVVO4ZHE45CBBRXI/)
-
-○8月15日　世界経済を脅かすデジタル版「鉄のカーテン」 独シーメンスCEO寄稿　日本経済新聞<br>
-　[https://www.nikkei.com/prime/ft/article/DGXZQOCB101LK0Q6A810C2000000](https://www.nikkei.com/prime/ft/article/DGXZQOCB101LK0Q6A810C2000000)
-
 ○8月15日　ラトニック米商務長官、Appleに中国製半導体の不使用を要請　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCB150Q00V10C26A8000000/](https://www.nikkei.com/article/DGXZQOCB150Q00V10C26A8000000/)
 
+○8月15日　米アップルのロゴ（ロイター＝共同）　産経ニュース<br>
+　[https://www.sankei.com/article/20260815-XRNEANWAENOQZLIFMU7CW7X724/photo/VFTSLOUVVZN6HN42O3JU4ZE5HI/](https://www.sankei.com/article/20260815-XRNEANWAENOQZLIFMU7CW7X724/photo/VFTSLOUVVZN6HN42O3JU4ZE5HI/)
+
 ○8月15日　WSJ日本版：米政権、アップルに中国製半導体メモリー使わないよう圧力　毎日新聞<br>
 　[https://mainichi.jp/articles/20260815/wsj/00m/020/004000c](https://mainichi.jp/articles/20260815/wsj/00m/020/004000c)
+
+○8月15日　［社説］新しい社会に向き合う思考力育め（AIと生きる）　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQODK079A80X00C26A8000000/](https://www.nikkei.com/article/DGXZQODK079A80X00C26A8000000/)
+
+○8月16日　データセンター建設競う カザフとウズベク、電力や環境面では課題　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGKKZO98179510V10C26A8TM7000/](https://www.nikkei.com/article/DGKKZO98179510V10C26A8TM7000/)
+
+○8月16日　［あすへの考］データセンター 重工業化加速…編集委員室 大塚隆一　読売新聞<br>
+　[https://www.yomiuri.co.jp/economy/20260815-GYT1T00256/](https://www.yomiuri.co.jp/economy/20260815-GYT1T00256/)
+
+○8月16日　ソフトの脆弱性検知は半年で3.6万件 先端AIで急増、修正追い付かず　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC305UU0Q6A630C2000000/](https://www.nikkei.com/article/DGXZQOUC305UU0Q6A630C2000000/)
+
+○8月16日　個人の資産運用、生成AI利用に立ちはだかる「データの壁」　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUB141ML0U6A810C2000000/](https://www.nikkei.com/article/DGXZQOUB141ML0U6A810C2000000/)
+
+○8月16日　AI小説、文学賞に殺到 公募新人賞で選考コスト重荷に　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUD245P80U6A720C2000000/](https://www.nikkei.com/article/DGXZQOUD245P80U6A720C2000000/)
+
+○8月16日　Googleが東京に直営店 副社長「変化が速く、体験の場が重要に」　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCD1437S0U6A810C2000000/](https://www.nikkei.com/article/DGXZQOCD1437S0U6A810C2000000/)
+
+○8月16日　アングル：米データセンター融資、地元の反応をリスク評価 「反対」相次ぎ　ロイター<br>
+　[https://jp.reuters.com/world/us/LJ4IOOGRY5PK5PHKBAGNNBCCMQ-2026-08-15/](https://jp.reuters.com/world/us/LJ4IOOGRY5PK5PHKBAGNNBCCMQ-2026-08-15/)
 

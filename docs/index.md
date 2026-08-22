@@ -1,4 +1,4 @@
-更新日時：2026年8月22日 09:39（JST）
+更新日時：2026年8月22日 16:29（JST）
 
 【松本尚デジタル大臣】<br>
 該当データなし
@@ -195,17 +195,11 @@
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○8月18日　ソフトバンクＧ傘下に出資 データセンター建設後押し―米エヌビディア　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026081800715&g=int](https://www.jiji.com/jc/article?k=2026081800715&g=int)
-
 ○8月19日　秋田AIデータセンター、県訪問のUAE大使も熱視線 洋上風力が命綱　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCC071RC0X00C26A8000000/](https://www.nikkei.com/article/DGXZQOCC071RC0X00C26A8000000/)
 
 ○8月19日　メタウォーター山口社長「データセンター増、米国での水不足に拍車」　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC1060I0Q6A810C2000000/](https://www.nikkei.com/article/DGXZQOUC1060I0Q6A810C2000000/)
-
-○8月19日　社説／鉄鋼サプライチェーン “動脈”と“静脈”双方で対策急げ　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/789709](https://www.nikkan.co.jp/articles/view/789709)
 
 ○8月19日　このご時世に値下げ!? グーグル新スマホ「Pixel 11」は買いか　毎日新聞<br>
 　[https://mainichi.jp/premier/business/articles/20260818/biz/00m/020/005000c](https://mainichi.jp/premier/business/articles/20260818/biz/00m/020/005000c)
@@ -219,14 +213,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月19日　米ペンシルベニア州、ＡＩデータセンター建設規制を厳格化　ロイター<br>
 　[https://jp.reuters.com/world/us/HFKM6QNSWVOCBPK74QEKREXCUA-2026-08-19/](https://jp.reuters.com/world/us/HFKM6QNSWVOCBPK74QEKREXCUA-2026-08-19/)
 
+○8月19日　「SCM×ROIC体験シミュレーター」を無料公開！サプライチェーンと経営のつながりを“動かして分かる”体験へ　朝日新聞<br>
+　[https://www.asahi.com/and/pressrelease/16818058](https://www.asahi.com/and/pressrelease/16818058)
+
 ○8月19日　AIデータセンターは地方を救うか UAE大使が秋田を訪問、協議も [秋田県] [AIの時代]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV8L54R1V8LULFA00CM.html](https://www.asahi.com/articles/ASV8L54R1V8LULFA00CM.html)
 
 ○8月19日　オキサイド[6521]：データセンターに利用されるファラデー回転子の増産に向けた設備投資に関するお知らせ 2026年8月19日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/disclosure/tdnr/20260819523181/](https://www.nikkei.com/nkd/disclosure/tdnr/20260819523181/)
-
-○8月19日　日立、ビル管理DXの実証実験 東京不動産管理と連携　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOMG00003_Z10C26A8000000/](https://www.nikkei.com/article/DGXZQOMG00003_Z10C26A8000000/)
 
 ○8月19日　データセンター巡り意見交換 国内最大、ＵＡＥ大使が秋田知事・市長と　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026081900123&g=eco](https://www.jiji.com/jc/article?k=2026081900123&g=eco)
@@ -248,6 +242,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○8月19日　個人情報保護委 KDDIに行政指導 メールアドレスなど流出で　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/nd-20260819de45162](https://news.web.nhk/newsweb/na/nd-20260819de45162)
+
+○8月20日　東急不「再エネ×施設」一体で 北海道のデータセンターや産業団地 「渋谷の大家」から地方へ　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGKKZO98255100Z10C26A8TB3000/](https://www.nikkei.com/article/DGKKZO98255100Z10C26A8TB3000/)
 
 ○8月20日　新潟県信組、食のガイドマップをDX化 利便性向上と人流データ取得　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCC1050B0Q6A810C2000000/](https://www.nikkei.com/article/DGXZQOCC1050B0Q6A810C2000000/)
@@ -315,6 +312,12 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月21日　トクヤマ、半導体基幹材を東南アジアで生産 供給網の日本集中を転換　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM141080U6A810C2000000/](https://www.nikkei.com/article/DGXZQOGM141080U6A810C2000000/)
 
+○8月21日　日東電工の赤木達哉社長、半導体「技術変化を好機に」 関連投資6倍　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUF2396W0T20C26A7000000/](https://www.nikkei.com/article/DGXZQOUF2396W0T20C26A7000000/)
+
+○8月21日　半導体新興の米クアドリックCEO「エッジAI、2〜3年で大きく成長」　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC05AG10V00C26A8000000/](https://www.nikkei.com/article/DGXZQOUC05AG10V00C26A8000000/)
+
 ○8月21日　製造DX協会、「日本式は人中心」 促進策議論、政府に提言　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/737091e6bdd39ca433b4ec1816205c71](https://www.nikkan.co.jp/articles/view/737091e6bdd39ca433b4ec1816205c71)
 
@@ -331,7 +334,10 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　[https://jp.reuters.com/economy/ZT46NDLTEVOGFPYPWZ667UFFL4-2026-08-21/](https://jp.reuters.com/economy/ZT46NDLTEVOGFPYPWZ667UFFL4-2026-08-21/)
 
 ○8月21日　グーグルフォーム誤設定で個人情報漏洩 静岡県、研修会参加者募集で　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV8N3QFSV8NUTPB008M.html?iref=_area_area_list_n](https://www.asahi.com/articles/ASV8N3QFSV8NUTPB008M.html?iref=_area_area_list_n)
+　[https://www.asahi.com/articles/ASV8N3QFSV8NUTPB008M.html](https://www.asahi.com/articles/ASV8N3QFSV8NUTPB008M.html)
+
+○8月21日　グーグルフォーム誤設定で個人情報漏洩 静岡県、研修会参加者募集で　朝日新聞<br>
+　[https://www.asahi.com/sp/articles/photo/AS20260820004295.html](https://www.asahi.com/sp/articles/photo/AS20260820004295.html)
 
 ○8月21日　韓国ＳＫ、宮城に半導体工場建設か 数兆円規模―報道　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026082100423&g=int](https://www.jiji.com/jc/article?k=2026082100423&g=int)
@@ -351,38 +357,17 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月21日　産業春秋／アップル次期CEO「統合の体現者」へ　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/779965](https://www.nikkan.co.jp/articles/view/779965)
 
-○8月21日　「読めない」のはあなたのせいではない AI時代の読書バリアフリー　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV8M0BJ7V8MULLI008M.html](https://www.asahi.com/articles/ASV8M0BJ7V8MULLI008M.html)
-
-○8月21日　ＢＴＭ[5247]：AWS主催「第8回 AWS ジャパン 生成 AI Frontier Meetup」に当社エンジニアが登壇 2026年8月21日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g3955t&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260821524257/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g3955t&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260821524257/)
-
-○8月21日　アジアや欧州でAI無償提供 狙うスキル底上げ、タイは500万人に [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV8P2FT2V8PUHBI00QM.html](https://www.asahi.com/articles/ASV8P2FT2V8PUHBI00QM.html)
-
-○8月21日　AIか非AIか、悩む投資家 双方で二極化進む「4象限相場」に　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUB209AU0Q6A820C2000000/](https://www.nikkei.com/article/DGXZQOUB209AU0Q6A820C2000000/)
-
 ○8月21日　富士フイルム、次の稼ぎ頭は「半導体の磨き役」 大分で素材3倍増産　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC137AS0T10C26A8000000/](https://www.nikkei.com/article/DGXZQOUC137AS0T10C26A8000000/)
 
 ○8月21日　産業春秋／半導体が変える本社所在地　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/783310?gnr_footer=87367](https://www.nikkan.co.jp/articles/view/783310?gnr_footer=87367)
 
-○8月21日　米著名ファンド、AIインフラ銘柄にシフト エヌビディア株は利益確定　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUB195BI0Z10C26A8000000/](https://www.nikkei.com/article/DGXZQOUB195BI0Z10C26A8000000/)
-
 ○8月21日　野村傘下レーザー・デジタル、暗号資産交換業者に登録 約4年ぶり新規参入　ロイター<br>
 　[https://jp.reuters.com/markets/japan/I4J53I7WQ5OABCIOCRFFD6QI4I-2026-08-21/](https://jp.reuters.com/markets/japan/I4J53I7WQ5OABCIOCRFFD6QI4I-2026-08-21/)
 
-○8月21日　MUFG、デジタルで資産形成支援 27年度に新会社　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/777153?gnr_footer=86311](https://www.nikkan.co.jp/articles/view/777153?gnr_footer=86311)
-
 ○8月21日　リンテック、福岡に新研究施設 次世代半導体向けテープなど開発　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOJC214SR0R20C26A8000000/](https://www.nikkei.com/article/DGXZQOJC214SR0R20C26A8000000/)
-
-○8月21日　OKIのAIコールセンター 顧客の不満検知、有人に切り替え　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC216XC0R20C26A8000000/](https://www.nikkei.com/article/DGXZQOUC216XC0R20C26A8000000/)
 
 ○8月21日　九州経産局の師田新局長「半導体供給網、地域未来戦略で厚くしたい」　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOJC1872P0Y6A810C2000000/](https://www.nikkei.com/article/DGXZQOJC1872P0Y6A810C2000000/)
@@ -396,11 +381,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月21日　AI向け半導体材料の生産能力3倍に 富士フイルム、大分工場に新棟で安定供給へ　産経ニュース<br>
 　[https://www.sankei.com/article/20260821-IV5PJGAIGFJLJGLGV34JVY5NGY/](https://www.sankei.com/article/20260821-IV5PJGAIGFJLJGLGV34JVY5NGY/)
 
-○8月21日　【電子版】米アップル、「FaceTime」バグでiOSアップデート 週明けリリース　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/504920?gnr_footer=17052](https://www.nikkan.co.jp/articles/view/504920?gnr_footer=17052)
-
 ○8月21日　経営ひと言／グーグル・クラウド・ジャパンの三上智子代表「データ整備先決」　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/780352](https://www.nikkan.co.jp/articles/view/780352)
+
+○8月21日　【電子版】米アップルのクックCEO、日本でのiPhone販売 助成金は半数以下　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/504918?gnr_footer=17052](https://www.nikkan.co.jp/articles/view/504918?gnr_footer=17052)
 
 ○8月21日　キオクシア株の復活は？新型半導体｢Rubin｣とは ロンドン×東京で語る　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCD206JE0Q6A820C2000000/](https://www.nikkei.com/article/DGXZQOCD206JE0Q6A820C2000000/)
@@ -410,9 +395,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○8月21日　内田洋行、次世代DX基盤構築 東京・府中の小中33校に　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/784088](https://www.nikkan.co.jp/articles/view/784088)
-
-○8月21日　政府、自衛隊の指揮統制にAI導入へ 誤りや責任の所在に課題も　毎日新聞<br>
-　[https://mainichi.jp/articles/20260821/k00/00m/010/323000c](https://mainichi.jp/articles/20260821/k00/00m/010/323000c)
 
 ○8月21日　サプライチェーンの「変態」マテリアル編（35）銅高騰が示す資源配分の課題　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/786649](https://www.nikkan.co.jp/articles/view/786649)
@@ -429,14 +411,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月22日　スパイスファクトリー、創業10年契機に大阪拠点 DX支援全国へ　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/776932](https://www.nikkan.co.jp/articles/view/776932)
 
-○8月22日　地政学リスクと経済安全保障（9）東南アジア、供給網再構築への視座　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/789113](https://www.nikkan.co.jp/articles/view/789113)
-
 ○8月22日　【電子版】アップル、インドでiPhone最上位モデル組み立てへ　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/501347?gnr_footer=16610](https://www.nikkan.co.jp/articles/view/501347?gnr_footer=16610)
 
 ○8月22日　サムスン半導体部門の賞与6000万円 DX部門は60万円、組織不和生む　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM215JD0R20C26A8000000/](https://www.nikkei.com/article/DGXZQOGM215JD0R20C26A8000000/)
+
+○8月22日　半導体材料、製造能力1.5倍　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGKKZO98316710R20C26A8TEZ000/](https://www.nikkei.com/article/DGKKZO98316710R20C26A8TEZ000/)
 
 ○8月22日　「AIに買い物相談する」4割、タイパ実感75% 50代は検索より重視　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC030B90T00C26A8000000/](https://www.nikkei.com/article/DGXZQOUC030B90T00C26A8000000/)
@@ -444,11 +426,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月22日　AIの旗手Google、折り畳みスマホでは時流乗れず？ Pixel11発売　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC210P40R20C26A8000000/](https://www.nikkei.com/article/DGXZQOUC210P40R20C26A8000000/)
 
-○8月22日　川重、水素・AIで成長狙う 30年ぶり増資 収益化へ市場注視　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGKKZO98313050R20C26A8DTB000/](https://www.nikkei.com/article/DGKKZO98313050R20C26A8DTB000/)
-
 ○8月22日　社説：増えるデータセンター 新たな公害にせぬ対策を　毎日新聞<br>
 　[https://mainichi.jp/articles/20260822/ddm/005/070/070000c](https://mainichi.jp/articles/20260822/ddm/005/070/070000c)
+
+○8月22日　【電子版】米グーグル、17年に租税回避で2.4兆円 バミューダ諸島に移転　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/501475?gnr_footer=16651](https://www.nikkan.co.jp/articles/view/501475?gnr_footer=16651)
 
 ○8月22日　レゾナックCFO、AI追い風の半導体材料「需要鈍化の兆しない」　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUB1416L0U6A810C2000000/](https://www.nikkei.com/article/DGXZQOUB1416L0U6A810C2000000/)
@@ -459,17 +441,17 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○8月22日　［読売３３３ 企業に聞く］半導体進化 材料で支える…東京応化工業 執行役員総務本部長・本間裕一氏　読売新聞<br>
 　[https://www.yomiuri.co.jp/life/20260821-GYT8T00182/](https://www.yomiuri.co.jp/life/20260821-GYT8T00182/)
 
-○8月22日　NVIDIA、AI産業の「保証人」に 顧客支援策に注目集まる　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOGN212RD0R20C26A8000000](https://www.nikkei.com/prime/veritas/article/DGXZQOGN212RD0R20C26A8000000)
-
 ○8月22日　教育特化型のAIアプリ 文科省が開発へ 27年度中に実証研究 [AIの時代]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV8P2HN3V8PUTIL00PM.html](https://www.asahi.com/articles/ASV8P2HN3V8PUTIL00PM.html)
 
-○8月22日　「リクルート、AI活用で評価高める」 2026企業収益④　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB174IT0X10C26A8000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB174IT0X10C26A8000000)
+○8月22日　NVIDIA、AI産業の「保証人」に 顧客支援策に注目集まる　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOGN212RD0R20C26A8000000](https://www.nikkei.com/prime/veritas/article/DGXZQOGN212RD0R20C26A8000000)
 
 ○8月22日　AI時代に何を読む? 新たな可能性を探るために リロン編集部から　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV8M4449V8MULLI00GM.html](https://www.asahi.com/articles/ASV8M4449V8MULLI00GM.html)
+
+○8月22日　「リクルート、AI活用で評価高める」 2026企業収益④　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB174IT0X10C26A8000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB174IT0X10C26A8000000)
 
 ○8月22日　無人タクシーのウェイモ、半導体を自前で開発 NVIDIA依存脱却へ　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN21ASF0R20C26A8000000/](https://www.nikkei.com/article/DGXZQOGN21ASF0R20C26A8000000/)
@@ -479,4 +461,19 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○8月22日　溶けるリアルとフェイク AI時代、写真は「事実」を写し続けるのか　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV8N1VRBV8NUQIP015M.html](https://www.asahi.com/articles/ASV8N1VRBV8NUQIP015M.html)
+
+○8月22日　アップル従業員2百人削減 シリやゴーグル端末の担当部門で、ブルームバーグ報道　産経ニュース<br>
+　[https://www.sankei.com/article/20260822-EOILJWALGRJC7HEPLMQJV36GIQ/](https://www.sankei.com/article/20260822-EOILJWALGRJC7HEPLMQJV36GIQ/)
+
+○8月22日　〈本音のコラム〉理念と血税のAI選び 師岡カリーマ（文筆家）　東京新聞<br>
+　[https://www.tokyo-np.co.jp/article/510074](https://www.tokyo-np.co.jp/article/510074)
+
+○8月22日　【電子版】米アップル、対中関税で値上げ警告 トランプ氏「国内に工場建設しろ」　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/487784?gnr_footer=15253](https://www.nikkan.co.jp/articles/view/487784?gnr_footer=15253)
+
+○8月22日　半導体、外資の投資6兆円に　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGKKZO98320790S6A820C2EAC000/](https://www.nikkei.com/article/DGKKZO98320790S6A820C2EAC000/)
+
+○8月22日　あふれるAI生成画像、脳への影響と対処法　毎日新聞<br>
+　[https://mainichi.jp/premier/business/articles/20260814/biz/00m/020/002000c](https://mainichi.jp/premier/business/articles/20260814/biz/00m/020/002000c)
 

@@ -1,11 +1,8 @@
-更新日時：2026年9月8日 20:58（JST）
+更新日時：2026年9月9日 11:10（JST）
 
 【松本尚デジタル大臣】<br>
 ○9月8日の大臣記者会見（6分36秒）<br>
 　[https://www.digital.go.jp/speech/minister-260908-01](https://www.digital.go.jp/speech/minister-260908-01)
-
-○9月4日の大臣記者会見（5分59秒）<br>
-　[https://www.digital.go.jp/speech/minister-260904-01](https://www.digital.go.jp/speech/minister-260904-01)
 
 【自由民主党】<br>
 ○9月8日　政調、災害対策特別委員会
@@ -17,11 +14,17 @@
 ○9月8日　政調、税制調査会・社会保障制度調査会　合同会議
 　大綱案について
 
+○9月11日　政調、税制調査会・社会保障制度調査会　合同会議
+　大綱案について
+
 ○9月14日　政調、社会保障制度調査会　創薬力の強化育成等に関するPT
 　１．費用対効果評価分析について ２．創薬関連の概算要求について
 
 ○9月14日　政調、戦没者遺骨帰還に関する特命委員会
 　戦没者遺骨収集の取組状況について ・厚生労働省 ・日本遺族会
+
+○9月15日　政調、法務部会・司法制度調査会合同会議
+　議題①「売買春に係る規制の在り方検討会」における議論の状況について 議題②「近時の検察による不祥事事案等」について
 
 【デジタル庁】<br>
 ⚪︎9月8日　松本デジタル大臣はロバートソン次期駐日英国大使による表敬訪問を受けました<br>
@@ -48,12 +51,6 @@
 
 ○9月14日　デジタル空間における情報流通の諸課題への対処に関する検討会　発信者情報開示ワーキンググループ（第7回）開催案内<br>
 　[https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000599.html](https://www.soumu.go.jp/main_sosiki/kenkyu/digital_shokadai/02ryutsu02_04000599.html)
-
-○9月4日　情報通信審議会　電気通信事業政策部会（第93回）配布資料・議事概要・議事録<br>
-　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denki_seisaku/02tsushin10_04000735.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denki_seisaku/02tsushin10_04000735.html)
-
-○9月4日　情報通信審議会 情報通信政策部会 放送政策委員会 主査ヒアリング（日本テレビ放送網株式会社）<br>
-　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/housou_seisaku/02ryutsu07_04000589.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/housou_seisaku/02ryutsu07_04000589.html)
 
 ○9月14日　情報通信行政・郵政行政審議会　郵政行政分科会（第105回）<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02ryutsu01_04000516.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02ryutsu01_04000516.html)
@@ -92,41 +89,20 @@
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【国家サイバー統括室・NCO】<br>
-9月4日〜9月8日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+9月5日〜9月9日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【金融庁】<br>
-9月4日〜9月8日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+9月5日〜9月9日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【公正取引委員会】<br>
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○9月5日　日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/](https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/)
-
-○9月5日　今年上半期の知的財産侵害物品 差し止め過去最多 8万点超え 門司税関 ／福岡　毎日新聞<br>
-　[https://mainichi.jp/articles/20260905/ddl/k40/040/140000c](https://mainichi.jp/articles/20260905/ddl/k40/040/140000c)
-
-○9月5日　Web3技術を活用した地方創生を実現する「ねぶた祭DAO」の実証実験第2弾を開始　朝日新聞<br>
-　[https://www.asahi.com/and/pressrelease/16759183](https://www.asahi.com/and/pressrelease/16759183)
-
 ○9月5日　NEC、量子コンピューターの実機開発を中止 国産機開発の先駆け　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC051KF0V00C26A9000000/](https://www.nikkei.com/article/DGXZQOUC051KF0V00C26A9000000/)
 
-○9月6日　米アップルCEOに就任した ジョン・ターナス氏 「AI時代」担うエンジニア　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGKKZO98605700V00C26A9EA4000/](https://www.nikkei.com/article/DGKKZO98605700V00C26A9EA4000/)
-
-○9月6日　「世界で一番大切にされている感覚に」 戦後に渡米の「マム」が残した秘伝のアップルパイ 名店は息子に　東京新聞<br>
-　[https://www.tokyo-np.co.jp/article/513348](https://www.tokyo-np.co.jp/article/513348)
-
-○9月7日　2028年3月卒業の学生向けに夏の「5daysインターンシップ」を開催 「コンサルティング」と「サイバーセキュリティ」および「ローコード開発」の3コースで受付開始　朝日新聞<br>
-　[https://www.asahi.com/and/pressrelease/16726729](https://www.asahi.com/and/pressrelease/16726729)
-
 ○9月7日　藤枝市立総合病院、医療DXで看護師の業務効率化 ケアの質も向上　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCC170T60X10C26A8000000/](https://www.nikkei.com/article/DGXZQOCC170T60X10C26A8000000/)
-
-○9月7日　データセンター向け熱吸収器、年内に発売 POLASTECHが1億円調達　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC040W10U6A900C2000000/](https://www.nikkei.com/article/DGXZQOUC040W10U6A900C2000000/)
 
 ○9月7日　折り畳みiPhone、サプライチェーン独自予測 日本は遅れ　日本経済新聞<br>
 　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC0421X0U6A900C2000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC0421X0U6A900C2000000)
@@ -140,26 +116,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月7日　クラウドＷ　日本経済新聞<br>
 　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g49r6q&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260907532418/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g49r6q&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260907532418/)
 
-○9月7日　サーバーワークスグループとBIPROGY、クラウド・生成AI分野で業務提携 企業リリース　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/releases/view/224122](https://www.nikkan.co.jp/releases/view/224122)
-
-○9月7日　ＮＥＣ、量子コンピューター開発中止 実用化に課題多く：時事ドットコム　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026090700732&g=eco](https://www.jiji.com/jc/article?k=2026090700732&g=eco)
-
-○9月7日　画像・写真：ＮＥＣ、量子コンピューター開発中止 実用化に課題多く：時事ドットコム　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026090700732&g=eco&p=20260907ds57&rel=pv](https://www.jiji.com/jc/article?k=2026090700732&g=eco&p=20260907ds57&rel=pv)
-
 ○9月7日　中国、日本産の半導体製造用化学物質に暫定的な反ダンピング措置　Reuters<br>
 　[https://jp.reuters.com/world/china/TX6VWW2PEZINRP3O64NPAO4ADM-2026-09-07/](https://jp.reuters.com/world/china/TX6VWW2PEZINRP3O64NPAO4ADM-2026-09-07/)
 
 ○9月7日　山形県とクボタ・南東北クボタ、農業DXで連携 生産性向上など　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCC071CQ0X00C26A9000000/](https://www.nikkei.com/article/DGXZQOCC071CQ0X00C26A9000000/)
-
-○9月7日　中国、日本産の半導体用ガスに反ダンピング措置 信越化学など対象　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGM078VA0X00C26A9000000/](https://www.nikkei.com/article/DGXZQOGM078VA0X00C26A9000000/)
-
-○9月8日　Appleのターナス新CEOは「冷静沈着」なエンジニア　日本経済新聞<br>
-　[https://www.nikkei.com/prime/ft/article/DGXZQOCB074EU0X00C26A9000000](https://www.nikkei.com/prime/ft/article/DGXZQOCB074EU0X00C26A9000000)
 
 ○9月8日　中小のデジタル社債、山陰合銀・NTTデータが後押し 数億円から発行　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUB315630R30C26A8000000/](https://www.nikkei.com/article/DGXZQOUB315630R30C26A8000000/)
@@ -169,9 +130,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○9月8日　地政学リスクと経済安全保障（13）経営インテリジェンス機能の実践　日刊工業新聞<br>
 　[https://www.nikkan.co.jp/articles/view/791480](https://www.nikkan.co.jp/articles/view/791480)
-
-○9月8日　サプライチェーンの「変態」マテリアル編（42）成熟度の到達点「レベル5」　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/791391](https://www.nikkan.co.jp/articles/view/791391)
 
 ○9月8日　量子コンピューターが脅威となる「Qデー」、日本企業の技術に商機　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC260B70W6A820C2000000/](https://www.nikkei.com/article/DGXZQOUC260B70W6A820C2000000/)
@@ -185,65 +143,20 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月8日　知的財産侵害物品の差し止め状況 門司税関 2026年上半期 件数…61．5％増 点数…過去最多 ／山口　毎日新聞<br>
 　[https://mainichi.jp/articles/20260908/ddl/k35/040/286000c](https://mainichi.jp/articles/20260908/ddl/k35/040/286000c)
 
-○9月8日　[FT]コンサル大手、若手に出社回帰促す AI普及で対人スキル重視　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOCB074J50X00C26A9000000/](https://www.nikkei.com/article/DGXZQOCB074J50X00C26A9000000/)
-
-○9月8日　WSJ日本版：データセンター建設ブーム、次の巨大商機は「保険」　毎日新聞<br>
-　[https://mainichi.jp/articles/20260908/wsj/00m/020/000000c](https://mainichi.jp/articles/20260908/wsj/00m/020/000000c)
-
-○9月8日　チャレンジ！ デジタル 数独 2026.9.8　朝日新聞<br>
-　[https://www.asahi.com/edua/article/16839530](https://www.asahi.com/edua/article/16839530)
-
-○9月8日　デジタル・インフォメーション・テクノロジー[3916]：第２５回定時株主総会招集ご通知 2026年9月8日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20260904531701/](https://www.nikkei.com/nkd/disclosure/tdnr/20260904531701/)
-
-○9月8日　ＲＯＢＯＴ ＰＡＹＭＥＮＴ[4374]：督促・回収のデジタルインフラ「債権回収ロボ」、督促手段に郵送機能を追加 2026年9月8日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20260907532438/](https://www.nikkei.com/nkd/disclosure/tdnr/20260907532438/)
-
-○9月8日　ＮＥＸＴ ＦＵＮＤＳ Ｓ＆Ｐ ５００ 半導体・半導体製造装置３５％キャップ指数連動型上場投信[346A]：ETFの収益分配金見込額のお知らせ 2026年9月8日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g4bwnu&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260908532826/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g4bwnu&t=https://www.nikkei.com/nkd/disclosure/tdnr/20260908532826/)
-
 ○9月8日　「ビジネス創出できる」データセンター誘致企業代表が講演 秋田市 [秋田県] [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV973S69V97UBUB004M.html?iref=reporter-bio-cover_timeline](https://www.asahi.com/articles/ASV973S69V97UBUB004M.html?iref=reporter-bio-cover_timeline)
+　[https://www.asahi.com/articles/ASV973S69V97UBUB004M.html](https://www.asahi.com/articles/ASV973S69V97UBUB004M.html)
 
 ○9月8日　アングル：アルゼンチンのパタゴニア、データセンター建設企業が熱視線　Reuters<br>
 　[https://jp.reuters.com/world/us/CDD5E6STJVMRTE7OYJWDA5XECI-2026-09-08/](https://jp.reuters.com/world/us/CDD5E6STJVMRTE7OYJWDA5XECI-2026-09-08/)
 
-○9月8日　テックドクター、Fitbit Web APIサポート終了に伴いGoogle Health APIへの対応を完了　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZRSP712249_08092026000000](https://www.nikkei.com/article/DGXZRSP712249_08092026000000)
-
-○9月8日　英アーム、フィジカルAIの企業連合発足 ロボット企業など80社超参画　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC078HU0X00C26A9000000/](https://www.nikkei.com/article/DGXZQOUC078HU0X00C26A9000000/)
+○9月8日　【電子版】アップル「ホームポッド」、正答率で競合下回るも「地域・買い物」に強み 名物アナリストがテスト（動画）　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/461566?gnr_footer=11731](https://www.nikkan.co.jp/articles/view/461566?gnr_footer=11731)
 
 ○9月8日　午前の日経平均は小幅続伸、ＡＩ・半導体株が支えに ＴＯＰＩＸはさえない　Reuters<br>
 　[https://jp.reuters.com/markets/japan/X4SCORFP5JMILCGLRLKKE2SVBM-2026-09-08/](https://jp.reuters.com/markets/japan/X4SCORFP5JMILCGLRLKKE2SVBM-2026-09-08/)
 
-○9月8日　日東電工、大阪府の研究開発拠点に新棟 半導体分野など向け　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUF0820E0Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOUF0820E0Y6A900C2000000/)
-
-○9月8日　中国の半導体材料への措置、官房長官「不当な影響生じないよう対応」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUA081M40Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOUA081M40Y6A900C2000000/)
-
-○9月8日　〈投信ニュース〉今週の新規設定ファンド 「韓国半導体ETF」が上場　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGKKZO98643110Y6A900C2ENI000/](https://www.nikkei.com/article/DGKKZO98643110Y6A900C2ENI000/)
-
-○9月8日　「脳と生成AI」テーマに公開シンポジウム、甘利俊一さんら登壇 [東京都]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV9805MYV98UTFL01YM.html](https://www.asahi.com/articles/ASV9805MYV98UTFL01YM.html)
-
-○9月8日　ミマキエンジニアリング[6638]：産業用デジタル印刷の生産性と表現力を高めるプリンタ・インク・ソフトウェア6製品を全世界で発売 9月「PRINTING United Expo2026」で6製品を一挙出展 2026年9月8日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20260907532594/](https://www.nikkei.com/nkd/disclosure/tdnr/20260907532594/)
-
 ○9月8日　ダイダン、建設系新興と協業 データセンター設備工事を迅速化　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUF075090X00C26A9000000/](https://www.nikkei.com/article/DGXZQOUF075090X00C26A9000000/)
-
-○9月8日　デジタルグリッド[350A]：デジタルグリッド初の低圧系統用蓄電所が受電開始 100カ所の蓄電所を束ねて需給調整市場に参加へ 2026年9月8日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20260908532876/](https://www.nikkei.com/nkd/disclosure/tdnr/20260908532876/)
-
-○9月8日　アライドアーキテクツ[6081]：アライドアーキテクツ、AIエージェント経済コンペ「ASCON」への参画を通じて資産AX事業の「α戦略」を強化へ 2026年9月8日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20260908533088/](https://www.nikkei.com/nkd/disclosure/tdnr/20260908533088/)
-
-○9月8日　中国の半導体材料規制、影響精査 木原官房長官「適切に対応」―政府　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026090800405&g=pol](https://www.jiji.com/jc/article?k=2026090800405&g=pol)
 
 ○9月8日　ソフトフロントホールディングス[2321]：（開示事項の経過）「AI データセンター事業」におけるToken Factory 事業の開始に関するお知らせ 2026年9月8日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/disclosure/tdnr/20260908533053/](https://www.nikkei.com/nkd/disclosure/tdnr/20260908533053/)
@@ -251,14 +164,8 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月8日　川崎重工、AI活用の防衛システム開発へ 半導体新興と協業　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC086DA0Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOUC086DA0Y6A900C2000000/)
 
-○9月8日　2026年9月8日(火)～9月11日(金)開催「国際物流総合展 2026」へ株式会社ロジクリエイトと共同出展｜船井総研サプライチェーンコンサルティング　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000001353.000059144&g=prt](https://www.jiji.com/jc/article?k=000001353.000059144&g=prt)
-
 ○9月8日　蘭ＡＳＭＬ、最先端装置製造へ大手半導体メーカーと協力　Reuters<br>
 　[https://jp.reuters.com/world/RO4FJ7NX4BJVLOY25FAQTBGZRY-2026-09-08/](https://jp.reuters.com/world/RO4FJ7NX4BJVLOY25FAQTBGZRY-2026-09-08/)
-
-○9月8日　TDK、コンデンサーの容量2倍に EVやAIサーバー向け　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC083PS0Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOUC083PS0Y6A900C2000000/)
 
 ○9月8日　サムスンがAI半導体で日韓連合、横浜に拠点 後工程「先端国」で研究開発　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM030QT0T00C26A9000000/](https://www.nikkei.com/article/DGXZQOGM030QT0T00C26A9000000/)
@@ -269,47 +176,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月8日　カナデビア、半導体製造向け電子ボード増産へ 舞鶴工場に8.5億円　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUF085I00Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOUF085I00Y6A900C2000000/)
 
-○9月8日　【埼玉県入間市】入間市のクラウドファンディングを活用した「金子e運動会」を初開催！子どもからお年寄りまで「太鼓の達人」で大熱戦！　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000237.000039058&g=prt](https://www.jiji.com/jc/article?k=000000237.000039058&g=prt)
-
-○9月8日　「日本の読解力、AI活用法がかぎ」 PISA調査 教育学者の分析　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV97771PV97UTIL002M.html](https://www.asahi.com/articles/ASV97771PV97UTIL002M.html)
-
-○9月8日　サムスン、横浜の研究拠点で開所式 半導体開発、日本と連携　時事ドットコム<br>
-　[https://www.jiji.com/sp/article?k=2026090800857&g=eco&p=20260908at61S&rel=pv](https://www.jiji.com/sp/article?k=2026090800857&g=eco&p=20260908at61S&rel=pv)
-
-○9月8日　国際学力調査「日本1位」も手放しで喜べず OECD平均低下要因に移民増、デジタル化も　産経ニュース<br>
-　[https://www.sankei.com/article/20260908-J3KWCELFEVLE5I2BWMC4HPFBX4/](https://www.sankei.com/article/20260908-J3KWCELFEVLE5I2BWMC4HPFBX4/)
-
 ○9月8日　韓国サムスン、横浜に半導体研究拠点 日本勢とAI向け先端技術開発 [AIの時代]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASV9832Y8V98ULFA01PM.html](https://www.asahi.com/articles/ASV9832Y8V98ULFA01PM.html)
-
-○9月8日　サムスンが横浜に拠点開所 日韓で共同研究、半導体技術底上げへ　毎日新聞<br>
-　[https://mainichi.jp/articles/20260908/k00/00m/020/190000c](https://mainichi.jp/articles/20260908/k00/00m/020/190000c)
-
-○9月8日　世界的な学力低下「懸念は読解力」 AI導入も慎重に OECD分析 [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV980VFZV98UTIL012M.html](https://www.asahi.com/articles/ASV980VFZV98UTIL012M.html)
 
 ○9月8日　経済プラス：自国半導体産業に悪影響も? 日本産ガスに対抗措置の中国の戦略　毎日新聞<br>
 　[https://mainichi.jp/articles/20260908/k00/00m/020/194000c](https://mainichi.jp/articles/20260908/k00/00m/020/194000c)
 
-○9月8日　投資会社デジタルブリッジ、東京に新拠点 オルタナ投資拡大　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUB084TP0Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOUB084TP0Y6A900C2000000/)
-
-○9月8日　【社説】想定外の挙動を示す先端AI 安全確保の国際基準を [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV982GJ6V98USPT00LM.html](https://www.asahi.com/articles/ASV982GJ6V98USPT00LM.html)
-
-○9月8日　【詳報】名人、AI超えの妙手 挑戦者も粘り腰で食らいつき形勢互角　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV972CCFV97UCVL01QM.html](https://www.asahi.com/articles/ASV972CCFV97UCVL01QM.html)
-
 ○9月8日　スウェーデンの半導体企業団、北海道経産局を訪問　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFC084Y00Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOFC084Y00Y6A900C2000000/)
-
-○9月8日　サムスンが横浜に拠点開所 日韓で共同研究、半導体技術底上げへ [写真特集1/6]　毎日新聞<br>
-　[https://mainichi.jp/graphs/20260908/mpj/00m/020/167000f/20260908mpj00m020161000p](https://mainichi.jp/graphs/20260908/mpj/00m/020/167000f/20260908mpj00m020161000p)
-
-○9月8日　日本は学習でのAI利用少なめ OECD「否定的に捉える必要なし」 SNS閲覧も短く　産経ニュース<br>
-　[https://www.sankei.com/article/20260908-NDCM7OAX35OK7PYO3QFGIUXZLM/](https://www.sankei.com/article/20260908-NDCM7OAX35OK7PYO3QFGIUXZLM/)
 
 ○9月8日　神奈川県、園芸博でクジラの標本やデジタル地球儀展示 環境問題訴え　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCC086H60Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOCC086H60Y6A900C2000000/)
@@ -317,12 +191,72 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月8日　マレーシア、データセンターの電力消費が急増 気温上昇で　Reuters<br>
 　[https://jp.reuters.com/world/6B5Z2OOQUVPAVL2UBDJ2AAPGUI-2026-09-08/](https://jp.reuters.com/world/6B5Z2OOQUVPAVL2UBDJ2AAPGUI-2026-09-08/)
 
-○9月8日　日本IBM社長、システム開発の工数「AIで28年以降に半減」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC0786S0X00C26A9000000/](https://www.nikkei.com/article/DGXZQOUC0786S0X00C26A9000000/)
+○9月8日　韓国サムスン電子が横浜に半導体研究拠点を設立　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nd-20260908de49113](https://news.web.nhk/newsweb/na/nd-20260908de49113)
 
-○9月8日　会社の業務「AI主体」は4割 民間調査、判断伴う仕事には慎重姿勢　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC039MF0T00C26A9000000/](https://www.nikkei.com/article/DGXZQOUC039MF0T00C26A9000000/)
+○9月8日　インドIT大手TCS、AIデータセンター開発 1.2兆円投資　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM08A7B0Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOGM08A7B0Y6A900C2000000/)
 
-○9月8日　オカムラ、AIの自動ピッキングを遠隔操作で補助 27年に事業化　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC086UX0Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOUC086UX0Y6A900C2000000/)
+○9月9日　中国勢、スマホ進化を先導 ファーウェイ・小米、アップルと競う 折り畳み、AI機能充実　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGKKZO98656480Y6A900C2FFJ000/](https://www.nikkei.com/article/DGKKZO98656480Y6A900C2FFJ000/)
+
+○9月9日　クローズアップ：予防接種 進まぬデジタル化　毎日新聞<br>
+　[https://mainichi.jp/articles/20260909/ddm/003/040/109000c](https://mainichi.jp/articles/20260909/ddm/003/040/109000c)
+
+○9月9日　クアルコム、アマゾンにAI半導体 見返りに6200億円の出資権利付与　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN08BFF0Y6A900C2000000/](https://www.nikkei.com/article/DGXZQOGN08BFF0Y6A900C2000000/)
+
+○9月9日　薬局DXのカケハシ中川CEO「AI時代こそ『推しの薬剤師』」　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC03BDS0T00C26A9000000/](https://www.nikkei.com/article/DGXZQOUC03BDS0T00C26A9000000/)
+
+○9月9日　NTT東、神奈川で教職員DX 県に社員派遣　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/791593](https://www.nikkan.co.jp/articles/view/791593)
+
+○9月9日　北九州商工会議所会頭「台湾の人材育成法学ぶ」 デジタル格差に危機感　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOJC1213O0S6A710C2000000/](https://www.nikkei.com/article/DGXZQOJC1213O0S6A710C2000000/)
+
+○9月9日　ＰＩＳＡ 北欧３国 平均得点が低下…デジタル化影響 分析必要　読売新聞<br>
+　[https://www.yomiuri.co.jp/kyoiku/kyoiku/20260908-GYT8T00190/](https://www.yomiuri.co.jp/kyoiku/kyoiku/20260908-GYT8T00190/)
+
+○9月9日　トレンドインサイド2026 設備投資（2）製造業サプライチェーン見直し　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/791551](https://www.nikkan.co.jp/articles/view/791551)
+
+○9月9日　味の素に続け、消費財各社が半導体シフト 花王は洗浄剤　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOUC0626Z0W6A900C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUC0626Z0W6A900C2000000)
+
+○9月9日　カナデビア、電子基板を増産 舞鶴で半導体装置用　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/791630](https://www.nikkan.co.jp/articles/view/791630)
+
+○9月9日　クアルコム、アマゾンとＡＩ半導体で提携 最大600億ドル供給へ　Reuters<br>
+　[https://jp.reuters.com/markets/japan/BGSS2A3Q5BKK7LBAIC4UA3CMNA-2026-09-08/](https://jp.reuters.com/markets/japan/BGSS2A3Q5BKK7LBAIC4UA3CMNA-2026-09-08/)
+
+○9月9日　メタ、AIエージェント「Muse」原則無料で提供 買い物やメール代行　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN0901N0Z00C26A9000000/](https://www.nikkei.com/article/DGXZQOGN0901N0Z00C26A9000000/)
+
+○9月9日　日経平均、米半導体株高と円高一服が支え（先読み株式相場）　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL0902I0Z00C26A9000000/](https://www.nikkei.com/article/DGXZQOFL0902I0Z00C26A9000000/)
+
+○9月9日　Strong Apple lineup 'critical' given valuation, market expert says　Reuters<br>
+　[https://jp.reuters.com/video/watch/idRW128808092026RP1/](https://jp.reuters.com/video/watch/idRW128808092026RP1/)
+
+○9月9日　今日の株式見通し＝もみ合い、米国株安が重しに 半導体株買われ底堅さも　Reuters<br>
+　[https://jp.reuters.com/markets/japan/FYN6IEK7WFKIBE53DCLE2ZX5RM-2026-09-08/](https://jp.reuters.com/markets/japan/FYN6IEK7WFKIBE53DCLE2ZX5RM-2026-09-08/)
+
+○9月9日　日経平均株価、朝安後上昇に転じる AI・半導体株に買い　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL090KW0Z00C26A9000000/](https://www.nikkei.com/article/DGXZQOFL090KW0Z00C26A9000000/)
+
+○9月9日　グーグル、ＥＵ罰金回避で検索結果ページ変更、サービスの質低下を警告　Reuters<br>
+　[https://jp.reuters.com/economy/FNDN6BKZ6NJMHCAVGJU65MZVWU-2026-09-09/](https://jp.reuters.com/economy/FNDN6BKZ6NJMHCAVGJU65MZVWU-2026-09-09/)
+
+○9月9日　日経平均は続落で寄り付く、その後持ち直す 半導体株買われる　Reuters<br>
+　[https://jp.reuters.com/markets/japan/5SRB34DHRBJD3NR5IM7IPE2Y5E-2026-09-09/](https://jp.reuters.com/markets/japan/5SRB34DHRBJD3NR5IM7IPE2Y5E-2026-09-09/)
+
+○9月9日　スターティアホールディングス[3393]：クラウドサーカス、OAGコンサルティングとパートナー契約を締結 2026年9月9日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20260908532984/](https://www.nikkei.com/nkd/disclosure/tdnr/20260908532984/)
+
+○9月9日　AIのスキルを身につけ、変わる農村の女性たち｜with Planet　朝日新聞<br>
+　[https://www.asahi.com/withplanet/article/16820031](https://www.asahi.com/withplanet/article/16820031)
+
+○9月9日　オープンＡＩ、半導体設計にＡＩ提供 「オープンソースより安価」　Reuters<br>
+　[https://jp.reuters.com/economy/V54P4T25LBOIJAV5XYDAJDPCVY-2026-09-09/](https://jp.reuters.com/economy/V54P4T25LBOIJAV5XYDAJDPCVY-2026-09-09/)
 

@@ -1,4 +1,4 @@
-更新日時：2026年9月22日 11:26（JST）
+更新日時：2026年9月22日 21:21（JST）
 
 【松本尚デジタル大臣】<br>
 ○9月18日の大臣就任記者会見（！再生時間情報を自分で取得してください！）<br>
@@ -89,11 +89,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○9月18日　【株式会社ITP】大阪・東京に「ITP DXショールーム」を開設　朝日新聞<br>
-　[https://www.asahi.com/and/pressrelease/16742936](https://www.asahi.com/and/pressrelease/16742936)
+○9月19日　AIの処理速度、クラウドが左右 独社調査、最大7倍差 中国「オープン型」台頭で重み　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGKKZO98866600Y6A910C2TB0000/](https://www.nikkei.com/article/DGKKZO98866600Y6A910C2TB0000/)
 
 ○9月19日　スーパーの棚は空っぽ、米サプライチェーン問題が深刻に（字幕・15日）　Reuters<br>
 　[https://www.reuters.com/jp/video/watch/idOWjpvCB0C6NVDYSLVWMCHXUGM6H2ZHZ/](https://www.reuters.com/jp/video/watch/idOWjpvCB0C6NVDYSLVWMCHXUGM6H2ZHZ/)
+
+○9月19日　GoogleのAIも他社システムに侵入 事故直後に停止、公表せず　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/](https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/)
 
 ○9月19日　小学校の隣に建設も データセンターは迷惑施設か 目立つ軋轢　毎日新聞<br>
 　[https://mainichi.jp/articles/20260917/k00/00m/020/224000c](https://mainichi.jp/articles/20260917/k00/00m/020/224000c)
@@ -107,35 +110,44 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月19日　米グーグルのＡＩも他社攻撃 相次ぐ「暴走」：時事ドットコム　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026091900342&g=int](https://www.jiji.com/jc/article?k=2026091900342&g=int)
 
-○9月19日　画像・写真：米グーグルのＡＩも他社攻撃 相次ぐ「暴走」：時事ドットコム　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026091900342&g=int&p=20260919ds46&rel=pv](https://www.jiji.com/jc/article?k=2026091900342&g=int&p=20260919ds46&rel=pv)
+○9月19日　グーグルのＡＩ「ジェミニ」も暴走、企業のシステムに不正侵入…サイバー攻撃能力調べる試験中　読売新聞<br>
+　[https://www.yomiuri.co.jp/economy/20260919-GYT1T00310/](https://www.yomiuri.co.jp/economy/20260919-GYT1T00310/)
 
-○9月19日　追手門学院大学が日本DX大賞 価値創造部門で「大賞」受賞。学生体験価値向上を軸にしたOIDAI DXプロジェクトが評価　朝日新聞<br>
-　[https://www.asahi.com/and/pressrelease/16752464](https://www.asahi.com/and/pressrelease/16752464)
+○9月20日　日本生命、データセンターに2兆円融資 日本マネーが米AI開発の軸に　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/](https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/)
 
-○9月19日　グーグルのAI「ジェミニ」、試験中に他社へサイバー攻撃 米報道 [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV9M4FNSV9MULZU002M.html](https://www.asahi.com/articles/ASV9M4FNSV9MULZU002M.html)
+○9月20日　半導体の生産能力、韓国・台湾超え中国首位 著名企業ないのになぜ？　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC108250Q6A810C2000000/](https://www.nikkei.com/article/DGXZQOUC108250Q6A810C2000000/)
+
+○9月20日　GoogleのAI部門支える全炳河氏 変化は日常、「まずやってみる」　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC2788R0X20C26A8000000/](https://www.nikkei.com/article/DGXZQOUC2788R0X20C26A8000000/)
 
 ○9月20日　希少な病気の研究で九大准教授がクラウドファンディング　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/nb-5010035427](https://news.web.nhk/newsweb/na/nb-5010035427)
 
-○9月21日　全セッション決定！estie主催「不動産DXカンファレンス2026」来場登録・セッション申込受付中　朝日新聞<br>
-　[https://www.asahi.com/and/pressrelease/16789615](https://www.asahi.com/and/pressrelease/16789615)
-
-○9月21日　韓国チップメーカーからレバレッジ型半導体ETFまで：STARTRADERが49種類の新しい24/7株式・ETF CFDをローンチ　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=psQnZ3sq&g=prn](https://www.jiji.com/jc/article?k=psQnZ3sq&g=prn)
-
-○9月22日　Google parent cuts 12,000 jobs as tech layoffs deepen　Reuters<br>
-　[https://www.reuters.com/jp/video/watch/idOV414020012023RP1/](https://www.reuters.com/jp/video/watch/idOV414020012023RP1/)
-
 ○9月22日　ＡＭＤ時価総額が1兆ドル突破、米半導体メーカーで4社目　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/V5LPOWFYPZMQDJ6IRG4ILZ6YEU-2026-09-21/](https://www.reuters.com/jp/markets/japan/V5LPOWFYPZMQDJ6IRG4ILZ6YEU-2026-09-21/)
+
+○9月22日　ECB、デジタル証券の決済開始 トークン化債券も少額保有へ　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGR2101B0R20C26A9000000/](https://www.nikkei.com/article/DGXZQOGR2101B0R20C26A9000000/)
+
+○9月22日　未来けん引するNEXTカンパニー（64）樋口製作所 車部品 DXで生産性向上　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/792357](https://www.nikkan.co.jp/articles/view/792357)
+
+○9月22日　地政学リスクと経済安全保障（15）天国と地獄、２つのレンズで未来を見る経営　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/792683](https://www.nikkan.co.jp/articles/view/792683)
+
+○9月22日　サプライチェーンの「変態」マテリアル編（44）ボルティモアの悲劇から学ぶ　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/792557](https://www.nikkan.co.jp/articles/view/792557)
+
+○9月22日　SKハイニックス誘致狙う宮城県、半導体に「再挑戦」 動画でクイック解説　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFH061CW0W6A900C2000000/](https://www.nikkei.com/article/DGXZQOFH061CW0W6A900C2000000/)
 
 ○9月22日　教育予算 ＡＩ・半導体重点…戦略１７分野 人材を育成　読売新聞<br>
 　[https://www.yomiuri.co.jp/kyoiku/kyoiku/20260921-GYT8T00070/](https://www.yomiuri.co.jp/kyoiku/kyoiku/20260921-GYT8T00070/)
 
-○9月22日　アメリカと中国 AI重大事案で意思疎通の手段を構築へ　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nd-20260922de51793](https://news.web.nhk/newsweb/na/nd-20260922de51793)
+○9月22日　ニュース拡大鏡／JX金属、自動化推進 半導体材拠点 ロボ導入進む　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/792558](https://www.nikkan.co.jp/articles/view/792558)
 
 ○9月22日　米国株式市場＝ナスダック史上最高値、ＡＩ・半導体株高がけん引　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/PA55GTJIBVJ7PGNIOHC6XOBQPM-2026-09-21/](https://www.reuters.com/jp/markets/japan/PA55GTJIBVJ7PGNIOHC6XOBQPM-2026-09-21/)
@@ -143,21 +155,42 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月22日　Eコマースに陰りのアリババ AI・クラウドに業態シフト　毎日新聞<br>
 　[https://mainichi.jp/premier/business/articles/20260912/biz/00m/020/007000c](https://mainichi.jp/premier/business/articles/20260912/biz/00m/020/007000c)
 
-○9月22日　XやTikTok…AI使い投稿削除、誹謗中傷対策で 判定に懸念も [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV9D7GG4V9DULFA001M.html](https://www.asahi.com/articles/ASV9D7GG4V9DULFA001M.html)
-
-○9月22日　社員はAIと私だけ 中国の若者たちが挑む「1人会社」 競争は激烈　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV9K2CDFV9KULFA01RM.html](https://www.asahi.com/articles/ASV9K2CDFV9KULFA01RM.html)
-
-○9月22日　AIキャラと英会話 県内初 横須賀市立中で導入 恥ずかしがらず話す練習を　東京新聞<br>
-　[https://www.tokyo-np.co.jp/article/516998](https://www.tokyo-np.co.jp/article/516998)
-
-○9月22日　チャレンジ！ デジタル 数独 2026.9.22　朝日新聞<br>
-　[https://www.asahi.com/edua/article/16839541](https://www.asahi.com/edua/article/16839541)
-
 ○9月22日　米テキサス州、データセンター新規許可を停止 電力網監査完了まで　Reuters<br>
 　[https://www.reuters.com/jp/economy/4F33DWDJRVI3VJXIMQ3QNRGWH4-2026-09-22/](https://www.reuters.com/jp/economy/4F33DWDJRVI3VJXIMQ3QNRGWH4-2026-09-22/)
 
-○9月22日　「AIの国際連携、米国が主導を」 米中会談前にオープンAIが提言 [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV9Q009WV9QUHBI004M.html](https://www.asahi.com/articles/ASV9Q009WV9QUHBI004M.html)
+○9月22日　米グーグルの新型ノートパソコン「グーグルブック」（同社ウェブサイトから）　産経ニュース<br>
+　[https://www.sankei.com/article/20260922-SOORXVUNDBJ63N2R3DDDCQOVTI/photo/EMXK4UMIGFLQLKFTGNN7PBSUFM/](https://www.sankei.com/article/20260922-SOORXVUNDBJ63N2R3DDDCQOVTI/photo/EMXK4UMIGFLQLKFTGNN7PBSUFM/)
+
+○9月22日　企業の景気判断２期ぶり改善 ＡＩ・半導体需要で 中経連調査　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nb-3000051431](https://news.web.nhk/newsweb/na/nb-3000051431)
+
+○9月22日　Googleが「AIパソコン」､スマホと連携強化 海外先行で14万円台から　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN212CR0R20C26A9000000/](https://www.nikkei.com/article/DGXZQOGN212CR0R20C26A9000000/)
+
+○9月22日　アリババ、パラメーター数5兆─10兆のＡＩモデル計画 新半導体発表　Reuters<br>
+　[https://www.reuters.com/jp/economy/OHCI7QMZFFP2PAIYDCQ2X6WEMA-2026-09-22/](https://www.reuters.com/jp/economy/OHCI7QMZFFP2PAIYDCQ2X6WEMA-2026-09-22/)
+
+○9月22日　今夜のNEXT フィジカルAI「最後は日本が勝つ」 最新機を生披露　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCD220IV0S6A920C2000000/](https://www.nikkei.com/article/DGXZQOCD220IV0S6A920C2000000/)
+
+○9月22日　日立製作所「AI活用」鉄道運行支援 異常予測し遅れや運休抑制、27年受注車両から搭載　産経ニュース<br>
+　[https://www.sankei.com/article/20260922-JB36O2XJL5IPPHO67ME774DRV4/](https://www.sankei.com/article/20260922-JB36O2XJL5IPPHO67ME774DRV4/)
+
+○9月22日　ＡＩ搭載ノートＰＣ「グーグルブック」予約開始、899ドルから　Reuters<br>
+　[https://www.reuters.com/jp/economy/OYDNXXMEONIINPBB5L3Z2TC5RY-2026-09-22/](https://www.reuters.com/jp/economy/OYDNXXMEONIINPBB5L3Z2TC5RY-2026-09-22/)
+
+○9月22日　中国アリババ集団、次世代半導体の投入半年前倒し AI需要増に対応　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM220MD0S6A920C2000000/](https://www.nikkei.com/article/DGXZQOGM220MD0S6A920C2000000/)
+
+○9月22日　＜独自＞防衛大がAIリテラシー教育導入へ、来年度にも 安保3文書改定見据え PT設置　産経ニュース<br>
+　[https://www.sankei.com/article/20260922-H7VWPD6HTZIIHLZQTAYVO52DAM/](https://www.sankei.com/article/20260922-H7VWPD6HTZIIHLZQTAYVO52DAM/)
+
+○9月22日　Manchester Unitedのレジェンド、Louis Sahaがバーレーンの「フィンテック・フォワード2026（Fintech Forward 2026）」の登壇者に加わる　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=FXVBh2Lx&g=prn](https://www.jiji.com/jc/article?k=FXVBh2Lx&g=prn)
+
+○9月22日　環境面でもＡＩ規制の機運高まるか…ＣＯＰ３１議長のトルコ環境相、データセンターの「脱炭素化」へ宣言策定　読売新聞<br>
+　[https://www.yomiuri.co.jp/world/20260922-GYT1T00194/](https://www.yomiuri.co.jp/world/20260922-GYT1T00194/)
+
+○9月22日　AI時代、育てるべき人間性 吉田圭秀・防衛大学校長に聞く 東大出身、統幕長経て就任　産経ニュース<br>
+　[https://www.sankei.com/article/20260922-S3ORMBPSVBKHLHSWJJHWNG4FIU/](https://www.sankei.com/article/20260922-S3ORMBPSVBKHLHSWJJHWNG4FIU/)
 

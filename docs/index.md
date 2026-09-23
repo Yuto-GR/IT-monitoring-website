@@ -2,7 +2,7 @@
 [WARN] failed to fetch https://r.jina.ai/https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
 [WARN] failed to fetch https://r.jina.ai/https://www.meti.go.jp/shingikai/index.html: urllib attempt 1: HTTP Error 403: Forbidden; urllib attempt 2: HTTP Error 403: Forbidden; curl fallback: curl: (22) The requested URL returned error: 403
 [WARN] failed to fetch https://wwws.meti.go.jp/interface/honsho/committee/index.cgi/committee: urllib attempt 1: <urlopen error [Errno -5] No address associated with hostname>; urllib attempt 2: <urlopen error [Errno -5] No address associated with hostname>; curl fallback: curl: (6) Could not resolve host: wwws.meti.go.jp
-更新日時：2026年9月23日 11:26（JST）
+更新日時：2026年9月23日 21:33（JST）
 
 【松本尚デジタル大臣】<br>
 該当データなし
@@ -67,21 +67,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○9月19日　グーグルの生成AI サイバー能力試験中に他社のシステムに侵入　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nd-20260919de51229](https://news.web.nhk/newsweb/na/nd-20260919de51229)
-
-○9月19日　グーグルＡＩ「ジェミニ」も他社システム侵入、5月に3社サイト　Reuters<br>
-　[https://www.reuters.com/jp/economy/VAIM2PBBMNM3TM7OOOQ3HYMHEY-2026-09-19/](https://www.reuters.com/jp/economy/VAIM2PBBMNM3TM7OOOQ3HYMHEY-2026-09-19/)
-
-○9月19日　米グーグルのＡＩも他社攻撃 相次ぐ「暴走」：時事ドットコム　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026091900342&g=int](https://www.jiji.com/jc/article?k=2026091900342&g=int)
-
-○9月19日　グーグルのＡＩ「ジェミニ」も暴走、企業のシステムに不正侵入…サイバー攻撃能力調べる試験中　読売新聞<br>
-　[https://www.yomiuri.co.jp/economy/20260919-GYT1T00310/](https://www.yomiuri.co.jp/economy/20260919-GYT1T00310/)
-
-○9月19日　グーグルのAI「ジェミニ」、試験中に他社へサイバー攻撃 米報道 [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASV9M4FNSV9MULZU002M.html](https://www.asahi.com/articles/ASV9M4FNSV9MULZU002M.html)
-
 ○9月20日　日本生命、データセンターに2兆円融資 日本マネーが米AI開発の軸に　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/](https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/)
 
@@ -94,11 +79,17 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月22日　ＡＭＤ時価総額が1兆ドル突破、米半導体メーカーで4社目 | ロイター　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/V5LPOWFYPZMQDJ6IRG4ILZ6YEU-2026-09-21/](https://www.reuters.com/jp/markets/japan/V5LPOWFYPZMQDJ6IRG4ILZ6YEU-2026-09-21/)
 
+○9月22日　未来けん引するNEXTカンパニー（64）樋口製作所 車部品 DXで生産性向上　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/792357](https://www.nikkan.co.jp/articles/view/792357)
+
+○9月22日　地政学リスクと経済安全保障（15）天国と地獄、２つのレンズで未来を見る経営　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/792683](https://www.nikkan.co.jp/articles/view/792683)
+
+○9月22日　サプライチェーンの「変態」マテリアル編（44）ボルティモアの悲劇から学ぶ　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/792557](https://www.nikkan.co.jp/articles/view/792557)
+
 ○9月22日　SKハイニックス誘致狙う宮城県、半導体に「再挑戦」 動画でクイック解説　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFH061CW0W6A900C2000000/](https://www.nikkei.com/article/DGXZQOFH061CW0W6A900C2000000/)
-
-○9月22日　教育予算 ＡＩ・半導体重点…戦略１７分野 人材を育成　読売新聞<br>
-　[https://www.yomiuri.co.jp/kyoiku/kyoiku/20260921-GYT8T00070/](https://www.yomiuri.co.jp/kyoiku/kyoiku/20260921-GYT8T00070/)
 
 ○9月22日　米国株式市場＝ナスダック史上最高値、ＡＩ・半導体株高がけん引 | ロイター　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/PA55GTJIBVJ7PGNIOHC6XOBQPM-2026-09-21/](https://www.reuters.com/jp/markets/japan/PA55GTJIBVJ7PGNIOHC6XOBQPM-2026-09-21/)
@@ -106,17 +97,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月22日　Eコマースに陰りのアリババ AI・クラウドに業態シフト　毎日新聞<br>
 　[https://mainichi.jp/premier/business/articles/20260912/biz/00m/020/007000c](https://mainichi.jp/premier/business/articles/20260912/biz/00m/020/007000c)
 
-○9月22日　チャレンジ！ デジタル 数独 2026.9.22　朝日新聞<br>
-　[https://www.asahi.com/edua/article/16839541](https://www.asahi.com/edua/article/16839541)
+○9月22日　米テキサス州、データセンター新規許可を停止 電力網監査完了まで | ロイター　Reuters<br>
+　[https://www.reuters.com/jp/economy/4F33DWDJRVI3VJXIMQ3QNRGWH4-2026-09-22/](https://www.reuters.com/jp/economy/4F33DWDJRVI3VJXIMQ3QNRGWH4-2026-09-22/)
 
 ○9月22日　米グーグルの新型ノートパソコン「グーグルブック」（同社ウェブサイトから）　産経ニュース<br>
 　[https://www.sankei.com/article/20260922-SOORXVUNDBJ63N2R3DDDCQOVTI/photo/EMXK4UMIGFLQLKFTGNN7PBSUFM/](https://www.sankei.com/article/20260922-SOORXVUNDBJ63N2R3DDDCQOVTI/photo/EMXK4UMIGFLQLKFTGNN7PBSUFM/)
 
 ○9月22日　Googleが「AIパソコン」､スマホと連携強化 海外先行で14万円台から　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN212CR0R20C26A9000000/](https://www.nikkei.com/article/DGXZQOGN212CR0R20C26A9000000/)
-
-○9月22日　企業の景気判断２期ぶり改善 ＡＩ・半導体需要で 中経連調査　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nb-3080019990](https://news.web.nhk/newsweb/na/nb-3080019990)
 
 ○9月22日　アリババ、パラメーター数5兆─10兆のＡＩモデル計画 新半導体発表　Reuters<br>
 　[https://www.reuters.com/jp/economy/OHCI7QMZFFP2PAIYDCQ2X6WEMA-2026-09-22/](https://www.reuters.com/jp/economy/OHCI7QMZFFP2PAIYDCQ2X6WEMA-2026-09-22/)
@@ -127,38 +115,17 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月22日　中国アリババ集団、次世代半導体の投入半年前倒し AI需要増に対応　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM220MD0S6A920C2000000/](https://www.nikkei.com/article/DGXZQOGM220MD0S6A920C2000000/)
 
-○9月22日　Manchester Unitedのレジェンド、Louis Sahaがバーレーンの「フィンテック・フォワード2026（Fintech Forward 2026）」の登壇者に加わる　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=FXVBh2Lx&g=prn](https://www.jiji.com/jc/article?k=FXVBh2Lx&g=prn)
-
 ○9月22日　環境面でもＡＩ規制の機運高まるか…ＣＯＰ３１議長のトルコ環境相、データセンターの「脱炭素化」へ宣言策定　読売新聞<br>
 　[https://www.yomiuri.co.jp/world/20260922-GYT1T00194/](https://www.yomiuri.co.jp/world/20260922-GYT1T00194/)
 
-○9月22日　世界規模の最新調査によると、産業組織の3分の1以上がサイバーセキュリティ･リスクを成長阻害の主要因と認識　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=K1eCzjCj&g=prn](https://www.jiji.com/jc/article?k=K1eCzjCj&g=prn)
-
 ○9月23日　【10～12月分】朝日新聞（デジタル版）オリジナル壁紙カレンダー2026をお届けします！　朝日新聞<br>
 　[https://digital.asahi.com/info/information/articles/SDI202609100003.html](https://digital.asahi.com/info/information/articles/SDI202609100003.html)
-
-○9月23日　囲碁で探る「人に寄り添うAI」 初のペア碁大会、AIが棋士翻弄　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUD158WI0V10C26A9000000/](https://www.nikkei.com/article/DGXZQOUD158WI0V10C26A9000000/)
 
 ○9月23日　論点：改正個人情報保護法　毎日新聞<br>
 　[https://mainichi.jp/articles/20260923/ddm/004/070/017000c](https://mainichi.jp/articles/20260923/ddm/004/070/017000c)
 
 ○9月23日　Google parent cuts 12,000 jobs as tech layoffs deepen　Reuters<br>
 　[https://www.reuters.com/jp/video/watch/idOV414020012023RP1/](https://www.reuters.com/jp/video/watch/idOV414020012023RP1/)
-
-○9月23日　マラリア対策、ドローン・AIで蚊を駆除 異業種人材が革新生む　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC018NP0R00C26A9000000/](https://www.nikkei.com/article/DGXZQOUC018NP0R00C26A9000000/)
-
-○9月23日　ナスカの地上絵、研究100年 AIで続々と発見重ね「解読」へ　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOSG108PM0Q6A910C2000000/](https://www.nikkei.com/article/DGXZQOSG108PM0Q6A910C2000000/)
-
-○9月23日　諫早市 4年連続県内1位 ソニーグループ 半導体生産設備が拡充 製造品出荷額 24年9239億円 ／長崎　毎日新聞<br>
-　[https://mainichi.jp/articles/20260923/ddl/k42/020/186000c](https://mainichi.jp/articles/20260923/ddl/k42/020/186000c)
-
-○9月23日　日米、中国念頭に同盟強化 ＡＩ・半導体・重要鉱物で協力―高市首相、ＩＣＣ問題に言及・首脳会談　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026092300142&g=pol](https://www.jiji.com/jc/article?k=2026092300142&g=pol)
 
 ○9月23日　アンソロピックとOpenAIが低価格AI 値下げ競争激しく　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN2300D0T20C26A9000000/](https://www.nikkei.com/article/DGXZQOGN2300D0T20C26A9000000/)
@@ -172,12 +139,24 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○9月23日　地方の景色と経済を変えるAI・半導体ブーム 裾野広がる投資対象と関連銘柄の〝目利き〟　産経ニュース<br>
 　[https://www.sankei.com/article/20260923-ELRMTK7J5ROP5D7VYBIICJT5R4/](https://www.sankei.com/article/20260923-ELRMTK7J5ROP5D7VYBIICJT5R4/)
 
-○9月23日　トランプ氏、イランとの合意は「中間選挙後」主張 AIは「超知能」と呼ぶ 国連総会演説　産経ニュース<br>
-　[https://www.sankei.com/article/20260923-DQMHZDFFCBP3VHJPDJID5JLXLE/](https://www.sankei.com/article/20260923-DQMHZDFFCBP3VHJPDJID5JLXLE/)
-
 ○9月23日　中国EVほしがる米Z世代 「お手頃価格」の波、車と半導体を飲む　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCD16AYD0W6A910C2000000/](https://www.nikkei.com/article/DGXZQOCD16AYD0W6A910C2000000/)
 
-○9月23日　中国当局、KimiやDeepSeekを調査 米AIに機密情報転送　日本経済新聞<br>
+○9月23日　中国当局がKimiやDeepSeek調査 AnthropicのAIに機密情報転送疑い　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM230CK0T20C26A9000000/](https://www.nikkei.com/article/DGXZQOGM230CK0T20C26A9000000/)
+
+○9月23日　仏マクロン大統領 米中へのAI依存脱却へ協力の枠組み呼びかけ　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nd-20260923de51978](https://news.web.nhk/newsweb/na/nd-20260923de51978)
+
+○9月23日　DeepSeek、国連安保理に参加報道 AIの安全巡る議論で　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM230NQ0T20C26A9000000/](https://www.nikkei.com/article/DGXZQOGM230NQ0T20C26A9000000/)
+
+○9月23日　ソフトバンクGのデジタルブリッジ買収、当局が承認　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC230UL0T20C26A9000000/](https://www.nikkei.com/article/DGXZQOUC230UL0T20C26A9000000/)
+
+○9月23日　トランプ大統領、今度は「AI」を「SI」に改名…6万6000人の投票結果スルー　東京新聞<br>
+　[https://www.tokyo-np.co.jp/article/517239](https://www.tokyo-np.co.jp/article/517239)
+
+○9月23日　日米首脳、経済安保で対中連携 重要鉱物やAI・半導体で協力強化、ICC問題も議題に　産経ニュース<br>
+　[https://www.sankei.com/article/20260923-KIQYFQUQQZIX7I464EV64ABXR4/](https://www.sankei.com/article/20260923-KIQYFQUQQZIX7I464EV64ABXR4/)
 

@@ -1,13 +1,10 @@
-更新日時：2026年10月12日 12:19（JST）
+更新日時：2026年10月13日 01:30（JST）
 
 【松本尚デジタル大臣】<br>
 ○10月9日の大臣記者会見（12分1秒）<br>
 　[https://www.digital.go.jp/speech/minister-261009-01](https://www.digital.go.jp/speech/minister-261009-01)
 
 【自由民主党】<br>
-○10月8日　政調、国際協力調査会 TICAD PT・日AU友好議員連盟合同会議
-　TICADフォローアップ：ユース分野における取組み ・TICADユース・ドライブ2026（ガーナ）に関する報告【ADNJ】 ・TICAD9以降のユース分野における取組みの現状【外務省】
-
 ○10月9日　政調、農業構造転換推進委員会
 　（１）今後のスケジュール （２）水田政策の見直しに関する団体要請 ・全国農業協同組合中央会 ・全国農協青年組織協議会 ・全国農業会議所 ・全国土地改良事業団体連合会 （３）農地の大区画化等について
 
@@ -42,8 +39,7 @@
 　（１）クマ対策の実施状況について ・環境省 （２）鳥獣被害対策の現状と対策について ・農林水産省 （３）鳥獣被害対策・ジビエ等関連予算令和９年度概算要求について ・農林水産省 （４）大日本猟友会からの意見聴取 ・尾上 貞夫 大日本猟友会 会長
 
 【デジタル庁】<br>
-⚪︎10月8日　デジタル庁におけるデジタル人材確保・育成計画を更新しました<br>
-[https://www.digital.go.jp/about/human-resource-plan](https://www.digital.go.jp/about/human-resource-plan)
+DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【総務省】<br>
 ○10月9日　令和7年度補正予算「海底ケーブル等の地方分散によるデジタルインフラ強靱化事業」に係る基金設置法人による間接補助事業者の採択<br>
@@ -67,9 +63,12 @@
 ○10月14日　情報通信審議会 郵政政策部会 郵便事業政策委員会(第3回)開催案内<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02ryutsu14_04000223.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02ryutsu14_04000223.html)
 
+○10月20日　Beyond 5G時代に向けた新ビジネス戦略セミナー（第28回） ～「AI時代のサイバーセキュリティ：最新の脅威動向と国際ルール形成の最前線 」開催の御案内～<br>
+　[https://www.soumu.go.jp/menu_news/gyouji/02tsushin04_04000268.html](https://www.soumu.go.jp/menu_news/gyouji/02tsushin04_04000268.html)
+
 【経済産業省ニュースリリース（投資・IT関連）】<br>
-○10月12日　エネルギー・環境<br>
-　[https://www.meti.go.jp/press/category_05.html](https://www.meti.go.jp/press/category_05.html)
+○10月12日　Image 10: エネルギー・環境<br>
+　[https://www.meti.go.jp/files/000000078.jpg](https://www.meti.go.jp/files/000000078.jpg)
 
 
 【審議会・研究会等】<br>
@@ -115,38 +114,14 @@
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○10月8日　東京応化、新工場棟の完成前倒し 半導体レジスト首位を追う巨大資本　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC02C2S0S6A001C2000000/](https://www.nikkei.com/article/DGXZQOUC02C2S0S6A001C2000000/)
-
-○10月8日　デジタルベリー、東証プロ市場に上場 「スタンダード市場目指す」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOCC298IX0Z20C26A9000000/](https://www.nikkei.com/article/DGXZQOCC298IX0Z20C26A9000000/)
-
-○10月8日　ＪＴＰ[2488]：サプライチェーン強化に向けたセキュリティ対策評価制度（SCS評価制度）への対応支援サービスを提供開始 2026年10月8日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20261008547890/](https://www.nikkei.com/nkd/disclosure/tdnr/20261008547890/)
-
-○10月8日　長崎の半導体関連新工場が完成 伸和コントロールズ、80億円投資　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOJC025WG0S6A001C2000000/](https://www.nikkei.com/article/DGXZQOJC025WG0S6A001C2000000/)
-
-○10月8日　企業や自治体利用のクラウド被害 ハッカー集団が脅迫文表示か　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nd-20261008de56645](https://news.web.nhk/newsweb/na/nd-20261008de56645)
-
-○10月8日　「ロシアのグーグル」にドローン攻撃、データハブ大規模攻撃は初　Reuters<br>
-　[https://www.reuters.com/jp/world/ukraine/5LNN2KMMPVIT7HRXTXCIRMGWN4-2026-10-08/](https://www.reuters.com/jp/world/ukraine/5LNN2KMMPVIT7HRXTXCIRMGWN4-2026-10-08/)
-
 ○10月9日　CSC、「2026年サイバーセキュリティ・ブレイクスルー・アワード」の脅威インテリジェンス・イノベーション部門で受賞　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=20261008451323&g=bw](https://www.jiji.com/jc/article?k=20261008451323&g=bw)
 
 ○10月9日　千葉・印西、データセンターで新たな火種 駅前商業施設内に新設構想　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCC058PQ0V01C26A0000000/](https://www.nikkei.com/article/DGXZQOCC058PQ0V01C26A0000000/)
 
-○10月9日　県立医療センター「走るICU」導入へクラウドファンディング　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nd-20261009de56910](https://news.web.nhk/newsweb/na/nd-20261009de56910)
-
 ○10月9日　米国株式市場＝Ｓ＆Ｐ・ナスダック下落、原油急騰で 半導体株が安い　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/57LNRJWXGNO4LNEWECENK52ZPE-2026-10-08/](https://www.reuters.com/jp/markets/japan/57LNRJWXGNO4LNEWECENK52ZPE-2026-10-08/)
-
-○10月9日　データセンター説明会 つくば市主催求めて住民抗議　東京新聞<br>
-　[https://www.tokyo-np.co.jp/article/520631](https://www.tokyo-np.co.jp/article/520631)
 
 ○10月9日　グーグル・クラウド、ビジネス用ＡＩエージェント「ジェミニ」発表　Reuters<br>
 　[https://www.reuters.com/jp/economy/PLEXFR7PVZLI3PSGHA5J5LDEW4-2026-10-09/](https://www.reuters.com/jp/economy/PLEXFR7PVZLI3PSGHA5J5LDEW4-2026-10-09/)
@@ -160,23 +135,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月9日　ギブリー、AI時代のサイバーセキュリティ人材を定義する「サイバーセキュリティスキル標準 2026」を公開　朝日新聞<br>
 　[https://www.asahi.com/and/pressrelease/16955547](https://www.asahi.com/and/pressrelease/16955547)
 
-○10月9日　JX金属系、AI需要でデータセンターの漏水検知システム増産　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC095TJ0Z01C26A0000000/](https://www.nikkei.com/article/DGXZQOUC095TJ0Z01C26A0000000/)
-
 ○10月9日　ａｂｃ[8783]：サイバーセキュリティ事業の検討開始および推進組織新設に関するお知らせ 2026年10月9日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/disclosure/tdnr/20261009548812/](https://www.nikkei.com/nkd/disclosure/tdnr/20261009548812/)
-
-○10月9日　日経平均は小幅安、ＡＩ・半導体に買い戻しも　Reuters<br>
-　[https://www.reuters.com/jp/markets/japan/LZ7YTUJ5GBP6BNBED2BNUDI36I-2026-10-09/](https://www.reuters.com/jp/markets/japan/LZ7YTUJ5GBP6BNBED2BNUDI36I-2026-10-09/)
 
 ○10月9日　「サイバー空間は非常事態だ」と官民連携での対応強化を政府に要請…自民・国家サイバーセキュリティ戦略本部　読売新聞<br>
 　[https://www.yomiuri.co.jp/politics/20261009-GYT1T00244/](https://www.yomiuri.co.jp/politics/20261009-GYT1T00244/)
 
 ○10月9日　企業の不正アクセス相次ぐ サイバーセキュリティー学ぶ協議会　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/nd-20261009de57341](https://news.web.nhk/newsweb/na/nd-20261009de57341)
-
-○10月9日　デジタル・リアルティ・トラスト 株価[DLR/DigtalRlty]最新ニュース 日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/company/us/DLR/](https://www.nikkei.com/nkd/company/us/DLR/)
 
 ○10月9日　サムスン半導体部門、年俸940万円の社員で賞与8400万円　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM093YT0Z01C26A0000000/](https://www.nikkei.com/article/DGXZQOGM093YT0Z01C26A0000000/)
@@ -187,9 +153,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月9日　Sansan、1万人の情報漏洩か 外部クラウドに不正アクセス　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOMG00015_Z01C26A0000000/](https://www.nikkei.com/article/DGXZQOMG00015_Z01C26A0000000/)
 
-○10月9日　決算:マルマエ純利益21％増 27年8月期、半導体製造装置向け部品が好調　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOJC097F10Z01C26A0000000/](https://www.nikkei.com/article/DGXZQOJC097F10Z01C26A0000000/)
-
 ○10月9日　アップル、iPhone18 Proの部品発注を削減 需要足踏みで　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM093OK0Z01C26A0000000/](https://www.nikkei.com/article/DGXZQOGM093OK0Z01C26A0000000/)
 
@@ -198,9 +161,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○10月9日　ウエスタン・デジタル 株価[WDC/WestrnDigt]最新ニュース 日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/company/us/WDC/](https://www.nikkei.com/nkd/company/us/WDC/)
-
-○10月9日　ロシア・ヤンデックス、ウクライナの攻撃でデータセンター一部停止　ロイター<br>
-　[https://jp.reuters.com/jp/world/ukraine/YFKIDGAK2FPRTJMUEZVR7Y2DN4-2026-10-09/](https://jp.reuters.com/jp/world/ukraine/YFKIDGAK2FPRTJMUEZVR7Y2DN4-2026-10-09/)
 
 ○10月10日　Pixel 11とPixel Watch 5を試す Googleが目指す「先回りするAI」　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC280790Y6A920C2000000/](https://www.nikkei.com/article/DGXZQOUC280790Y6A920C2000000/)
@@ -211,17 +171,8 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月10日　Google､業務用エージェント開発もAIで自動化 導入しやすく　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN09C7D0Z01C26A0000000/](https://www.nikkei.com/article/DGXZQOGN09C7D0Z01C26A0000000/)
 
-○10月10日　AIデータセンター基本構想 薩摩川内市 周辺に関連産業 臨海部一帯50ヘクタールの利用計画示す ／鹿児島　毎日新聞<br>
-　[https://mainichi.jp/articles/20261010/ddl/k46/010/267000c](https://mainichi.jp/articles/20261010/ddl/k46/010/267000c)
-
 ○10月10日　ロシアのデータセンター連日攻撃 ウクライナ軍の無人機、双方の応酬激化　産経ニュース<br>
 　[https://www.sankei.com/article/20261010-CL3OIEYOCVM6JPRCZIVP2O6P6E/](https://www.sankei.com/article/20261010-CL3OIEYOCVM6JPRCZIVP2O6P6E/)
-
-○10月11日　米中半導体戦争リポート（後半） AI開発競争　日本経済新聞<br>
-　[https://www.nikkei.com/prime/ft/article/DGXZQOCB019BY0R01C26A0000000](https://www.nikkei.com/prime/ft/article/DGXZQOCB019BY0R01C26A0000000)
-
-○10月11日　米中半導体戦争リポート（前半） 中国の闇市場　日本経済新聞<br>
-　[https://www.nikkei.com/prime/ft/article/DGXZQOCB018T20R01C26A0000000](https://www.nikkei.com/prime/ft/article/DGXZQOCB018T20R01C26A0000000)
 
 ○10月11日　[FT]半導体産業に賭けるシンガポール　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCB071CF0X01C26A0000000/](https://www.nikkei.com/article/DGXZQOCB071CF0X01C26A0000000/)
@@ -238,29 +189,23 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月11日　小学校隣接の大規模データセンター、年内の着工見合わせ 北九州　毎日新聞<br>
 　[https://mainichi.jp/articles/20261010/k00/00m/310/228000c](https://mainichi.jp/articles/20261010/k00/00m/310/228000c)
 
-○10月11日　台湾・双十節式典に出席の日台友好議連が会見 「半導体やドローンの協力加速を」　産経ニュース<br>
-　[https://www.sankei.com/article/20261011-7OD4ZM7HCJLRVJURRNZIU7MTM4/](https://www.sankei.com/article/20261011-7OD4ZM7HCJLRVJURRNZIU7MTM4/)
-
 ○10月11日　「デスノート」にも登場した廃トンネル、一部がデータセンターに [写真特集1/5]　毎日新聞<br>
 　[https://mainichi.jp/graphs/20261010/mpj/00m/310/181000f/20261010mpj00m310179000p](https://mainichi.jp/graphs/20261010/mpj/00m/310/181000f/20261010mpj00m310179000p)
 
 ○10月11日　米国で争点化するデータセンター、日本とも地続き 発電所に巨額投資 [アメリカ中間選挙]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASVB81VZ3VB8ULLI00CM.html](https://www.asahi.com/articles/ASVB81VZ3VB8ULLI00CM.html)
 
+○10月11日　「何の得が」共和党支持者も怒るデータセンター トランプ氏も裏目か [アメリカ中間選挙]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASVB803CVVB8UHBI006M.html](https://www.asahi.com/articles/ASVB803CVVB8UHBI006M.html)
+
 ○10月11日　「デスノート」にも登場した廃トンネル、一部がデータセンターに　毎日新聞<br>
 　[https://mainichi.jp/articles/20261010/k00/00m/310/183000c](https://mainichi.jp/articles/20261010/k00/00m/310/183000c)
-
-○10月11日　ランサムウェア被害を「防いで、戻す」。ダイレクトクラウド、ランサムウェア特化型ソリューション「WhiteDefender」の代理販売を開始　朝日新聞<br>
-　[https://www.asahi.com/and/pressrelease/16816217](https://www.asahi.com/and/pressrelease/16816217)
 
 ○10月11日　ロシアのデータセンターに攻撃相次ぐ 宅配などのサービスに障害も　朝日新聞<br>
 　[https://www.asahi.com/articles/ASVBC4G0YVBCSFVU1FYM.html](https://www.asahi.com/articles/ASVBC4G0YVBCSFVU1FYM.html)
 
-○10月12日　残業先生、AIでゆとり先生に みんがくの負担軽減支援が1年で導入3倍　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC092VW0Z01C26A0000000/](https://www.nikkei.com/article/DGXZQOUC092VW0Z01C26A0000000/)
-
-○10月12日　生成AIの安全性評価するシステム開発　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nd-20261011de58038](https://news.web.nhk/newsweb/na/nd-20261011de58038)
+○10月12日　ロシアのデータセンター、ウクライナによる無人機攻撃受け稼働停止…金融機関などに通信障害・宅配にも影響　読売新聞<br>
+　[https://www.yomiuri.co.jp/world/20261012-GYT1T00060/](https://www.yomiuri.co.jp/world/20261012-GYT1T00060/)
 
 ○10月12日　露データセンター停止 攻撃で通信障害　読売新聞<br>
 　[https://www.yomiuri.co.jp/shimen/20261012-GYT9T00136/](https://www.yomiuri.co.jp/shimen/20261012-GYT9T00136/)
@@ -274,6 +219,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月12日　ワンストラクション西岡CEO、配属ガチャを糧に 建設DXで世界へ　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOLC0904L0Z01C26A0000000/](https://www.nikkei.com/article/DGXZQOLC0904L0Z01C26A0000000/)
 
+○10月12日　【10/6開催】AI時代の成長の壁を突破する！製造業DX人材のための業務変革　朝日新聞<br>
+　[https://www.asahi.com/and/pressrelease/16893014](https://www.asahi.com/and/pressrelease/16893014)
+
 ○10月12日　“ロシアのグーグル”に無人機攻撃 一部サービス利用できず | NHKニュース | ウクライナ情勢、ゼレンスキー大統領、ロシア　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/nd-20261012de58066](https://news.web.nhk/newsweb/na/nd-20261012de58066)
 
@@ -283,15 +231,39 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月12日　選挙で勝つには有権者よりAI説得、でも利用は隠しがち 米中間選挙　朝日新聞<br>
 　[https://www.asahi.com/articles/ASVB266HZVB2UHBI00GM.html](https://www.asahi.com/articles/ASVB266HZVB2UHBI00GM.html)
 
-○10月12日　愛知発バンドの緑黄色社会、AI時代だからこそ信じるライブの価値 [愛知県]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASVB81VZYVB8OIPE002M.html](https://www.asahi.com/articles/ASVB81VZYVB8OIPE002M.html)
-
 ○10月12日　ゴムマリ、経産省『DX認定』の取得支援を50万円（税別）固定で提供開始　産経ニュース<br>
 　[https://www.sankei.com/pressrelease/prtimes/RWRD6O2D3VJ25EGEEQBB4VB5DI/](https://www.sankei.com/pressrelease/prtimes/RWRD6O2D3VJ25EGEEQBB4VB5DI/)
 
-○10月12日　OrcaRouter、サイバーセキュリティ向けフロンティアモデル「OrcaCyber Zero 1.5」の提供を開始　産経ニュース<br>
-　[https://www.sankei.com/pressrelease/prtimes/JI2DIRXDANM4XNLQIQXUMUFE2Q/](https://www.sankei.com/pressrelease/prtimes/JI2DIRXDANM4XNLQIQXUMUFE2Q/)
+○10月12日　Amazon、米デカートAIを1.1兆円で買収協議 WSJ報道　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN120NY0S6A011C2000000/](https://www.nikkei.com/article/DGXZQOGN120NY0S6A011C2000000/)
 
-○10月12日　「何の得が」共和党支持者も怒るデータセンター トランプ氏も裏目か [アメリカ中間選挙]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASVB803CVVB8UHBI006M.html](https://www.asahi.com/articles/ASVB803CVVB8UHBI006M.html)
+○10月12日　アップル供給元の中国立訊精密、米で特許侵害調査 影響軽微と説明　Reuters<br>
+　[https://www.reuters.com/jp/markets/japan/HIMN4KRQHVNCLA2TW7O4GFCFLE-2026-10-12/](https://www.reuters.com/jp/markets/japan/HIMN4KRQHVNCLA2TW7O4GFCFLE-2026-10-12/)
+
+○10月12日　AIを使って質問し、AIを使って答弁する議会 議員は必要なのか [AIの時代]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASVB83FHBVB8UTFK00TM.html](https://www.asahi.com/articles/ASVB83FHBVB8UTFK00TM.html)
+
+○10月12日　AI規制議論を米国と中国はどう見たか 「主体は政府か業界か」「狙いは米国の覇権」 世界の論点　産経ニュース<br>
+　[https://www.sankei.com/article/20261012-62QSZRLAURJQPDETWRF5TJK3GI/](https://www.sankei.com/article/20261012-62QSZRLAURJQPDETWRF5TJK3GI/)
+
+○10月12日　半導体投資、三重の企業が国内外から呼び込み 台湾へトップセールス　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCC195JB0Z10C26A8000000/](https://www.nikkei.com/article/DGXZQOCC195JB0Z10C26A8000000/)
+
+○10月12日　IMF専務理事「AI投資で成長3%を維持」 新興国での普及に期待　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC120QT0S6A011C2000000/](https://www.nikkei.com/article/DGXZQOUC120QT0S6A011C2000000/)
+
+○10月12日　経営者に戦略のアドバイスも 経営の中枢でAI活用の動き相次ぐ　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nd-20261012de58173](https://news.web.nhk/newsweb/na/nd-20261012de58173)
+
+○10月12日　世銀総裁、新興国の若者8億人に失業リスク 軽量型AIで雇用創出急ぐ　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN121HR0S6A011C2000000/](https://www.nikkei.com/article/DGXZQOGN121HR0S6A011C2000000/)
+
+○10月12日　「露のGoogle」IT大手のサービス停止 データセンター攻撃され　毎日新聞<br>
+　[https://mainichi.jp/articles/20261012/k00/00m/030/101000c](https://mainichi.jp/articles/20261012/k00/00m/030/101000c)
+
+○10月12日　HR Path、SnapAI買収により人工知能（AI）戦略を加速　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=1JLyX7e9&g=prn](https://www.jiji.com/jc/article?k=1JLyX7e9&g=prn)
+
+○10月13日　NYダウ、続伸で始まる 業績期待の買いが支え 半導体関連は下落　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL1220T0S6A011C2000000/](https://www.nikkei.com/article/DGXZQOFL1220T0S6A011C2000000/)
 

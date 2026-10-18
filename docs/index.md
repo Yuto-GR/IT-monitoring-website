@@ -1,4 +1,4 @@
-更新日時：2026年10月18日 11:08（JST）
+更新日時：2026年10月18日 20:56（JST）
 
 【松本尚デジタル大臣】<br>
 ○10月16日の大臣記者会見（4分29秒）<br>
@@ -174,41 +174,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○10月14日　グーグル、新旗艦ＡＩモデルを公開 開発競争で巻き返しへ | ロイター　Reuters<br>
-　[https://www.reuters.com/jp/economy/IIVJTOL24JK3RHRZBDJCOU4YMA-2026-10-14/](https://www.reuters.com/jp/economy/IIVJTOL24JK3RHRZBDJCOU4YMA-2026-10-14/)
-
-○10月14日　中国CXMT、新技術搭載の半導体メモリーを年末めど投入へ　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGM142TQ0U6A011C2000000/](https://www.nikkei.com/article/DGXZQOGM142TQ0U6A011C2000000/)
-
-○10月14日　ウクライナによる露データセンター攻撃で、ロシア系の偽情報が減少？ 誤解との分析　産経ニュース<br>
-　[https://www.sankei.com/article/20261014-W4YALPLW7VJXHGDVR3PG2GFH3M/](https://www.sankei.com/article/20261014-W4YALPLW7VJXHGDVR3PG2GFH3M/)
-
-○10月14日　不正アクセス、クラウドサービスが急所 顧客のマツダなど一斉被害　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC138MY0T11C26A0000000/](https://www.nikkei.com/article/DGXZQOUC138MY0T11C26A0000000/)
-
-○10月14日　山形のメコム、企業のDX促す新サービス 「半歩先」行く新本社公開　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOCC144B80U6A011C2000000/](https://www.nikkei.com/article/DGXZQOCC144B80U6A011C2000000/)
-
-○10月14日　ソフトバンク系クラウド「データ流出なかった」 不正アクセスで調査　朝日新聞<br>
-　[https://www.asahi.com/articles/ASVBG32N4VBGULFA01QM.html](https://www.asahi.com/articles/ASVBG32N4VBGULFA01QM.html)
-
-○10月14日　対米投融資で半導体工場、日米両政府 2兆円規模　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUA146160U6A011C2000000/](https://www.nikkei.com/article/DGXZQOUA146160U6A011C2000000/)
-
-○10月14日　半導体装置大手ＡＳＭＬ、商談「2030年分も」 さらなる生産能力増強模索 | ロイター　Reuters<br>
-　[https://www.reuters.com/jp/economy/7Y7CL7Z53BMBFLXG3WFDCAWJCE-2026-10-14/](https://www.reuters.com/jp/economy/7Y7CL7Z53BMBFLXG3WFDCAWJCE-2026-10-14/)
-
-○10月14日　サイバー攻撃で情報漏洩「基本対策に抜け」 個人情報保護委事務局長　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUA143930U6A011C2000000/](https://www.nikkei.com/article/DGXZQOUA143930U6A011C2000000/)
-
 ○10月15日　米半導体大手、3兆円でニューヨーク州に工場 日本の対米投融資の一環　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN14BOB0U6A011C2000000/](https://www.nikkei.com/article/DGXZQOGN14BOB0U6A011C2000000/)
 
 ○10月15日　OSGが上場来高値圏 切削工具、データセンター・防衛にも食い込む - 日経ヴェリタス　日本経済新聞<br>
 　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB135NB0T11C26A0000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB135NB0T11C26A0000000)
-
-○10月15日　住友電工、データセンター向け光製品に成長余地 30日の決算に注目 - 日経ヴェリタス　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB13A790T11C26A0000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB13A790T11C26A0000000)
 
 ○10月15日　「黒四」電力をデータセンターに 富山県と関西電力、再エネ安定供給　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCC110IQ0R11C26A0000000/](https://www.nikkei.com/article/DGXZQOCC110IQ0R11C26A0000000/)
@@ -281,6 +251,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○10月15日　日本株揺らす「新興クラウド」の信用不安 日経平均株価3318円安　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUB154DU0V11C26A0000000/](https://www.nikkei.com/article/DGXZQOUB154DU0V11C26A0000000/)
+
+○10月15日　アップル、中国でAI「アップルインテリジェンス」 現地報道　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM15ANP0V11C26A0000000/](https://www.nikkei.com/article/DGXZQOGM15ANP0V11C26A0000000/)
 
 ○10月16日　データセンター誘致へ総力戦、大阪は官民組織 NTT新設の許認可支援　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUF09C150Z01C26A0000000/](https://www.nikkei.com/article/DGXZQOUF09C150Z01C26A0000000/)
@@ -387,14 +360,8 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月17日　デジタル先進国で「現金回帰」 高齢社会のシンガポール　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM102XY0Q6A011C2000000/](https://www.nikkei.com/article/DGXZQOGM102XY0Q6A011C2000000/)
 
-○10月17日　データセンターが「中国に行ってしまう」とトランプ政権が危機感…でも推進に住民「待った」、支持者にも反発及ぶ　読売新聞<br>
-　[https://www.yomiuri.co.jp/world/20261017-GYT1T00049/](https://www.yomiuri.co.jp/world/20261017-GYT1T00049/)
-
 ○10月17日　インテルCEO、半導体の政府支援「極めて重要」 台湾生産集中に危機感　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN086JJ0Y6A001C2000000/](https://www.nikkei.com/article/DGXZQOGN086JJ0Y6A001C2000000/)
-
-○10月17日　［読売３３３ 企業に聞く］ＡＩ・半導体 九州の発展先導…ふくおかＦＧ 経営企画部長・浅野俊幸氏　読売新聞<br>
-　[https://www.yomiuri.co.jp/life/20261016-GYT8T00159/](https://www.yomiuri.co.jp/life/20261016-GYT8T00159/)
 
 ○10月17日　折りたたみスマホ、2026年度出荷台数は2.3倍に Apple参入が追い風　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC15ASG0V11C26A0000000/](https://www.nikkei.com/article/DGXZQOUC15ASG0V11C26A0000000/)
@@ -408,32 +375,32 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月17日　「先読み2027、半導体メモリー」「液体電池」 注目5本　日本経済新聞<br>
 　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC160130W6A011C2000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC160130W6A011C2000000)
 
-○10月17日　「高齢者はデジタル苦手」は思い込み それでも人に相談したい　毎日新聞<br>
-　[https://mainichi.jp/articles/20261016/k00/00m/040/058000c](https://mainichi.jp/articles/20261016/k00/00m/040/058000c)
-
 ○10月17日　「知的財産」は大手に対抗する武器になる…経営戦略に生かし技術保護やブランド化、国も認めた「重要な柱」　読売新聞<br>
 　[https://www.yomiuri.co.jp/local/kyushu/news/20261009-GYS1T00104/](https://www.yomiuri.co.jp/local/kyushu/news/20261009-GYS1T00104/)
 
 ○10月17日　福井の「農園たや」が農林水産祭で天皇杯 DXと外国人材育成評価　毎日新聞<br>
 　[https://mainichi.jp/articles/20261016/k00/00m/310/327000c](https://mainichi.jp/articles/20261016/k00/00m/310/327000c)
 
-○10月17日　人手不足時代でも必要な場所には人を デジタルと人で役割分担　毎日新聞<br>
-　[https://mainichi.jp/articles/20261016/k00/00m/040/093000c](https://mainichi.jp/articles/20261016/k00/00m/040/093000c)
+○10月17日　MS&AD、政府の国産AI計画に参加 保険×異業種データで新商品開発　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUB015ZK0R00C26A9000000/](https://www.nikkei.com/article/DGXZQOUB015ZK0R00C26A9000000/)
+
+○10月17日　【ITCOLLEGE】アットホームの新卒エンジニア研修事例を公開！不動産DXを担う人材の土台を育てる「自社方針にフィットしたオーダーメイド研修」の裏側に迫る　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000007.000016003&g=prt](https://www.jiji.com/jc/article?k=000000007.000016003&g=prt)
+
+○10月18日　ワンダーレックスつくば店、AIO・MEO・口コミ対策「クチコレ」導入後、Googleマップの表示回数が前月比10.1%増加し、21,694回に。　朝日新聞<br>
+　[https://www.asahi.com/and/pressrelease/16862637](https://www.asahi.com/and/pressrelease/16862637)
 
 ○10月18日　コレタ for Sales、日程調整機能「スケジュール」を提供開始｜Google・Outlook連携に対応　朝日新聞<br>
 　[https://www.asahi.com/and/pressrelease/16861971](https://www.asahi.com/and/pressrelease/16861971)
 
+○10月18日　着物業界初、株式会社鈴花が経済産業省が定める「DX認定事業者」に認定　朝日新聞<br>
+　[https://www.asahi.com/and/pressrelease/16861875](https://www.asahi.com/and/pressrelease/16861875)
+
 ○10月18日　AIは「異質な知性」 哲学や心理学が理解の突破口に　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCD054YU0V01C26A0000000/](https://www.nikkei.com/article/DGXZQOCD054YU0V01C26A0000000/)
 
-○10月18日　AI検索普及、ゼロクリック率68%に上昇 揺らぐサイト集客　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC050C20V01C26A0000000/](https://www.nikkei.com/article/DGXZQOUC050C20V01C26A0000000/)
-
 ○10月18日　新たな教科書は「紙中心」、デジタルは補助的扱いに…小４以下は完全デジタル認めず　読売新聞<br>
 　[https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20261017-GYT1T00328/](https://www.yomiuri.co.jp/kyoiku/kyoiku/news/20261017-GYT1T00328/)
-
-○10月18日　新たな教科書「紙中心」 大臣指針案 デジタルは補助　読売新聞<br>
-　[https://www.yomiuri.co.jp/shimen/20261018-GYT9T00073/](https://www.yomiuri.co.jp/shimen/20261018-GYT9T00073/)
 
 ○10月18日　半導体製造の現場は汗だく、想定より重労働 装置大手の研修に志願　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC178020X10C26A8000000/](https://www.nikkei.com/article/DGXZQOUC178020X10C26A8000000/)
@@ -444,6 +411,27 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月18日　AIの台頭でウエブサイトのアクセス向上策はSEOからGEOにシフト 対応急務に　産経ニュース<br>
 　[https://www.sankei.com/article/20261018-KDSFPHXC7BJ4NJWDVCTBCKOG6E/](https://www.sankei.com/article/20261018-KDSFPHXC7BJ4NJWDVCTBCKOG6E/)
 
+○10月18日　「AI」の文言、トランプ政権の意向受け使わず IMF会合の議長声明　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCB1804T0Y6A011C2000000/](https://www.nikkei.com/article/DGXZQOCB1804T0Y6A011C2000000/)
+
+○10月18日　中国AIが暴走ならどうする、米中は情報共有を－エージェント型の安全性に高まる懸念　Bloomberg<br>
+　[https://www.bloomberg.com/jp/news/articles/2026-10-17/TM755RKGIFPO00](https://www.bloomberg.com/jp/news/articles/2026-10-17/TM755RKGIFPO00)
+
 ○10月18日　狂騒AIに歴史の警鐘 膨張する投資、逆回転のリスク　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFK101HG0Q6A011C2000000/](https://www.nikkei.com/article/DGXZQOFK101HG0Q6A011C2000000/)
+
+○10月18日　創業2年で200億円超調達 光量子コンピューターでゲームチェンジ 東大発のOptQC 月刊Biz　産経ニュース<br>
+　[https://www.sankei.com/article/20261018-2RODECX7QNL2DJMMFCI2F3Q45E/](https://www.sankei.com/article/20261018-2RODECX7QNL2DJMMFCI2F3Q45E/)
+
+○10月18日　歴史に学ぶ感性は人間だけ AI時代 教育の変革必要 歴史家・磯田道史氏 インタビューズ 聞き手・酒井充編集長　産経ニュース<br>
+　[https://www.sankei.com/article/20261018-5IADFUUDN5OZPCCA3BISMMFSCM/](https://www.sankei.com/article/20261018-5IADFUUDN5OZPCCA3BISMMFSCM/)
+
+○10月18日　AI「思考」過程は信用できず、暴走リスク高まる　毎日新聞<br>
+　[https://mainichi.jp/premier/business/articles/20261011/biz/00m/020/018000c](https://mainichi.jp/premier/business/articles/20261011/biz/00m/020/018000c)
+
+○10月18日　マイナ認証の導入、デジタル庁に相談6倍 相次ぐ不正アクセスで関心　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUA111HE0R11C26A0000000/](https://www.nikkei.com/article/DGXZQOUA111HE0R11C26A0000000/)
+
+○10月18日　SUBARU 車の衝突実験を“実機ではなくデジタルで”なぜ?【QA】　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nd-20261018de61149](https://news.web.nhk/newsweb/na/nd-20261018de61149)
 

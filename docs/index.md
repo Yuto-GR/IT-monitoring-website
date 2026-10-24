@@ -1,4 +1,4 @@
-更新日時：2026年10月24日 11:32（JST）
+更新日時：2026年10月24日 20:50（JST）
 
 【松本尚デジタル大臣】<br>
 ○10月23日の大臣記者会見（8分1秒）<br>
@@ -245,14 +245,14 @@
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○10月20日　ＡＢＢ第3四半期、受注高が過去最高 データセンター向け好調 | ロイター　Reuters<br>
-　[https://www.reuters.com/jp/world/EIAAMA4YTZJDBHM43RIAFHDQPA-2026-10-20/](https://www.reuters.com/jp/world/EIAAMA4YTZJDBHM43RIAFHDQPA-2026-10-20/)
-
 ○10月20日　英国の金融サービスで障害 グーグルクラウドに問題か：時事ドットコム　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026102001157&g=int](https://www.jiji.com/jc/article?k=2026102001157&g=int)
 
 ○10月20日　英国の金融サービスで障害 グーグルクラウドに問題か　時事ドットコム<br>
 　[https://www.jiji.com/sp/article?k=2026102001157&g=int&p=20261020ds83&rel=pv](https://www.jiji.com/sp/article?k=2026102001157&g=int&p=20261020ds83&rel=pv)
+
+○10月21日　AI投資ブームの変調匂わすネオクラウドの失速－市場の懸念収まらず　Bloomberg<br>
+　[https://www.bloomberg.com/jp/news/articles/2026-10-20/TN7DQBT9NJLU00](https://www.bloomberg.com/jp/news/articles/2026-10-20/TN7DQBT9NJLU00)
 
 ○10月21日　英金融サービスで障害相次ぐ グーグルクラウドが原因か　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGR20B6D0Q6A021C2000000/](https://www.nikkei.com/article/DGXZQOGR20B6D0Q6A021C2000000/)
@@ -268,6 +268,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○10月21日　グーグル・クラウド、英国で数時間障害 金融機関や公共部門に影響　Reuters<br>
 　[https://jp.mobile.reuters.com/jp/markets/japan/IWGF6L5DGRJAPLDLSRELGPEWVQ-2026-10-21/](https://jp.mobile.reuters.com/jp/markets/japan/IWGF6L5DGRJAPLDLSRELGPEWVQ-2026-10-21/)
+
+○10月21日　アップル、米企業から最大1億ドル相当のチタン購入を契約　Reuters<br>
+　[https://www.reuters.com/jp/economy/B32AUFBB7ZJS3MUPSHV5R6W75I-2026-10-21/](https://www.reuters.com/jp/economy/B32AUFBB7ZJS3MUPSHV5R6W75I-2026-10-21/)
 
 ○10月21日　デジタルアーツ[2326]：当社への不正アクセスに関するお知らせとお詫び 2026年10月21日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/disclosure/tdnr/20261021554017/](https://www.nikkei.com/nkd/disclosure/tdnr/20261021554017/)
@@ -317,26 +320,32 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月22日　サイバーセキュリティクラウド株が20％高、不正アクセス相次ぎ需要拡大期待　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/BVYJMQHSY5JWNN3U7FGYGNJOY4-2026-10-22/](https://www.reuters.com/jp/markets/japan/BVYJMQHSY5JWNN3U7FGYGNJOY4-2026-10-22/)
 
+○10月22日　新都ホールディングス[2776]：大阪府内の大規模データセンター向け電気設備供給の受注および契約締結に関するお知らせ 2026年10月22日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20261021554173/](https://www.nikkei.com/nkd/disclosure/tdnr/20261021554173/)
+
+○10月22日　午前の日経平均は反落、6万4000円割れ ＡＩ・半導体株に売り　Reuters<br>
+　[https://www.reuters.com/jp/markets/japan/RJWAALZVHVN2JMYQC7PSZRRARM-2026-10-22/](https://www.reuters.com/jp/markets/japan/RJWAALZVHVN2JMYQC7PSZRRARM-2026-10-22/)
+
 ○10月22日　テンセントやアリババ、PHP欠陥でクラウド顧客に対応要請　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM221O20S6A021C2000000/](https://www.nikkei.com/article/DGXZQOGM221O20S6A021C2000000/)
 
 ○10月22日　神鋼商事[8075]：「DX認定」の取得について 2026年10月22日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/disclosure/tdnr/20261022554568/](https://www.nikkei.com/nkd/disclosure/tdnr/20261022554568/)
 
-○10月22日　電源開発 上ノ国町に初のデータセンター 2027年夏稼働へ　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nd-20261022de63493](https://news.web.nhk/newsweb/na/nd-20261022de63493)
-
 ○10月22日　コロナ[5909]：当社が利用するクラウドサービスへの不正アクセスによる個人情報漏えいの可能性に関するお知らせ（お詫び）【第２報】 2026年10月22日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/nkd/disclosure/tdnr/20261022554492/](https://www.nikkei.com/nkd/disclosure/tdnr/20261022554492/)
-
-○10月22日　「従業員２減だが残業ほぼゼロに」それどころか賃金はアップした…ナス農園のDX挑戦「人件費も労働時間も無視した丼勘定にはしない」　読売新聞<br>
-　[https://www.yomiuri.co.jp/local/kansai/news/20261022-GYO1T00145/](https://www.yomiuri.co.jp/local/kansai/news/20261022-GYO1T00145/)
 
 ○10月22日　トランプ氏、データセンター建設企業に「配当」を住民に支払うよう要請…中間選挙前に反発抑える狙いか　読売新聞<br>
 　[https://www.yomiuri.co.jp/world/20261022-GYT1T00240/](https://www.yomiuri.co.jp/world/20261022-GYT1T00240/)
 
 ○10月22日　日経平均は急反落、ＡＩ・半導体株売られ6万3000円割れ　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/WSQXJPJGSRMR5JWZCP4H2C7M4U-2026-10-22/](https://www.reuters.com/jp/markets/japan/WSQXJPJGSRMR5JWZCP4H2C7M4U-2026-10-22/)
+
+○10月22日　「紙かデジタルか」ではなく…文科省の指針、教科書の新たなかたちは　朝日新聞<br>
+　[https://www.asahi.com/articles/ASVBQ2TCBVBQUTIL01SM.html](https://www.asahi.com/articles/ASVBQ2TCBVBQUTIL01SM.html)
+
+○10月22日　フアン氏、Nscaleに「24時間体制」でデータセンター問題への対応要請　Bloomberg<br>
+　[https://www.bloomberg.com/jp/news/articles/2026-10-22/TNAWLCKJH6VB00](https://www.bloomberg.com/jp/news/articles/2026-10-22/TNAWLCKJH6VB00)
 
 ○10月22日　デジタル教科書 “紙とデジタル”基本に 文科省指針案　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/nd-20261022de63547](https://news.web.nhk/newsweb/na/nd-20261022de63547)
@@ -355,6 +364,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○10月23日　NVIDIAのCEO、新興クラウド信用不安「構造的問題ではない」と火消し　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGR2266T0S6A021C2000000/](https://www.nikkei.com/article/DGXZQOGR2266T0S6A021C2000000/)
+
+○10月23日　「紙とデジタル」教科書指針示す 小４以下は「紙必須」、発達に考慮 先行のデンマーク、教材使い分け　朝日新聞<br>
+　[https://www.asahi.com/articles/DA3S16572542.html](https://www.asahi.com/articles/DA3S16572542.html)
 
 ○10月23日　駅前の商業施設内に「データセンター」建設計画 急展開に「出来レース」疑う市民も 千葉・印西　東京新聞<br>
 　[https://www.tokyo-np.co.jp/article/523326](https://www.tokyo-np.co.jp/article/523326)
@@ -386,17 +398,26 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月23日　折り畳み式ｉＰｈｏｎｅ発売 「デュオ」、画面１．５倍に―米アップル　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026102300195&g=int](https://www.jiji.com/jc/article?k=2026102300195&g=int)
 
-○10月23日　折り畳み式ｉＰｈｏｎｅ発売 「デュオ」、画面１．５倍に―米アップル　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026102300195&g=int&p=20261023at50S&rel=pv](https://www.jiji.com/jc/article?k=2026102300195&g=int&p=20261023at50S&rel=pv)
-
 ○10月23日　日経平均は続落で寄り付く、ＡＩ・半導体株が売り先行 6万2000円割れ　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/XNEKHKNRMBNE5N23ZVFS7NTTCU-2026-10-23/](https://www.reuters.com/jp/markets/japan/XNEKHKNRMBNE5N23ZVFS7NTTCU-2026-10-23/)
+
+○10月23日　関東電化工業、株価5カ月半ぶり安値 AI・半導体関連株売りが波及　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOFL230PX0T21C26A0000000/](https://www.nikkei.com/article/DGXZQOFL230PX0T21C26A0000000/)
+
+○10月23日　「巨樹王国」徳島・つるぎ町のRPG デジタルスタンプラリーを開始 [徳島県]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASVBQ3SSWVBQOXIE01CM.html](https://www.asahi.com/articles/ASVBQ3SSWVBQOXIE01CM.html)
 
 ○10月23日　アップルの折りたたみ「iPhone Duo」発売、品薄で直営店前に行列復活　Bloomberg<br>
 　[https://www.bloomberg.com/jp/news/articles/2026-10-23/TNC4ECVTTD0P00](https://www.bloomberg.com/jp/news/articles/2026-10-23/TNC4ECVTTD0P00)
 
+○10月23日　折り畳み式ｉＰｈｏｎｅ発売 「デュオ」、画面１．５倍に 米アップル：ニュース動画：時事ドットコム　時事ドットコム<br>
+　[https://www.jiji.com/jc/movie?p=n007109](https://www.jiji.com/jc/movie?p=n007109)
+
 ○10月23日　Apple初の折りたたみ型「iPhone Duo」発売 30万円超も購入客「安い」　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC2088F0Q6A021C2000000/](https://www.nikkei.com/article/DGXZQOUC2088F0Q6A021C2000000/)
+
+○10月23日　アップル初の折り畳みスマホ「デュオ」が大量出品されたメルカリの画面　産経ニュース<br>
+　[https://www.sankei.com/article/20261023-CCCUJKPYG5KXFBRNPJE5N75J54/photo/YBAO4AQU45NRBF4IB5G4IMH5CE/](https://www.sankei.com/article/20261023-CCCUJKPYG5KXFBRNPJE5N75J54/photo/YBAO4AQU45NRBF4IB5G4IMH5CE/)
 
 ○10月23日　ＡＩデータセンター建設、ケーブル生産能力が制約＝ネクサンス　Reuters<br>
 　[https://www.reuters.com/jp/economy/4W3PIQEDTZKEDBEWTDN2QMVVMI-2026-10-23/](https://www.reuters.com/jp/economy/4W3PIQEDTZKEDBEWTDN2QMVVMI-2026-10-23/)
@@ -419,22 +440,13 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月23日　経済安全保障は国際秩序のカギ 主役は企業、プレーヤーは経営者 細川昌彦エコノセック実行委員長インタビュー【ＥＣＯＮＯＳＥＣ ＪＡＰＡＮ】　時事ドットコム<br>
 　[https://www.jiji.com/jc/v8?id=202608econosec](https://www.jiji.com/jc/v8?id=202608econosec)
 
-○10月23日　鹿児島の南日本新聞社、デジタル会員情報が最大6万6500人分流出　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOJC231G10T21C26A0000000/](https://www.nikkei.com/article/DGXZQOJC231G10T21C26A0000000/)
-
-○10月23日　AIによる人類滅亡リスク、0.1%でも無視できず－グーグル経営幹部「政府規制も必要」　Bloomberg<br>
-　[https://www.bloomberg.com/jp/news/features/2026-10-23/TNCJCDT3BZMG00](https://www.bloomberg.com/jp/news/features/2026-10-23/TNCJCDT3BZMG00)
-
-○10月23日　セイコーソリューションズとアルフレッサ、医療DX分野における協業に関する基本合意書を締結　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZRSP714319_T21C26A0000000/](https://www.nikkei.com/article/DGXZRSP714319_T21C26A0000000/)
-
 ○10月23日　次世代半導体の研究拠点整備 三菱地所などと連携協定―北海道千歳市　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026102300793&g=eco](https://www.jiji.com/jc/article?k=2026102300793&g=eco)
 
 ○10月23日　ｉＰｈｏｎｅ「デュオ」発売、アップル初の折り畳み式 各地で行列　Reuters<br>
 　[https://www.reuters.com/jp/economy/ULDTM5UCV5J2XNFOGYLJGXOWEE-2026-10-23/](https://www.reuters.com/jp/economy/ULDTM5UCV5J2XNFOGYLJGXOWEE-2026-10-23/)
 
-○10月23日　AI半導体株に売りの時限爆弾 迫る追い証リスク ヴェリタスEYE（10月23日）　日本経済新聞<br>
+○10月23日　AI半導体株に売りの時限爆弾 迫る追い証リスク ヴェリタスEYE（10月23日） - 日経ヴェリタス　日本経済新聞<br>
 　[https://www.nikkei.com/prime/veritas/article/DGXZQOKC236360T21C26A0000000](https://www.nikkei.com/prime/veritas/article/DGXZQOKC236360T21C26A0000000)
 
 ○10月23日　中小企業のサイバーセキュリティー強化を、自民対処本部が経産相に要請　Reuters<br>
@@ -464,18 +476,21 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月24日　｢ネオクラウド｣･SBエナジー上場黄信号、AI信用不安で資金確保厳しく　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN215O70R21C26A0000000/](https://www.nikkei.com/article/DGXZQOGN215O70R21C26A0000000/)
 
-○10月24日　毎小ニュース：教育 教科書 小4以下は完全デジタル認めず　毎日新聞<br>
-　[https://mainichi.jp/maisho/articles/20261024/kei/00s/00s/012000c](https://mainichi.jp/maisho/articles/20261024/kei/00s/00s/012000c)
-
 ○10月24日　PHP脆弱性への攻撃「1分で100万回」 米クラウドフレアCEO　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/](https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/)
 
 ○10月24日　データセンター計画、市の要請受け説明会 つくばで来月以降　東京新聞<br>
-　[https://www.tokyo-np.co.jp/article/523661?rct=ibaraki](https://www.tokyo-np.co.jp/article/523661?rct=ibaraki)
+　[https://www.tokyo-np.co.jp/article/523661](https://www.tokyo-np.co.jp/article/523661)
 
 ○10月24日　画像・写真：首相Ｘ返信のワードクラウド：時事ドットコム　時事ドットコム<br>
 　[https://www.jiji.com/jc/p?id=20261024085740-0093794779](https://www.jiji.com/jc/p?id=20261024085740-0093794779)
 
 ○10月24日　PHP並みの脆弱性「まだ出てくる」 米クラウドフレアCEOが予告　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN23C8Y0T21C26A0000000/](https://www.nikkei.com/article/DGXZQOGN23C8Y0T21C26A0000000/)
+
+○10月24日　中国系AIのARTEX、悪質改造が横行 公開停止後もサイバー攻撃に悪用か　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC2361W0T21C26A0000000/](https://www.nikkei.com/article/DGXZQOUC2361W0T21C26A0000000/)
+
+○10月24日　スマホ新時代到来、Duoが告げる－プレミアム化進行ならアップル有利　Bloomberg<br>
+　[https://www.bloomberg.com/jp/news/articles/2026-10-24/TNCYLGKK3NYG00](https://www.bloomberg.com/jp/news/articles/2026-10-24/TNCYLGKK3NYG00)
 

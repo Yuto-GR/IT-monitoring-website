@@ -1,4 +1,4 @@
-更新日時：2026年10月25日 11:19（JST）
+更新日時：2026年10月25日 21:20（JST）
 
 【松本尚デジタル大臣】<br>
 ○10月23日の大臣記者会見（8分1秒）<br>
@@ -230,21 +230,6 @@
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○10月21日　グーグル・クラウド、英国で数時間障害 金融機関や公共部門に影響　Reuters<br>
-　[https://www.reuters.com/jp/markets/japan/IWGF6L5DGRJAPLDLSRELGPEWVQ-2026-10-21/](https://www.reuters.com/jp/markets/japan/IWGF6L5DGRJAPLDLSRELGPEWVQ-2026-10-21/)
-
-○10月21日　グーグル・クラウド、英国で数時間障害 金融機関や公共部門に影響　Reuters<br>
-　[https://jp.mobile.reuters.com/jp/markets/japan/IWGF6L5DGRJAPLDLSRELGPEWVQ-2026-10-21/](https://jp.mobile.reuters.com/jp/markets/japan/IWGF6L5DGRJAPLDLSRELGPEWVQ-2026-10-21/)
-
-○10月21日　デジタルアーツ[2326]：当社への不正アクセスに関するお知らせとお詫び 2026年10月21日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20261021554017/](https://www.nikkei.com/nkd/disclosure/tdnr/20261021554017/)
-
-○10月21日　豪データセンターＮＥＸＴＤＣ、新規開発凍結 時価総額ほぼ半減　Reuters<br>
-　[https://www.reuters.com/jp/world/T7MXCLTFZJMNJB7YXH7X4HLMSI-2026-10-21/](https://www.reuters.com/jp/world/T7MXCLTFZJMNJB7YXH7X4HLMSI-2026-10-21/)
-
-○10月21日　東南アジアの生成AI普及率58%に グーグルなど調査　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGM21A240R21C26A0000000/](https://www.nikkei.com/article/DGXZQOGM21A240R21C26A0000000/)
-
 ○10月21日　米オープンＡＩ、グーグル・クラウドを通じて最先端モデル販売へ | ロイター　Reuters<br>
 　[https://www.reuters.com/jp/economy/SJP3Z4TXPVLHLB75Z2R4HH4LOY-2026-10-21/](https://www.reuters.com/jp/economy/SJP3Z4TXPVLHLB75Z2R4HH4LOY-2026-10-21/)
 
@@ -253,9 +238,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○10月22日　NVIDIAが「運べるAIデータセンター」 最短2週間、インフラ整備速く　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN200790Q6A021C2000000/](https://www.nikkei.com/article/DGXZQOGN200790Q6A021C2000000/)
-
-○10月22日　WSJ日本版：米上院議員、学校でのグーグルAI利用に「重大な懸念」　毎日新聞<br>
-　[https://mainichi.jp/articles/20261022/wsj/00m/020/001000c](https://mainichi.jp/articles/20261022/wsj/00m/020/001000c)
 
 ○10月22日　「ＡＩ・デジタル改革原則」、政府が策定へ…活用と安全対策を強化　読売新聞<br>
 　[https://www.yomiuri.co.jp/politics/20261022-GYT1T00019/](https://www.yomiuri.co.jp/politics/20261022-GYT1T00019/)
@@ -281,11 +263,8 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月22日　サイバーセキュリティクラウド株が20％高、不正アクセス相次ぎ需要拡大期待　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/BVYJMQHSY5JWNN3U7FGYGNJOY4-2026-10-22/](https://www.reuters.com/jp/markets/japan/BVYJMQHSY5JWNN3U7FGYGNJOY4-2026-10-22/)
 
-○10月22日　生成AIによる攻撃を防ぐ「Securiy（セキュリー）」、DX総合EXPO 2026秋に出展。ブース訪問予約でAmazonギフトカード1,500円分を進呈　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000028.000103353&g=prt](https://www.jiji.com/jc/article?k=000000028.000103353&g=prt)
-
-○10月22日　BtoB営業の64%が「自社のDXが進んでいない」と回答！求められる役割の変化は「提案・コンサルティング力の強化」　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000003517.000044800&g=prt](https://www.jiji.com/jc/article?k=000003517.000044800&g=prt)
+○10月22日　新都ホールディングス[2776]：大阪府内の大規模データセンター向け電気設備供給の受注および契約締結に関するお知らせ 2026年10月22日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20261021554173/](https://www.nikkei.com/nkd/disclosure/tdnr/20261021554173/)
 
 ○10月22日　午前の日経平均は反落、6万4000円割れ ＡＩ・半導体株に売り　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/RJWAALZVHVN2JMYQC7PSZRRARM-2026-10-22/](https://www.reuters.com/jp/markets/japan/RJWAALZVHVN2JMYQC7PSZRRARM-2026-10-22/)
@@ -326,8 +305,8 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月23日　NVIDIAのCEO、新興クラウド信用不安「構造的問題ではない」と火消し　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGR2266T0S6A021C2000000/](https://www.nikkei.com/article/DGXZQOGR2266T0S6A021C2000000/)
 
-○10月23日　不動産会社の自社DXから生まれた「7plus株式会社」が本格始動　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000001.000193082&g=prt](https://www.jiji.com/jc/article?k=000000001.000193082&g=prt)
+○10月23日　スキルなし事務職が非IT企業でDX改革、転職で得た年600時間の余裕　日本経済新聞<br>
+　[https://woman.nikkei.com/atcl/column/23/072900381/052500008/](https://woman.nikkei.com/atcl/column/23/072900381/052500008/)
 
 ○10月23日　米ＦＣＣ、中国ファーウェイ子会社製半導体搭載2製品販売禁止 新規則初適用 | ロイター　Reuters<br>
 　[https://www.reuters.com/jp/economy/QV3KN47AWFLG7GNUSXSKHUF7SA-2026-10-22/](https://www.reuters.com/jp/economy/QV3KN47AWFLG7GNUSXSKHUF7SA-2026-10-22/)
@@ -371,16 +350,13 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月23日　日経平均は続落で寄り付く、ＡＩ・半導体株が売り先行 6万2000円割れ　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/XNEKHKNRMBNE5N23ZVFS7NTTCU-2026-10-23/](https://www.reuters.com/jp/markets/japan/XNEKHKNRMBNE5N23ZVFS7NTTCU-2026-10-23/)
 
-○10月23日　関東電化工業、株価5カ月半ぶり安値 AI・半導体関連株売りが波及　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFL230PX0T21C26A0000000/](https://www.nikkei.com/article/DGXZQOFL230PX0T21C26A0000000/)
-
 ○10月23日　「巨樹王国」徳島・つるぎ町のRPG デジタルスタンプラリーを開始 [徳島県]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASVBQ3SSWVBQOXIE01CM.html](https://www.asahi.com/articles/ASVBQ3SSWVBQOXIE01CM.html)
 
 ○10月23日　Apple初の折りたたみ型「iPhone Duo」発売 30万円超も購入客「安い」　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC2088F0Q6A021C2000000/](https://www.nikkei.com/article/DGXZQOUC2088F0Q6A021C2000000/)
 
-○10月23日　ＡＩデータセンター建設、ケーブル生産能力が制約＝ネクサンス　Reuters<br>
+○10月23日　ＡＩデータセンター建設、ケーブル生産能力が制約＝ネクサンス | ロイター　Reuters<br>
 　[https://www.reuters.com/jp/economy/4W3PIQEDTZKEDBEWTDN2QMVVMI-2026-10-23/](https://www.reuters.com/jp/economy/4W3PIQEDTZKEDBEWTDN2QMVVMI-2026-10-23/)
 
 ○10月23日　空売り筋、米ネオクラウド・データセンター株下落で60億ドルの評価益　Reuters<br>
@@ -412,9 +388,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○10月23日　中小企業のサイバーセキュリティー強化を、自民対処本部が経産相に要請　Reuters<br>
 　[https://www.reuters.com/jp/world/japan/7B5QC5ESVNIHFMRYON3EXFR5UA-2026-10-23/](https://www.reuters.com/jp/world/japan/7B5QC5ESVNIHFMRYON3EXFR5UA-2026-10-23/)
-
-○10月23日　三菱地所とNTT系、北海道千歳市と半導体R&D拠点整備で連携協定　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFC234F00T21C26A0000000/](https://www.nikkei.com/article/DGXZQOFC234F00T21C26A0000000/)
 
 ○10月23日　香港取引所、ＡＩと半導体の指数導入 中国でＡＩ指数ライセンス　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/2G64OB5X2BKMRI4R2KKIZBXIUI-2026-10-23/](https://www.reuters.com/jp/markets/japan/2G64OB5X2BKMRI4R2KKIZBXIUI-2026-10-23/)
@@ -451,4 +424,28 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○10月25日　まんが日本昔ばなし、令和に残す デジタル配信やコラボカフェ続々　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC22BBJ0S6A021C2000000/](https://www.nikkei.com/article/DGXZQOUC22BBJ0S6A021C2000000/)
+
+○10月25日　デジタル技術、遊んで学んで 能登の子らへ2カ所「テックハブ」開設 [石川県]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASVBS3SH2VBSPJLB008M.html](https://www.asahi.com/articles/ASVBS3SH2VBSPJLB008M.html)
+
+○10月25日　電源開発 上ノ国町に初のデータセンター 2027年夏稼働へ　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nd-20261025de65060](https://news.web.nhk/newsweb/na/nd-20261025de65060)
+
+○10月25日　デジタル教科書で「紙の良さ失われる」 子どものネットリスク教育研究会代表 大谷良光氏 論点直言　産経ニュース<br>
+　[https://www.sankei.com/article/20261025-5IILGXWHV5LI5N7XCAPG7WESPU/](https://www.sankei.com/article/20261025-5IILGXWHV5LI5N7XCAPG7WESPU/)
+
+○10月25日　デジタル教科書「低学年でも適した子供には使うべき」 チームみらい政調会長 河合道雄氏 論点直言　産経ニュース<br>
+　[https://www.sankei.com/article/20261025-V6C2OXG2RZLKRENJ42X7X64QFM/](https://www.sankei.com/article/20261025-V6C2OXG2RZLKRENJ42X7X64QFM/)
+
+○10月25日　変容する米国：MAGAも「反対」 データセンターに揺れるラストベルトの村　毎日新聞<br>
+　[https://mainichi.jp/articles/20261025/k00/00m/030/118000c](https://mainichi.jp/articles/20261025/k00/00m/030/118000c)
+
+○10月25日　ネオジャパン、AI・ロボット・DXソリューションフェア2026に出展　朝日新聞<br>
+　[https://www.asahi.com/and/pressrelease/16881629](https://www.asahi.com/and/pressrelease/16881629)
+
+○10月25日　内モンゴルの草原都市に中国IT大手のデータセンター続々 米国追撃狙うAI戦略の最前線　産経ニュース<br>
+　[https://www.sankei.com/article/20261025-CFGWKCASXZKFNFKBJ77CMVRI3Q/](https://www.sankei.com/article/20261025-CFGWKCASXZKFNFKBJ77CMVRI3Q/)
+
+○10月25日　米国のデータセンター急増、AI需要で巨大化 受電容量「ギガ時代」に 中間選挙争点にも　産経ニュース<br>
+　[https://www.sankei.com/article/20261025-DJ222KGQSNKK7FMX22AIKPPC7U/](https://www.sankei.com/article/20261025-DJ222KGQSNKK7FMX22AIKPPC7U/)
 

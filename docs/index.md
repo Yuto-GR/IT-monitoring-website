@@ -1,31 +1,10 @@
-更新日時：2026年10月31日 22:18（JST）
+更新日時：2026年11月1日 12:16（JST）
 
 【松本尚デジタル大臣】<br>
 ○10月30日の大臣記者会見（17分13秒）<br>
 　[https://www.digital.go.jp/speech/minister-261030-01](https://www.digital.go.jp/speech/minister-261030-01)
 
-○10月27日の大臣記者会見（13分52秒）<br>
-　[https://www.digital.go.jp/speech/minister-261027-01](https://www.digital.go.jp/speech/minister-261027-01)
-
 【自由民主党】<br>
-○10月27日　政調、スポーツ立国調査会
-　"有識者・関係団体ヒアリング （１）不正操作防止対策についてのヒアリング ・山口 寿一	読売新聞グループ本社代表取締役社長 （２）予算編成に向けた決議に関するヒアリング ①運動・スポーツを通じた「健康インフラ」の構築 ・久野 譜也	筑波大学大学院人間総合科学学術院教授 ・齋藤 敦士	サイショウ・エクスプレス株式会社代表取締役 ・中村 卓資	栃木県さくら市長 ②競技力向上 ・日本オリンピック委員会（JOC） ・日本パラスポーツ協会（JPSA） ※書面のみ報告 "
-
-○10月27日　政調、雇用問題調査会
-　労働基準関係法制に関する議論の状況について ・日本経済団体連合会 ・日本商工会議所 ・全国中小企業団体中央会 ・日本労働組合総連合会
-
-○10月27日　政調、国際協力調査会
-　「戦略的な開発協力の実施体制に関する有識者会議提言」について 縣　公一郎　早稲田大学名誉教授
-
-○10月27日　AI・デジタル社会推進本部 次世代AI・オンチェーン金融構想PT
-　（１）提言を受けた政府の取組み等について ・金融庁 （２）金融資産のトークン化 ・JP Morgan（レポ取引） ・BlackRock（MMF等） ・大和証券（セキュリティトークン等）
-
-○10月27日　政調、金融調査会
-　上場企業と投資家との間の建設的な対話の一層の促進について（関係機関からヒアリング） ○証券取引等監視委員会 ○東京証券取引所
-
-○10月27日　海運・造船対策特別委員会、経済安全保障推進本部合同会議
-　造船関連の令和9年度概算要求の主な内容について ※終了後、「経済安全保障推進本部」に切り替え 議題１．今後の進め方について 議題２．企業結合ガイドラインについて
-
 ○10月28日　政調、社会保障制度調査会　医療委員会
 　改正健康保険法等の施行・次期改革にむけた検討についてヒアリング（出産の給付体系の見直し） ・石渡　　勇　日本産婦人科医会長 ・佐藤　好範　日本小児科医会長（オンライン出席） ・生越　　章　新潟大学地域医療推進機構魚沼基幹病院長（オンライン出席）
 
@@ -114,9 +93,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月30日　AIネットワーク社会推進会議　AIガバナンス検討会（第32回）<br>
 　[https://www.soumu.go.jp/main_sosiki/kenkyu/ai_network/02tsushin06_04000147.html](https://www.soumu.go.jp/main_sosiki/kenkyu/ai_network/02tsushin06_04000147.html)
 
-○10月27日　第19回 日ASEANサイバーセキュリティ政策会議の結果<br>
-　[https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00309.html](https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00309.html)
-
 ○10月29日　情報通信審議会　情報通信技術分科会　電波有効利用委員会　無線従事者制度の在り方検討作業班（第3回）<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denpa_yukoriyo/musenjujisha/02kiban09_04000744.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/denpa_yukoriyo/musenjujisha/02kiban09_04000744.html)
 
@@ -147,27 +123,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○11月4日　情報通信審議会 情報通信政策部会 放送政策委員会 第5回 開催案内<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02ryutsu07_04000600.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02ryutsu07_04000600.html)
 
-○10月27日　情報通信審議会 電気通信事業政策部会 接続政策委員会（第86回）配布資料<br>
-　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/setsuzoku_seisaku/02kiban03_04001193.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/setsuzoku_seisaku/02kiban03_04001193.html)
-
-○10月27日　未来社会を見据えた人とデジタルの関係の在り方に関する研究会（第7回）<br>
-　[https://www.soumu.go.jp/main_sosiki/kenkyu/miraishakaiomisueta/07_siryou.html](https://www.soumu.go.jp/main_sosiki/kenkyu/miraishakaiomisueta/07_siryou.html)
-
 ○10月30日　AIガバナンス検討会（第32回）<br>
 　[https://www.soumu.go.jp/main_sosiki/kenkyu/ai_network/02tsushin06_04000143.html](https://www.soumu.go.jp/main_sosiki/kenkyu/ai_network/02tsushin06_04000143.html)
 
 ○10月28日　情報通信行政・郵政行政審議会　電気通信事業部会　市場検証委員会　利用者視点を踏まえたモバイル市場の検証に関する専門委員会（第10回）<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02kiban03_04001192.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02kiban03_04001192.html)
-
-○10月27日　情報通信審議会　電気通信事業政策部会　接続政策委員会（第86回）の開催について<br>
-　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban03_04001191.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban03_04001191.html)
-
-○10月29日　情報通信行政・郵政行政審議会　電気通信事業部会（第174回）<br>
-　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02ryutsu01_04000521.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02ryutsu01_04000521.html)
-ERROR:root:Request failed: 403 Client Error: Forbidden for url: https://www.jftc.go.jp/soshiki/kyotsukoukai/kenkyukai/smlaw/katsudoujoukyou.html
-
-○10月29日　情報通信審議会　情報通信技術分科会　電波有効利用委員会無線従事者制度の在り方検討作業班（第3回）　開催案内<br>
-　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban09_04000743.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban09_04000743.html)
 
 【経済産業省ニュースリリース（投資・IT関連）】<br>
 ○10月30日　Image 3: エネルギー・環境<br>
@@ -187,9 +147,6 @@ ERROR:root:Request failed: 403 Client Error: Forbidden for url: https://www.jftc
 
 
 【審議会・研究会等】<br>
-○10月27日　第20回 産業サイバーセキュリティ研究会 ワーキンググループ1（制度・技術・標準化） 電力サブワーキンググループ<br>
-　[https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_denryoku/020.html](https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_denryoku/020.html)
-
 ○11月2日　2026年度第5回 デジタルプラットフォームの透明性・公正性に関するモニタリング会合<br>
 　[https://www.meti.go.jp/shingikai/mono_info_service/digital_platform_monitoring/2026_005.html](https://www.meti.go.jp/shingikai/mono_info_service/digital_platform_monitoring/2026_005.html)
 
@@ -205,17 +162,21 @@ ERROR:root:Request failed: 403 Client Error: Forbidden for url: https://www.jftc
 ○11月2日　第15回 産業構造審議会 イノベーション・環境分科会 イノベーション小委員会<br>
 　[https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/015.html](https://www.meti.go.jp/shingikai/sankoshin/sangyo_gijutsu/innovation/015.html)
 
+○11月2日　第20回 産業サイバーセキュリティ研究会 ワーキンググループ1（制度・技術・標準化） 電力サブワーキンググループ<br>
+　[https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_denryoku/020.html](https://www.meti.go.jp/shingikai/mono_info_service/sangyo_cyber/wg_seido/wg_denryoku/020.html)
+
 【内閣府】<br>
 ○10月30日　第13回人工知能（AI）技術の利用と消費者問題に関する専門調査会【10月29日開催】<br>
 
 　[https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/013/shiryou/index.html](https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/013/shiryou/index.html)
+ERROR:root:Request failed: 403 Client Error: Forbidden for url: https://www.jftc.go.jp/soshiki/kyotsukoukai/kenkyukai/smlaw/katsudoujoukyou.html
 
 ○10月30日　第14回人工知能（AI）技術の利用と消費者問題に関する専門調査会【11月５日開催】<br>
 
 　[https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/014/kaisai/index.html](https://www.cao.go.jp/consumer/kabusoshiki/ai_technology/014/kaisai/index.html)
 
 【国家サイバー統括室・NCO】<br>
-10月27日〜10月31日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
+10月28日〜11月1日　DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【金融庁】<br>
 ○10月30日　「国際会計基準（IFRS）財団モニタリング・ボードのプレスリリースの公表について：金融庁」<br>
@@ -225,33 +186,6 @@ ERROR:root:Request failed: 403 Client Error: Forbidden for url: https://www.jftc
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○10月28日　生成AIデータの透明性確保策 グーグルなど5社が日本政府に回答 [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASVBW4PTPVBWUCVL04JM.html](https://www.asahi.com/articles/ASVBW4PTPVBWUCVL04JM.html)
-
-○10月28日　ラピダス受け入れ「稼ぐラボ」に 北海道大学、次代の半導体人材育む　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFC210SV0R21C26A0000000/](https://www.nikkei.com/article/DGXZQOFC210SV0R21C26A0000000/)
-
-○10月28日　きょう日独首脳会談 サプライチェーン強じん化など確認へ　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nd-20261028de66709](https://news.web.nhk/newsweb/na/nd-20261028de66709)
-
-○10月28日　新型マックブックプロ、来月６日発売 ＡＩ処理向上―米アップル　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=2026102800151&g=int](https://www.jiji.com/jc/article?k=2026102800151&g=int)
-
-○10月28日　今日の株式見通し＝しっかり、ＡＩ・半導体株が先導 日米欧中銀会合控え伸び悩みも　Reuters<br>
-　[https://www.reuters.com/jp/markets/japan/WCZ365NAKBIZVA4PGFNJY3ESFE-2026-10-27/](https://www.reuters.com/jp/markets/japan/WCZ365NAKBIZVA4PGFNJY3ESFE-2026-10-27/)
-
-○10月28日　宇都宮市のデータセンター整備事業、三菱地所のグループに優先交渉権　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOCC2803S0Y6A021C2000000/](https://www.nikkei.com/article/DGXZQOCC2803S0Y6A021C2000000/)
-
-○10月28日　アップル、M６搭載ＭａｃＢｏｏｋ Ｐｒｏ発表 ＡＩ処理高速化 | ロイター　Reuters<br>
-　[https://www.reuters.com/jp/economy/KEABZ7UVHVJOZHJ7EHP2R7F6IU-2026-10-28/](https://www.reuters.com/jp/economy/KEABZ7UVHVJOZHJ7EHP2R7F6IU-2026-10-28/)
-
-○10月28日　オープンＡＩ、グーグルのＡＩ半導体購入を計画＝報道 | ロイター　Reuters<br>
-　[https://www.reuters.com/jp/economy/B2KRDYSKDNIKBMR23S5BRFKRPA-2026-10-28/](https://www.reuters.com/jp/economy/B2KRDYSKDNIKBMR23S5BRFKRPA-2026-10-28/)
-
-○10月28日　OpenAI、グーグルの半導体購入へ－AI処理能力の増強急ぐ　Bloomberg<br>
-　[https://www.bloomberg.com/jp/news/articles/2026-10-28/TNLFQBKGIFPN00](https://www.bloomberg.com/jp/news/articles/2026-10-28/TNLFQBKGIFPN00)
-
 ○10月28日　古河電工、韓国SK系とAIデータセンター材料分野で覚書　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC2827U0Y6A021C2000000/](https://www.nikkei.com/article/DGXZQOUC2827U0Y6A021C2000000/)
 
@@ -270,17 +204,17 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月28日　日独首脳会談 サプライチェーン強じん化など協力強化で一致　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/nd-20261028de67318](https://news.web.nhk/newsweb/na/nd-20261028de67318)
 
+○10月28日　KPMGコンサルティング、サプライチェーン強靭化の支援に向けてResilireと協業契約を締結　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000415.000088324&g=prt](https://www.jiji.com/jc/article?k=000000415.000088324&g=prt)
+
 ○10月29日　新型「ｉＭａｃ」 米アップルが発…：アップル・勢ぞろいのリンゴたち 写真特集：時事ドットコム　時事ドットコム<br>
 　[https://www.jiji.com/jc/d4?p=app424-jpp093872001&d=d4_qq](https://www.jiji.com/jc/d4?p=app424-jpp093872001&d=d4_qq)
 
-○10月29日　バークレイズ、データセンター関連リスクで保険検討－追加融資に備え　Bloomberg<br>
-　[https://www.bloomberg.com/jp/news/articles/2026-10-28/TNMK8KKK3NYB00](https://www.bloomberg.com/jp/news/articles/2026-10-28/TNMK8KKK3NYB00)
+○10月29日　アップル折り畳みiPhone Duo、画面割れは初代の洗礼－悲観はまだ早い　Bloomberg<br>
+　[https://www.bloomberg.com/jp/news/articles/2026-10-28/TNMC3DR24U8600](https://www.bloomberg.com/jp/news/articles/2026-10-28/TNMC3DR24U8600)
 
 ○10月29日　Apple「MacBook Pro」にタッチ画面モデル 49万9800円から　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN275X70X21C26A0000000/](https://www.nikkei.com/article/DGXZQOGN275X70X21C26A0000000/)
-
-○10月29日　戦略を読み解く（82）西松建設 社員活躍・DXで成果創出　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/795665](https://www.nikkan.co.jp/articles/view/795665)
 
 ○10月29日　AIデータセンターで輝く技術とは NVIDIAの転換から読む - 日経テックフォーサイト　日本経済新聞<br>
 　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC198IG0Z11C26A0000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC198IG0Z11C26A0000000)
@@ -300,11 +234,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月29日　キオクシアを脅かす「中国半導体メモリー企業」の実力　毎日新聞<br>
 　[https://mainichi.jp/premier/business/articles/20261024/biz/00m/020/008000c](https://mainichi.jp/premier/business/articles/20261024/biz/00m/020/008000c)
 
-○10月29日　米MS、純利益32％増 グーグルは株式損失で減益　産経ニュース<br>
-　[https://www.sankei.com/article/20261029-2W5TWSH3M5MGTKZGHOL4FHGNOI/](https://www.sankei.com/article/20261029-2W5TWSH3M5MGTKZGHOL4FHGNOI/)
+○10月29日　アップル、タッチ操作PC 有機ELで画面薄く　産経ニュース<br>
+　[https://www.sankei.com/article/20261029-D45TUI6GKBIQHO53ISOYVBFHWQ/](https://www.sankei.com/article/20261029-D45TUI6GKBIQHO53ISOYVBFHWQ/)
 
 ○10月29日　アップル、初のタッチ画面搭載ノート発表 高価格が普及の課題に　Reuters<br>
 　[https://www.reuters.com/jp/economy/Q4JQ3OLHPZMYDEGCLLSRQOZLXA-2026-10-28/](https://www.reuters.com/jp/economy/Q4JQ3OLHPZMYDEGCLLSRQOZLXA-2026-10-28/)
+
+○10月29日　米ＭＳ、クラウド好調で３２％増益 アルファベットは２５％減益―７～９月期　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=2026102900359&g=int](https://www.jiji.com/jc/article?k=2026102900359&g=int)
 
 ○10月29日　サムスン半導体利益15倍、株価急落 還元策・見通しに失望 | ロイター　Reuters<br>
 　[https://www.reuters.com/jp/economy/7PLTJSXIAROXZKVCFJG5SK2ZBE-2026-10-29/](https://www.reuters.com/jp/economy/7PLTJSXIAROXZKVCFJG5SK2ZBE-2026-10-29/)
@@ -314,9 +251,6 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○10月29日　タッチ操作のマックブックプロ シリーズ初、来月６日発売―米アップル　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026102900405&g=int](https://www.jiji.com/jc/article?k=2026102900405&g=int)
-
-○10月29日　AIデータセンターはなぜ高い？1カ所約4.7兆円、巨額建設費の内訳　Bloomberg<br>
-　[https://www.bloomberg.com/jp/news/features/2026-10-29/TNNC8BT3BZMN00](https://www.bloomberg.com/jp/news/features/2026-10-29/TNNC8BT3BZMN00)
 
 ○10月29日　テンセント、日本でのAI展開「長期的に拡大」 クラウド事業責任者　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM289MC0Y6A021C2000000/](https://www.nikkei.com/article/DGXZQOGM289MC0Y6A021C2000000/)
@@ -354,6 +288,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月29日　クリーク・アンド・リバー社[4763]：eCloudvalley Japan株式会社とのクラウド関連事業合弁会社（子会社）設立に向けた 基本合意書締結に関するお知らせ 2026年10月29日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
 　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g7bmgg&t=https://www.nikkei.com/nkd/disclosure/tdnr/20261028558448/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g7bmgg&t=https://www.nikkei.com/nkd/disclosure/tdnr/20261028558448/)
 
+○10月29日　日本精工、通期見通し上方修正 半導体向け堅調で　Reuters<br>
+　[https://www.reuters.com/jp/markets/japan/C2EANQNV4JPPVOD6JP5X5RTBBU-2026-10-29/](https://www.reuters.com/jp/markets/japan/C2EANQNV4JPPVOD6JP5X5RTBBU-2026-10-29/)
+
 ○10月29日　KDDI、英国でデータセンター新設 用地取得に470億円投資　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC297BB0Z21C26A0000000/](https://www.nikkei.com/article/DGXZQOUC297BB0Z21C26A0000000/)
 
@@ -363,8 +300,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月29日　富士通の中間決算、DX堅調で増収 純利益は前年反動で69%減 [AIの時代]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASVBY2VWWVBYULFA005M.html](https://www.asahi.com/articles/ASVBY2VWWVBYULFA005M.html)
 
-○10月30日　AIクラウド支える海や地上の通信網 依存関係と影響範囲　日本経済新聞<br>
-　[https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC265XN0W6A021C2000000](https://www.nikkei.com/prime/tech-foresight/article/DGXZQOUC265XN0W6A021C2000000)
+○10月29日　台湾企業の対日進出、みずほ銀が支援強化 半導体集積を商機に　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM294DE0Z21C26A0000000/](https://www.nikkei.com/article/DGXZQOGM294DE0Z21C26A0000000/)
+
+○10月29日　ロックウェル･オートメーション、機械装置メーカ(OEM)の新たなサイバーセキュリティ規制への対応を支援するSecureOT機能を発表　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=eBeRPJhE&g=prn](https://www.jiji.com/jc/article?k=eBeRPJhE&g=prn)
 
 ○10月30日　日立システムズ社長「コンテナ型データセンター、27年度に販売拡大」　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC285EG0Y6A820C2000000/](https://www.nikkei.com/article/DGXZQOUC285EG0Y6A820C2000000/)
@@ -375,17 +315,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月30日　米アマゾン、クラウド好調もＡＩ投資で現金流出加速 株価7％安 | ロイター　Reuters<br>
 　[https://www.reuters.com/jp/economy/PCUUFIYWTFMTBMD43PDEWSHAAQ-2026-10-29/](https://www.reuters.com/jp/economy/PCUUFIYWTFMTBMD43PDEWSHAAQ-2026-10-29/)
 
-○10月30日　「産業DX総合展 建設・建築DX EXPO」に出展 ～新規提案先の発掘や重点エリア分析を支援する建物データ活用ソリューションを展示～　朝日新聞<br>
-　[https://www.asahi.com/and/pressrelease/16895455](https://www.asahi.com/and/pressrelease/16895455)
-
 ○10月30日　決算:インテル株、時間外で23%急落 PC向け半導体低迷で見通し下回る　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN3000Y0Q6A031C2000000/](https://www.nikkei.com/article/DGXZQOGN3000Y0Q6A031C2000000/)
 
+○10月30日　決算:Amazon10〜12月、最大16%増収 クラウド好調も予測に届かず　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN29CMQ0Z21C26A0000000/](https://www.nikkei.com/article/DGXZQOGN29CMQ0Z21C26A0000000/)
+
 ○10月30日　グーグル株急落、ハイテク決算、ラガルドECB総裁早期退任へ－今朝の5本　Bloomberg<br>
 　[https://www.bloomberg.com/jp/news/newsletters/2026-10-29/TNOU50KGIFPY00](https://www.bloomberg.com/jp/news/newsletters/2026-10-29/TNOU50KGIFPY00)
-
-○10月30日　半導体のマーベル13.2%安 米国個別株騰落（29日）　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOFL29C3R0Z21C26A0000000](https://www.nikkei.com/prime/veritas/article/DGXZQOFL29C3R0Z21C26A0000000)
 
 ○10月30日　米サンディスク、データセンター需要で大幅増収 端末向けに弱さ　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFL29CYB0Z21C26A0000000/](https://www.nikkei.com/article/DGXZQOFL29CYB0Z21C26A0000000/)
@@ -399,32 +336,29 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月30日　米中間選、超党派でうねる反データセンター 28年大統領選の前哨戦に　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN2305J0T21C26A0000000/](https://www.nikkei.com/article/DGXZQOGN2305J0T21C26A0000000/)
 
+○10月30日　宇都宮に計画中のデータセンター 三菱地所の企業グループが事業者に [栃木県]　朝日新聞<br>
+　[https://www.asahi.com/sp/articles/photo/AS20261029005137.html](https://www.asahi.com/sp/articles/photo/AS20261029005137.html)
+
 ○10月30日　世界のクラウド市場、2年で倍増 AI普及で7〜9月26兆円超　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN300T50Q6A031C2000000/](https://www.nikkei.com/article/DGXZQOGN300T50Q6A031C2000000/)
 
 ○10月30日　日経平均終値1369円安 インテル急落、半導体関連が総崩れ　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFL300LBTQ6A031C2000000/](https://www.nikkei.com/article/DGXZQOFL300LBTQ6A031C2000000/)
 
-○10月30日　米投資会社アレス、AI半導体向け融資を回避－価値低下のリスク懸念　Bloomberg<br>
-　[https://www.bloomberg.com/jp/news/articles/2026-10-30/TNOZECT96OSI00](https://www.bloomberg.com/jp/news/articles/2026-10-30/TNOZECT96OSI00)
-
 ○10月30日　米アマゾン クラウドサービス「AWS」堅調で増収　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/nd-20261030de68259](https://news.web.nhk/newsweb/na/nd-20261030de68259)
-
-○10月30日　グーグル親会社の勢い支えるクラウド、アルファベットの変化示唆　Bloomberg<br>
-　[https://www.bloomberg.com/jp/news/articles/2026-10-30/TNO56QT96OSG00](https://www.bloomberg.com/jp/news/articles/2026-10-30/TNO56QT96OSG00)
 
 ○10月30日　クラウド大手とアンソロピックが「5重依存」 90兆円の契約に危うさも　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN300TF0Q6A031C2000000/](https://www.nikkei.com/article/DGXZQOGN300TF0Q6A031C2000000/)
 
-○10月30日　住友電工、通期純利益を上方修正 データセンター向け好調　Reuters<br>
+○10月30日　住友電工、通期純利益を上方修正 データセンター向け好調 | ロイター　Reuters<br>
 　[https://www.reuters.com/jp/economy/GWKHQB76OJKWXFDP2LBIY2PIV4-2026-10-30/](https://www.reuters.com/jp/economy/GWKHQB76OJKWXFDP2LBIY2PIV4-2026-10-30/)
 
 ○10月30日　ＴＤＫが業績・配当予想を上げ、データセンター向け伸長　Reuters<br>
 　[https://www.reuters.com/jp/economy/P2MEV6EE7FP6BOHSISBRPYDQKY-2026-10-30/](https://www.reuters.com/jp/economy/P2MEV6EE7FP6BOHSISBRPYDQKY-2026-10-30/)
 
-○10月30日　ＮＧＫ、通期純利益予想を上方修正 ＡＩ用半導体関連製品が好調　Reuters<br>
-　[https://www.reuters.com/jp/economy/N7O6R5XV6FOZBFZSVR33OAXFNE-2026-10-30/](https://www.reuters.com/jp/economy/N7O6R5XV6FOZBFZSVR33OAXFNE-2026-10-30/)
+○10月30日　日経半導体株指数 時系列・推移　日本経済新聞<br>
+　[https://www.nikkei.com/marketdata/quote/NKSCD/history/](https://www.nikkei.com/marketdata/quote/NKSCD/history/)
 
 ○10月30日　日経平均は4日ぶり反落、ＡＩ・半導体株が大幅安 日銀会合は反応薄　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/EEWONGRYUBM2BOTUR7YWMDOTCE-2026-10-30/](https://www.reuters.com/jp/markets/japan/EEWONGRYUBM2BOTUR7YWMDOTCE-2026-10-30/)
@@ -434,6 +368,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○10月30日　長崎県、半導体関連に官民で700億円投資 地域産業クラスター計画　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOJC3088A0Q6A031C2000000/](https://www.nikkei.com/article/DGXZQOJC3088A0Q6A031C2000000/)
+
+○10月30日　台湾GDP、7~9月14.36%増 AI向け半導体好調で上振れ　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM3015X0Q6A031C2000000/](https://www.nikkei.com/article/DGXZQOGM3015X0Q6A031C2000000/)
 
 ○10月30日　四国電力、愛媛県南部でデータセンター立地検討 AIの普及拡大で　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCC305IN0Q6A031C2000000/](https://www.nikkei.com/article/DGXZQOCC305IN0Q6A031C2000000/)
@@ -453,48 +390,60 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○10月31日　「iPhone Duo」の故障報告相次ぐ 画面不具合、Appleは端末交換対応　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC2784A0X21C26A0000000/](https://www.nikkei.com/article/DGXZQOUC2784A0X21C26A0000000/)
 
-○10月31日　NYダウ続落572ドル安、AIインフラ銘柄に売り インテルは3割安　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFL3100S0R31C26A0000000/](https://www.nikkei.com/article/DGXZQOFL3100S0R31C26A0000000/)
-
-○10月31日　暴走AIを止める「キルスイッチ」、米国で急浮上 3つの選択肢とは [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASVBV6HM9VBVUHBI010M.html](https://www.asahi.com/articles/ASVBV6HM9VBVUHBI010M.html)
-
 ○10月31日　小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止 [福島県]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html](https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html)
-
-○10月31日　China power crunch hits Apple, Tesla suppliers　Reuters<br>
-　[https://jp.reuters.com/video/watch/idOVEWI2IKR/](https://jp.reuters.com/video/watch/idOVEWI2IKR/)
-
-○10月31日　Google to offer checking accounts　Reuters<br>
-　[https://jp.reuters.com/video/watch/idOVB5DL2FF/](https://jp.reuters.com/video/watch/idOVB5DL2FF/)
-
-○10月31日　France fines Google $593 mln in copyright spat　Reuters<br>
-　[https://jp.reuters.com/video/watch/idOVELOICNF/](https://jp.reuters.com/video/watch/idOVELOICNF/)
 
 ○10月31日　Appleが3カ月ぶりに時価総額首位 AI投資から一線、NVIDIAを逆転　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN3102D0R31C26A0000000/](https://www.nikkei.com/article/DGXZQOGN3102D0R31C26A0000000/)
 
-○10月31日　戦いの場は海底、日本が極めて重要な役割担う－次の主戦場はデータセンター　Bloomberg<br>
-　[https://www.bloomberg.com/jp/news/articles/2026-10-31/TNHQ2XKIP3IF00](https://www.bloomberg.com/jp/news/articles/2026-10-31/TNHQ2XKIP3IF00)
-
-○10月31日　ＴＯＴＯが半導体向け部材などのセラミック事業に総額９３０億円投資へ…豊前市の工場に次世代品の量産施設　読売新聞<br>
-　[https://www.yomiuri.co.jp/local/kyushu/news/20261031-GYS1T00008/](https://www.yomiuri.co.jp/local/kyushu/news/20261031-GYS1T00008/)
-
-○10月31日　アップルが時価総額で世界首位奪還、エヌビディア抜く-7月以来の逆転　Bloomberg<br>
-　[https://www.bloomberg.com/jp/news/articles/2026-10-31/TNQO4FT96OSG00](https://www.bloomberg.com/jp/news/articles/2026-10-31/TNQO4FT96OSG00)
-
-○10月31日　「AI開発を続ければ人類は絶滅」 米機関の20歳研究員・林央氏インタビュー（前編）　産経ニュース<br>
-　[https://www.sankei.com/article/20261031-4L4J3RDVYBFJZIDNLFFZ43GFBQ/](https://www.sankei.com/article/20261031-4L4J3RDVYBFJZIDNLFFZ43GFBQ/)
-
-○10月31日　AI新世紀：暗躍する「指揮者」と3種類の攻撃 不正アクセスの裏にお手軽AI　毎日新聞<br>
-　[https://mainichi.jp/articles/20261030/k00/00m/040/383000c](https://mainichi.jp/articles/20261030/k00/00m/040/383000c)
-
-○10月31日　米中間選挙、生成AI広告に巨額投入 敵対陣営のディープフェイク作成…対話型AI活用も　産経ニュース<br>
-　[https://www.sankei.com/article/20261031-U7UI7GOYLVO4DJFVXXHMVPOC34/](https://www.sankei.com/article/20261031-U7UI7GOYLVO4DJFVXXHMVPOC34/)
-
-○10月31日　アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？　NHKニュース<br>
-　[https://news.web.nhk/newsweb/na/nd-20261027de66600](https://news.web.nhk/newsweb/na/nd-20261027de66600)
-
 ○10月31日　TSMC等半導体関連の経済効果 南九州3県で13.8兆円 試算　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/nd-20261031de68919](https://news.web.nhk/newsweb/na/nd-20261031de68919)
+
+○11月1日　「産業DX総合展 建設・建築DX EXPO」に出展 ～新規提案先の発掘や重点エリア分析を支援する建物データ活用ソリューションを展示～　朝日新聞<br>
+　[https://www.asahi.com/and/pressrelease/16895455](https://www.asahi.com/and/pressrelease/16895455)
+
+○11月1日　[FT]中国の山里、データセンターの恩恵乏しく　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCB280KF0Y6A021C2000000/](https://www.nikkei.com/article/DGXZQOCB280KF0Y6A021C2000000/)
+
+○11月1日　AIマネー争奪戦、日本に波及 円建て債発行2.5兆円で過去最大に　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUB062QC0W6A001C2000000/](https://www.nikkei.com/article/DGXZQOUB062QC0W6A001C2000000/)
+
+○11月1日　ＳＯＭＰＯひまわり生命がMCマーケットクラウド/MCエキスパートクラウドの両製品を同時導入　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000296.000052686&g=prt](https://www.jiji.com/jc/article?k=000000296.000052686&g=prt)
+
+○11月1日　「お隣さんはデータセンター」が次々現実になってしまう…無秩序な建設を許す現行法を改めなくていいのか　東京新聞<br>
+　[https://www.tokyo-np.co.jp/article/525330](https://www.tokyo-np.co.jp/article/525330)
+
+○11月1日　2ナノ回路は存在しない？ 半導体性能を示す「業界用語」が独り歩き　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC30BCV0Q6A930C2000000/](https://www.nikkei.com/article/DGXZQOUC30BCV0Q6A930C2000000/)
+
+○11月1日　いらすとや、ファンが生息域踏査 AIに押されサイト訪問者は減少　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/](https://www.nikkei.com/article/DGXZQOUC284ZY0Y6A021C2000000/)
+
+○11月1日　大学生、7割が就職にAI活用 「後ろめたさある」は4人に1人　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC295OV0Z21C26A0000000/](https://www.nikkei.com/article/DGXZQOUC295OV0Z21C26A0000000/)
+
+○11月1日　＜産経抄＞AI時代に「新語」は生まれるのか　産経ニュース<br>
+　[https://www.sankei.com/article/20261101-MLAFNE22CBK3HH3LTWS763FPDM/](https://www.sankei.com/article/20261101-MLAFNE22CBK3HH3LTWS763FPDM/)
+
+○11月1日　G20外相会合閉幕 茂木外相“サプライチェーンでもG20協調を”　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nd-20261101de69059](https://news.web.nhk/newsweb/na/nd-20261101de69059)
+
+○11月1日　日米豪印外相会合、インド太平洋のAI技術支援で8500万ドル　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUA312NV0R31C26A0000000/](https://www.nikkei.com/article/DGXZQOUA312NV0R31C26A0000000/)
+
+○11月1日　世界からAIハッカー急襲 日本は「狩り場」「宝の山」『現代』が緊急大特集 花田紀凱 花田紀凱の週刊誌ウォッチング（1102）　産経ニュース<br>
+　[https://www.sankei.com/article/20261101-35XNC4BQHVL6HDAANJN5ULAZ7M/?outputType=asynd](https://www.sankei.com/article/20261101-35XNC4BQHVL6HDAANJN5ULAZ7M/?outputType=asynd)
+
+○11月1日　復刊の真意は紙からデジタルに「とぶ！」 「あいまい検索」を生かしつつ大量の最新情報へ　産経ニュース<br>
+　[https://www.sankei.com/article/20261101-MK32NDER75JDVOB7XF4QVI7RV4/?outputType=asynd-theme_portrait](https://www.sankei.com/article/20261101-MK32NDER75JDVOB7XF4QVI7RV4/?outputType=asynd-theme_portrait)
+
+○11月1日　AIを使う理由、使わない理由 機械に振り回されないために　朝日新聞<br>
+　[https://www.asahi.com/articles/ASVBZ2PWYVBZUCVL02LM.html](https://www.asahi.com/articles/ASVBZ2PWYVBZUCVL02LM.html)
+
+○11月1日　広がるAI使った科学研究 費用助成に応募殺到、高まるスパコン需要 [愛知県] [AIの時代]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASVBY326RVBYUTFL009M.html](https://www.asahi.com/articles/ASVBY326RVBYUTFL009M.html)
+
+○11月1日　AIと生産性のジレンマ 住友生命の解、労働時間圧縮で働き手に規律　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCD241630U6A021C2000000/](https://www.nikkei.com/article/DGXZQOCD241630U6A021C2000000/)
 

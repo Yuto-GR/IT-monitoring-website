@@ -1,4 +1,4 @@
-更新日時：2026年11月20日 13:53（JST）
+更新日時：2026年11月21日 01:03（JST）
 
 【松本尚デジタル大臣】<br>
 ○11月20日の大臣記者会見（17分37秒）<br>
@@ -8,21 +8,6 @@
 　[https://www.digital.go.jp/speech/minister-261117-01](https://www.digital.go.jp/speech/minister-261117-01)
 
 【自由民主党】<br>
-○11月16日　政調、北海道総合開発特別委員会・「ゼロカーボン北海道」推進本部  「北海道における日本海溝・千島海溝周辺海溝型地震対策の
-　（１）北海道開発における主要課題等 ・令和９年度予算要求（北海道開発関係）等について ・ゼロカーボン北海道の最近の動きについて ・日本海溝・千島海溝周辺海溝型地震対策について ・来年度予算の要望について （２）北海道の持続可能な開発の実現と北海道開発予算の拡充等に関する申入れ（案）」 （３）「「ゼロカーボン北海道」の実現に向けた効果的な取組の推進に関する申入れ（案）」 （４）「北海道における日本海溝・千島海溝周辺海溝型地震対策の 推進に関する申入れ（案）」
-
-○11月16日　政調、社会保障制度調査会・ＡＩ・デジタル社会推進本部 健康・医療情報システム推進合同ＰＴ
-　１．クラウド基盤による医療機関のＡＸについて ・株式会社ヘンリー ・富士通Japan株式会社 ２．ＡＸによる医療現場の業務効率化について ・医療法人正幸会　正幸会病院 ３．医療機関のサイバーセキュリティについて ・合同会社デロイトトーマツ
-
-○11月16日　政調、国土交通部会
-　令和９年度国土交通部会関係税制改正要望について
-
-○11月16日　政調、社会保障制度調査会　医療委員会
-　１．次期改革にむけた検討について ２．ＭＣＭ戦略を踏まえた必要な支援・法制度等の在り方に係る検討状況について
-
-○11月16日　政調、文部科学部会、科学技術・イノベーション戦略調査会 合同会議
-　ノーベル化学賞受賞について 講師　硤合　憲三　東京理科大学栄誉教授
-
 ○11月17日　政調、文部科学部会
 　１、学校DX推進PT緊急決議について【報告】 ２、令和9年度文部科学部会関係税制改正重点要望について ３、日本成長戦略における人材育成等に係る施策の検討状況について
 
@@ -141,13 +126,13 @@
 　改正情報流通プラットフォーム対処法に基づく総務大臣指針案について
 
 ○11月24日　政調、中小企業・小規模事業者政策調査会
-　成長投資を促進する信用保証制度の創設について ・有識者ヒアリング 横山　慶一　しののめ信用金庫理事長 髙間　　覚　しののめ信用金庫常務理事 御園　栄一　東京信用保証協会常務理事
+　① 成長投資を促進する信用保証制度の創設について ・有識者ヒアリング 横山　慶一　しののめ信用金庫理事長 髙間　　覚　しののめ信用金庫常務理事 御園　栄一　東京信用保証協会常務理事 ② 日本成長戦略実行計画について
 
 ○11月24日　政調、金融調査会 企業会計に関する小委員会
 　監査品質の向上（合併・連携、キャパシティビルディング、AIの活用）についてヒアリング ○日本公認会計士協会 ○監査法人アヴァンティア
 
 ○11月24日　政調、宇宙開発特別委員会
-　（１）有識者ヒアリング（宇宙産業） 株式会社日本政策投資銀行 執行役員イノベーション投資部長　竹森　祐樹 株式会社ispace 代表取締役 CEO & Founder　袴田　武史 （２）提言案について
+　（１）有識者ヒアリング（宇宙産業） 株式会社日本政策投資銀行 執行役員イノベーション投資部長　竹森　祐樹 株式会社ispace 代表取締役 CEO & Founder　袴田　武史 （２）提言案について 【場所変更】 901号室から702号室に変更になりました。
 
 ○11月24日　政調、雇用問題調査会
 　１．労働基準関係法制に関する議論の状況について ２．障害者雇用促進制度の見直しについて
@@ -162,22 +147,37 @@
 　○スタートアップヒアリング 株式会社EX-Fusion 株式会社Helical Fusion 株式会社LINEAイノベーション Starlight Engine株式会社
 
 ○11月24日　政調、外交部会・外交調査会合同会議
-　高市総理大臣のASEAN関連首脳会議及びAPEC首脳会議への出席（二国間会談等を含む）について
+　１、高市総理大臣のASEAN関連首脳会議及びAPEC首脳会議への出席（二国間会談等を含む）について ２、米中露首脳会談について
 
 ○11月24日　政調、再犯防止推進特別委員会
 　１ 全国保護司連盟 谷垣禎一理事長からの要望 ２ 全国更生保護法人連盟 今福章二理事長からの要望 ３ 令和９年度再犯防止推進関連予算・増員要求等について ４ 地元の保護司との意見交換・更生保護施設の視察状況等について ※会議終了後、出席議員全員で谷垣理事長らとの記念撮影を行いますので、是非ご参加ください。
 
+○11月25日　政調、政調全体会議
+　令和９年度予算編成の基本方針（案） ※国会議員の出席が多数見込まれるため、秘書の方の入室はご遠慮くださいますようお願い申し上げます。
+
 ○11月25日　政調、日本Well-being計画推進特命委員会
 　(１)「満足度・生活の質に関する調査報告書2026」について (２) 有識者ヒアリング ・武蔵野大学ウェルビーイング学部長 前野　隆司氏 ・ＮＴＴ株式会社 コミュニケーション科学基礎研究所 人間情報研究部　上席特別研究員 渡邊　淳司氏 ・楽天グループ株式会社 常務執行役員/Co-Founder/Chief Culture Officer 小林　正忠　氏
+
+○11月25日　政調、知的財産戦略調査会
+　（１）知的財産戦略にかかる令和9年度予算概算要求及び機構・定員要求について （２）知財・無形資産への投資促進による価値創造について （知財・無形資産投資・活用のガイダンス、戦略１７分野におけるIPランドスケープの活用、 有価証券報告書等における知財・無形資産の開示の在り方等）
+
+○11月25日　政調、「こども･若者」輝く未来創造本部、情報通信戦略調査会、AI･デジタル社会推進本部、内閣第一部会 合同会議
+　年齢と発達段階に応じたこどもの保護の在り方に関する検討状況について
+
+○11月25日　AI・デジタル社会推進本部　AIと共創する人間・社会のあり方PT
+　AI時代における人間の知性、感性等について ・國學院大學　吉見俊哉 教授 ※終了後、「AI・デジタル社会推進本部」に切り替え 議題：令和9年度予算編成大綱（案）について
 
 ○11月25日　政調、外交調査会勉強会
 　「米国中間選挙と今後の米国情勢」 冨田 浩司 前駐米大使
 
 ○11月25日　政調、資源・エネルギー戦略調査会
-　「日本国内におけるデータセンター開発」についての事業者ヒアリング Air Trunk Japan合同会社 さくらインターネット株式会社 NTTグローバルデータセンター・ジャパン株式会社
+　「日本国内におけるデータセンター開発」についての事業者ヒアリング さくらインターネット株式会社（オンライン） Air Trunk Japan Operating合同会社 NTTグローバルデータセンター・ジャパン株式会社
 
 ○11月25日　政調、社会保障制度調査会・創薬力の強化育成等に関するＰＴ　合同会議
 　決議案について
+
+○11月25日　政調、内閣第一部会・内閣第二部会 合同会議
+　令和９年度予算編成大綱案について
 
 ○11月26日　政調、障害児者政策調査会
 　１．令和８年度「障害福祉経営実態調査」及び「障害福祉従事者処遇状況等調査」の結果について ２．決議案について
@@ -191,11 +191,17 @@
 ○11月26日　政調、行政改革推進本部
 　「政府の歳出に係る改革について（提言）（案）」について
 
+○11月26日　政調、日本版マイスター制度に関するPT
+　本年６月に提言を行った課題に関する ①取り組み状況について ②令和9年度予算概算要求について
+
 ○11月26日　政調、社会保障制度調査会　医療委員会
 　改正健康保険法等の施行・次期改革にむけた検討について
 
 ○11月26日　政調、鳥獣被害対策特別委員会
 　（１）関係団体等からのヒアリング ・大日本猟友会 ・全国知事会 ・全国市長会 ・全国町村会 （２）鳥獣被害対策特別委員会等における御指摘事項について
+
+○11月26日　政調、内閣第二部会・財務金融部会 合同会議
+　月例経済報告（令和８年１１月）について
 
 ○11月26日　政調、教育立国調査会「令和の教育人材確保に関する小委員会」、「教育立国調査会」
 　（教育立国調査会「令和の教育人材確保に関する小委員会） 「現下の教師不足を解消するための緊急措置に関する決議（案）」について （上記会議終了後、「教育立国調査会」） １、令和の教育人材確保に関する小委員会 「現下の教師不足を解消するための緊急措置に関する決議」について ２、「緊急提言（案）～令和9年度予算編成等に向けて～」について
@@ -203,11 +209,38 @@
 ○11月26日　政調、法務部会・再犯防止推進特別委員会合同会議
 　１．令和８年版犯罪白書（案）について ２．令和８年版再犯防止推進白書（案）について
 
+○11月27日　政調、インテリジェンス戦略本部
+　外国による不当な干渉を防止するための法制度について
+
+○11月27日　政調、国土交通部会
+　１、令和９年度予算編成大綱案について ２、令和８年の地方からの提案等に対する対応について
+
+○11月27日　政調、文部科学部会
+　１、令和9年度予算編成大綱案について ２、通信教育の適正な実施及び運営のための基本的な指針等について ３、その他
+
 【デジタル庁】<br>
+⚪︎11月20日　ガバメントソリューションサービスで提供しているファイル共有サービス上のファイルの漏えいの可能性について<br>
+[https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986](https://www.digital.go.jp/press/a966ee61-478c-4194-8f13-f97599fae986)
+
 ⚪︎11月17日　マイクロソフト社の障害によりメール不着等となる事象について解消しましたのでお知らせします<br>
 [https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff](https://www.digital.go.jp/press/61be1195-0d24-4020-addd-1d5c0e4013ff)
 
 【総務省】<br>
+○11月20日　「サイバーセキュリティに関する総務大臣奨励賞」の募集開始<br>
+　[https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00312.html](https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00312.html)
+
+○11月21日　無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令案等に係る意見募集<br>
+　[https://www.soumu.go.jp/menu_news/s-news/01kiban15_02000339.html](https://www.soumu.go.jp/menu_news/s-news/01kiban15_02000339.html)
+
+○11月20日　通信事業者によるサイバー攻撃防御としてのアクセス抑止策の在り方に関する検討ワーキング（第1回）<br>
+　[https://www.soumu.go.jp/main_sosiki/kenkyu/data_protection/02kiban18_02000521.html](https://www.soumu.go.jp/main_sosiki/kenkyu/data_protection/02kiban18_02000521.html)
+
+○11月27日　情報通信審議会　電気通信事業政策部会　接続政策委員会　接続料の算定等に関するワーキンググループ（第10回）の開催について<br>
+　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban03_04001198.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban03_04001198.html)
+
+○11月27日　情報通信審議会　情報通信技術分科会 衛星通信システム委員会作業班（第36回）<br>
+　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban15_04000618.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban15_04000618.html)
+
 ○11月19日　フロンティアAI時代の通信事業におけるデータの保護・セキュリティの在り方に関する検討会（第2回）<br>
 　[https://www.soumu.go.jp/main_sosiki/kenkyu/data_protection/02kiban18_02000520.html](https://www.soumu.go.jp/main_sosiki/kenkyu/data_protection/02kiban18_02000520.html)
 
@@ -232,12 +265,6 @@
 ○11月24日　情報通信審議会 情報通信政策部会 放送政策委員会 第6回 開催案内<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02ryutsu07_04000603.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02ryutsu07_04000603.html)
 
-○11月20日　通信事業者によるサイバー攻撃防御としてのアクセス抑止策の在り方に関する検討ワーキング（第1回）<br>
-　[https://www.soumu.go.jp/main_sosiki/kenkyu/data_protection/02kiban18_02000517.html](https://www.soumu.go.jp/main_sosiki/kenkyu/data_protection/02kiban18_02000517.html)
-
-○11月16日　情報通信審議会 電気通信事業政策部会 接続政策委員会(第87回) 配布資料<br>
-　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/setsuzoku_seisaku/02kiban03_04001197.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/setsuzoku_seisaku/02kiban03_04001197.html)
-
 ○11月26日　情報通信行政・郵政行政審議会　郵政行政分科会（第107回）<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02ryutsu01_04000525.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/yusei/02ryutsu01_04000525.html)
 
@@ -246,12 +273,14 @@
 
 ○11月17日　情報通信審議会　情報通信技術分科会　電波有効利用委員会携帯電話等周波数の有効利用に関する検討作業班（第6回）<br>
 　[https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban14_04001379.html](https://www.soumu.go.jp/main_sosiki/joho_tsusin/policyreports/joho_tsusin/kaisai/02kiban14_04001379.html)
+ERROR:root:Request failed: 403 Client Error: Forbidden for url: https://www.jftc.go.jp/soshiki/kyotsukoukai/kenkyukai/smlaw/katsudoujoukyou.html
+[WARN] 個人情報保護: not well-formed (invalid token): line 1, column 252
 
 【経済産業省ニュースリリース（投資・IT関連）】<br>
 ○11月20日　カナダとの蓄電池サプライチェーンに関する協力覚書に基づく第三回局長級対話を実施しました<br>
 　[https://www.meti.go.jp/press/2026/11/20261120004.html](https://www.meti.go.jp/press/2026/11/20261120004.html)
 
-○11月17日　Image 14: エネルギー・環境<br>
+○11月17日　Image 18: エネルギー・環境<br>
 　[https://www.meti.go.jp/files/000000078.jpg](https://www.meti.go.jp/files/000000078.jpg)
 
 
@@ -267,7 +296,6 @@
 
 ○11月20日　第32回 産業構造審議会 知的財産分科会 不正競争防止小委員会<br>
 　[https://www.meti.go.jp/shingikai/sankoshin/chiteki_zaisan/fusei_kyoso/032.html](https://www.meti.go.jp/shingikai/sankoshin/chiteki_zaisan/fusei_kyoso/032.html)
-ERROR:root:Request failed: 403 Client Error: Forbidden for url: https://www.jftc.go.jp/soshiki/kyotsukoukai/kenkyukai/smlaw/katsudoujoukyou.html
 
 ○11月20日　第6回 繊維産地におけるサプライチェーン強靱化に向けた対応検討会<br>
 　[https://www.meti.go.jp/shingikai/mono_info_service/textile_production_area/006.html](https://www.meti.go.jp/shingikai/mono_info_service/textile_production_area/006.html)
@@ -290,15 +318,6 @@ ERROR:root:Request failed: 403 Client Error: Forbidden for url: https://www.jftc
 DXやデジタル化に関連する新着情報および審議会等の開催はいずれもなし
 
 【ニュース】<br>
-○11月16日　スーパーコンピューター「富岳」に不正アクセス、機密情報漏えいの恐れ…理研が調査　読売新聞<br>
-　[https://www.yomiuri.co.jp/science/20261116-GYT1T00286/](https://www.yomiuri.co.jp/science/20261116-GYT1T00286/)
-
-○11月16日　IQM、量子コンピューターを「Slurm」でスケジューリング可能にするNVIDIAの取り組みを支援　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=20261116336086&g=bw](https://www.jiji.com/jc/article?k=20261116336086&g=bw)
-
-○11月17日　米ブラックストーン系、Amazonのデータセンター取得 8000億円規模　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN16ASU0W6A111C2000000/](https://www.nikkei.com/article/DGXZQOGN16ASU0W6A111C2000000/)
-
 ○11月17日　清水建設、物流DXでムダを排除 「トーチタワー」の現場で効果確認　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC044GB0U6A101C2000000/](https://www.nikkei.com/article/DGXZQOUC044GB0U6A101C2000000/)
 
@@ -311,8 +330,8 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○11月17日　ＡＩが人間介さず自動でサイバー攻撃実施、グーグルが初確認…現時点では痕跡残りやすく発見容易　読売新聞<br>
 　[https://www.yomiuri.co.jp/economy/20261117-GYT1T00127/](https://www.yomiuri.co.jp/economy/20261117-GYT1T00127/)
 
-○11月17日　ＡＩが人間の手を借りずサイバー攻撃、弱点突くプログラムを自動作成…米グーグルが事例初確認　読売新聞<br>
-　[https://www.yomiuri.co.jp/economy/20261117-GYT1T00351/](https://www.yomiuri.co.jp/economy/20261117-GYT1T00351/)
+○11月17日　サイバーセキュリティクラウド[4493]の株価・株主優待など。　日本経済新聞<br>
+　[https://www.nikkei.com/nkd/company/?scode=4493](https://www.nikkei.com/nkd/company/?scode=4493)
 
 ○11月17日　米規制がアジアＡＩ産業直撃、データセンターなどサービス企業の対応必須　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/XLL3IWXMEJICXBGHVKZ5YF67WI-2026-11-17/](https://www.reuters.com/jp/markets/japan/XLL3IWXMEJICXBGHVKZ5YF67WI-2026-11-17/)
@@ -323,6 +342,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○11月17日　米グーグル、日本政府やインフラ事業者に最先端ＡＩを早期提供へ…サイバー防御など人材１００万人育成方針　読売新聞<br>
 　[https://www.yomiuri.co.jp/economy/20261117-GYT1T00395/](https://www.yomiuri.co.jp/economy/20261117-GYT1T00395/)
 
+○11月17日　米グーグル、最先端の防御AI提供を発表 日本政府や金融機関のサイバー攻撃対応で　産経ニュース<br>
+　[https://www.sankei.com/article/20261117-DGSWP66KPVP4HJC4X447ITEEUE/](https://www.sankei.com/article/20261117-DGSWP66KPVP4HJC4X447ITEEUE/)
+
 ○11月18日　データセンター債権、英HSBCが損失覚悟の大幅割引で売却　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOCD17C2H0X11C26A1000000/](https://www.nikkei.com/article/DGXZQOCD17C2H0X11C26A1000000/)
 
@@ -332,11 +354,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○11月18日　リユース大手、DX投資を加速 AI真贋や遠隔査定で積極出店支える　日本経済新聞<br>
 　[https://www.nikkei.com/prime/veritas/article/DGXZQOUC113LA0R11C26A1000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUC113LA0R11C26A1000000)
 
-○11月18日　AREHD、データセンターが｢金脈｣ 金価格下落の逆風かわす - 日経ヴェリタス　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOUB124FM0S6A111C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUB124FM0S6A111C2000000)
-
 ○11月18日　アップルのiCloudなどで障害、内部システムの更新原因 復旧進む | ロイター　Reuters<br>
 　[https://www.reuters.com/jp/world/us/ZIFBODEDWVNYXMSTMAON6EVXZE-2026-11-17/](https://www.reuters.com/jp/world/us/ZIFBODEDWVNYXMSTMAON6EVXZE-2026-11-17/)
+
+○11月18日　ＢＣＣ[7376]：経営支援クラウド「ビズクリクラウド」、プロフェッショナルプラン提供開始のお知らせ 2026年11月18日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
+　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g8l5ch&t=https://www.nikkei.com/nkd/disclosure/tdnr/20261118582449/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g8l5ch&t=https://www.nikkei.com/nkd/disclosure/tdnr/20261118582449/)
 
 ○11月18日　三菱重工とさくらインターネット、国産AIデータセンターで協業検討　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUC1834Z0Y6A111C2000000/](https://www.nikkei.com/article/DGXZQOUC1834Z0Y6A111C2000000/)
@@ -361,6 +383,9 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 
 ○11月19日　半導体株、TOPIXに逆転許す 3割は高値の半分以下　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFL185IPTY6A111C2000000/](https://www.nikkei.com/article/DGXZQOFL185IPTY6A111C2000000/)
+
+○11月19日　戦略を読み解く（85）能美防災 DX・M&Aで成長加速　日刊工業新聞<br>
+　[https://www.nikkan.co.jp/articles/view/797560](https://www.nikkan.co.jp/articles/view/797560)
 
 ○11月19日　データセンター誘致で街は潤うか 千葉県印西市と北海道石狩市が直面する恩恵と課題【ポッドキャスト】　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOLC2828H0Y6A021C2000000/](https://www.nikkei.com/article/DGXZQOLC2828H0Y6A021C2000000/)
@@ -395,29 +420,11 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○11月19日　人口減やクマ対策で「DXを推進」 東北通信局長が着任会見、データセンター整備も後押し　産経ニュース<br>
 　[https://www.sankei.com/article/20261119-E5LJTW2GRVKA7KIWQEPUXBKXXM/](https://www.sankei.com/article/20261119-E5LJTW2GRVKA7KIWQEPUXBKXXM/)
 
-○11月19日　半導体の「買い負け」、調達事業者の86%が経験 民間調査　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC195LW0Z11C26A1000000/](https://www.nikkei.com/article/DGXZQOUC195LW0Z11C26A1000000/)
-
-○11月19日　データセンター需要取り込みパワー半導体の供給増へ、ロームが台湾企業と協業…高電圧化で電力効率を高める　読売新聞<br>
-　[https://www.yomiuri.co.jp/local/kansai/news/20261119-GYO1T00075/](https://www.yomiuri.co.jp/local/kansai/news/20261119-GYO1T00075/)
-
-○11月19日　JSRの堀社長、三井化学との半導体材料再編「主体となって考える」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC139L60T11C26A1000000/](https://www.nikkei.com/article/DGXZQOUC139L60T11C26A1000000/)
-
-○11月19日　クラウドエース、PHP 脆弱性「PHP2Shell」への緊急対策・個別相談を開始　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000324.000032396&g=prt](https://www.jiji.com/jc/article?k=000000324.000032396&g=prt)
-
-○11月19日　SaaS型SCMシステム「PlanNEL」が、総務省後援「ASPIC AI・クラウドアワード2026」で、基幹業務系ASP・SaaS部門のDX貢献賞を受賞　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000035.000052290&g=prt](https://www.jiji.com/jc/article?k=000000035.000052290&g=prt)
-
-○11月19日　アリババ、AIモデルを自社半導体で開発へ 7〜9月純利益は3.1倍　日本経済新聞<br>
+○11月19日　アリババ、自社AI半導体で輸出規制の影響低減 クラウドが業績寄与　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGM1420V0U6A111C2000000/](https://www.nikkei.com/article/DGXZQOGM1420V0U6A111C2000000/)
 
 ○11月20日　AI検索対策や排泄予測、中小企業のDX後押し 筑邦銀行など九州地銀　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOJC144GF0U6A910C2000000/](https://www.nikkei.com/article/DGXZQOJC144GF0U6A910C2000000/)
-
-○11月20日　ドイツの病院、中国に学ぶ 診療・運営のデジタル化　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOCB1896E0Y6A111C2000000/](https://www.nikkei.com/article/DGXZQOCB1896E0Y6A111C2000000/)
 
 ○11月20日　埼玉：コウノトリ育成へ･･･鴻巣市がクラウドファンディング開始：地域ニュース　読売新聞<br>
 　[https://www.yomiuri.co.jp/local/saitama/news/20261119-GYTNT00232/](https://www.yomiuri.co.jp/local/saitama/news/20261119-GYTNT00232/)
@@ -429,19 +436,7 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　[https://www.nikkei.com/article/DGXZQOUC18BD20Y6A111C2000000/](https://www.nikkei.com/article/DGXZQOUC18BD20Y6A111C2000000/)
 
 ○11月20日　ラサ工業、半導体薬液で世界トップシェア 次の柱は光通信材料　日本経済新聞<br>
-　[https://www.nikkei.com/prime/veritas/article/DGXZQOUC282V80Y6A021C2000000?n_cid=DSPRM1OTR01_NKD_Prime](https://www.nikkei.com/prime/veritas/article/DGXZQOUC282V80Y6A021C2000000?n_cid=DSPRM1OTR01_NKD_Prime)
-
-○11月20日　パワー半導体実装､車向け電力密度4倍 オンセミが新技術　日本経済新聞<br>
-　[https://www.nikkei.com/prime/mobility/article/DGXZQOUC0154Y0R01C26A0000000?n_cid=DSPRM1OTR01_NKD_Prime](https://www.nikkei.com/prime/mobility/article/DGXZQOUC0154Y0R01C26A0000000?n_cid=DSPRM1OTR01_NKD_Prime)
-
-○11月20日　千代田精機、R＆D新拠点 次世代燃料・半導体向け注力　日刊工業新聞<br>
-　[https://www.nikkan.co.jp/articles/view/797632](https://www.nikkan.co.jp/articles/view/797632)
-
-○11月20日　ランサム被害のアサヒGHD、135億円を投資 AIで侵入・攻撃検知　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC276AC0X21C26A0000000/](https://www.nikkei.com/article/DGXZQOUC276AC0X21C26A0000000/)
-
-○11月20日　アンソロピック上場、17%高で好発進 AIリスク「回避できる」　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000/](https://www.nikkei.com/article/DGXZQOGN18CL00Y6A111C2000000/)
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOUC282V80Y6A021C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOUC282V80Y6A021C2000000)
 
 ○11月20日　ＴＳＭＣ、中国向けＡＩ半導体の一部受注停止 米規制強化に対応　Reuters<br>
 　[https://www.reuters.com/jp/world/taiwan/CK33K5YYV5M7VBKHHQYDVTE4MY-2026-11-19/](https://www.reuters.com/jp/world/taiwan/CK33K5YYV5M7VBKHHQYDVTE4MY-2026-11-19/)
@@ -455,29 +450,17 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○11月20日　米がAI半導体88万個の対中輸出承認 NVIDIA製など、5月までの実績開示　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN200290Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOGN200290Q6A121C2000000/)
 
-○11月20日　デジタルグリッド[350A]：需給調整市場への参入済み容量が150MW超に 系統用蓄電池の市場参入が加速 2026年11月20日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/nkd/disclosure/tdnr/20261119583210/](https://www.nikkei.com/nkd/disclosure/tdnr/20261119583210/)
-
 ○11月20日　アリババ7─9月期売上高、予想上回る ＡＩクラウド好調　Reuters<br>
 　[https://www.reuters.com/jp/markets/global-markets/6R4GLUQID5MKZOP4KZVFOLALF4-2026-11-19/](https://www.reuters.com/jp/markets/global-markets/6R4GLUQID5MKZOP4KZVFOLALF4-2026-11-19/)
 
 ○11月20日　ＡＩ半導体９０万個、対中輸出承認 米政権がエヌビディア製など―下院委　時事ドットコム<br>
 　[https://www.jiji.com/jc/article?k=2026112000300&g=int](https://www.jiji.com/jc/article?k=2026112000300&g=int)
 
-○11月20日　株価下落 アンソロピック上場もAI・半導体業界への懸念根強く　NHKニュース<br>
+○11月20日　株価 3000円超の下落 AI・半導体業界の先行き懸念でほぼ全面安　NHKニュース<br>
 　[https://news.web.nhk/newsweb/na/nd-20261120de78808](https://news.web.nhk/newsweb/na/nd-20261120de78808)
-
-○11月20日　日経平均、一時2800円超安 アンソロピック上場もAI市場に懸念 [AIの時代]　朝日新聞<br>
-　[https://www.asahi.com/articles/ASVCN053QVCNULFA002M.html](https://www.asahi.com/articles/ASVCN053QVCNULFA002M.html)
 
 ○11月20日　データセンター建設、地域との共生へ年内に行動計画作成＝経産相　Reuters<br>
 　[https://www.reuters.com/jp/markets/japan/6FFNR7F6LRI6FH7QWYVVX3LAG4-2026-11-20/](https://www.reuters.com/jp/markets/japan/6FFNR7F6LRI6FH7QWYVVX3LAG4-2026-11-20/)
-
-○11月20日　サカナAI、米セールスフォースと連携 公共分野でAIモデル実装　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC200KB0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOUC200KB0Q6A121C2000000/)
-
-○11月20日　ソフトバンクG株価が一時3000円割れ 米アンソロピック上場でAI株急落　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOFL2011Y0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOFL2011Y0Q6A121C2000000/)
 
 ○11月20日　アドバンテスト株価が続落、7カ月ぶり安値 半導体関連は総崩れ　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFL200YZ0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOFL200YZ0Q6A121C2000000/)
@@ -485,23 +468,14 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○11月20日　マイクロソフト障害で再発防止要請、古川デジタル相 日本法人社長に　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUA201BG0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOUA201BG0Q6A121C2000000/)
 
-○11月20日　DeNA、「AI社員」を提供 部署に配置、使用量管理しやすく　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOUC201NC0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOUC201NC0Q6A121C2000000/)
-
 ○11月20日　TSMCやサムスン、対中半導体出荷を一部停止 AIチップの米輸出規制で　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOGN200HL0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOGN200HL0Q6A121C2000000/)
 
 ○11月20日　BCPだけでなかった、早期復旧のカギ 被災した半導体企業の教訓 [熊本県]　朝日新聞<br>
 　[https://www.asahi.com/articles/ASVCL2H3TVCLULFA02KM.html](https://www.asahi.com/articles/ASVCL2H3TVCLULFA02KM.html)
 
-○11月20日　日経平均午前2669円安、AI・半導体に売り アンソロピックに祝杯ならず　日本経済新聞<br>
+○11月20日　日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOFL200MHTQ6A121C2000000/](https://www.nikkei.com/article/DGXZQOFL200MHTQ6A121C2000000/)
-
-○11月20日　ほくでん情報テクノロジー、北海道から企業の事業継続とDX推進を支える H-IXデータセンターがIaaSサービス「H-IXクラウド」を提供開始　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000018.000079901&g=prt](https://www.jiji.com/jc/article?k=000000018.000079901&g=prt)
-
-○11月20日　【丸紅ロジスティクス】タイ王国・アユタヤ県に物流センターを開設 ～ペットフードを中心とした国際物流拠点として、サプライチェーン全体の最適化を支援～　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000017.000152633&g=prt](https://www.jiji.com/jc/article?k=000000017.000152633&g=prt)
 
 ○11月20日　グーグルの宇宙ＡＩデータセンター計画、衛星打ち上げはブルー・オリジンのロケット　Reuters<br>
 　[https://www.reuters.com/jp/markets/commodities/WXMKM6WX5ZLUVIEBWOIH5K3CFI-2026-11-20/](https://www.reuters.com/jp/markets/commodities/WXMKM6WX5ZLUVIEBWOIH5K3CFI-2026-11-20/)
@@ -510,25 +484,13 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 　[https://www.jiji.com/jc/article?k=2026112000325&g=eco](https://www.jiji.com/jc/article?k=2026112000325&g=eco)
 
 ○11月20日　ＦＩＸＥＲ[5129]：シャドーAIのリスクを抑制し、製造現場のDXを加速。アイテックがオンプレミス型生成AI「Sovereign GaiXer」を導入 2026年11月20日(適時開示) ：日経会社情報DIGITAL　日本経済新聞<br>
-　[https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g8pguv&t=https://www.nikkei.com/nkd/disclosure/tdnr/20261120583991/](https://www.nikkei.com/markets/company/sys/redirect_dis.aspr?ano=g8pguv&t=https://www.nikkei.com/nkd/disclosure/tdnr/20261120583991/)
+　[https://www.nikkei.com/nkd/disclosure/tdnr/20261120583991/](https://www.nikkei.com/nkd/disclosure/tdnr/20261120583991/)
 
 ○11月20日　消費者物価2.2%上昇、半導体インフレが波及 デジタル製品1割高　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUA124TI0S6A111C2000000/](https://www.nikkei.com/article/DGXZQOUA124TI0S6A111C2000000/)
 
-○11月20日　生成AIは学びの「黒子」に 生徒と教師が問いを更新し続ける学校へ　朝日新聞<br>
-　[https://www.asahi.com/sensei-connect/articles/17037183](https://www.asahi.com/sensei-connect/articles/17037183)
-
-○11月20日　マイクロソフトに大規模障害の再発防止を要請 古川デジタル相「迅速な情報提供求める」　産経ニュース<br>
-　[https://www.sankei.com/article/20261120-UAGDJW2ACBJ4ZA7V2HJZO5XITE/](https://www.sankei.com/article/20261120-UAGDJW2ACBJ4ZA7V2HJZO5XITE/)
-
-○11月20日　米政府、中国製AIの利用開示義務付け検討か ロイター報道　日本経済新聞<br>
-　[https://www.nikkei.com/article/DGXZQOGN201EB0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOGN201EB0Q6A121C2000000/)
-
 ○11月20日　ユーロ圏の銀行、データセンター向け与信が急速に拡大＝ＥＣＢ　Reuters<br>
 　[https://www.reuters.com/jp/opinion/WEOKRTTPYBP5JB2HEYLSG3HD3M-2026-11-20/](https://www.reuters.com/jp/opinion/WEOKRTTPYBP5JB2HEYLSG3HD3M-2026-11-20/)
-
-○11月20日　【量子情報技術】量子ビットの高速・安定動作を両立！半導体量子コンピュータの大規模化に向けた新手法の実証に成功（大阪大・産研）　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000007.000146621&g=prt](https://www.jiji.com/jc/article?k=000000007.000146621&g=prt)
 
 ○11月20日　キオクシア株の下げ止まらず PER1倍台目前、AI需要を警戒　日本経済新聞<br>
 　[https://www.nikkei.com/article/DGXZQOUB184O30Y6A111C2000000/](https://www.nikkei.com/article/DGXZQOUB184O30Y6A111C2000000/)
@@ -536,9 +498,84 @@ DXやデジタル化に関連する新着情報および審議会等の開催は
 ○11月20日　アンソロピックの豪データセンター計画、住民の反対圧倒的　Reuters<br>
 　[https://www.reuters.com/jp/business/technology/SDKFAB6MW5MWDHBNJPIL6LG35I-2026-11-20/](https://www.reuters.com/jp/business/technology/SDKFAB6MW5MWDHBNJPIL6LG35I-2026-11-20/)
 
-○11月20日　【出展のご案内】西尾レントオールは、第6回 建設DX展 東京・GX建機パビリオンに出展いたします！　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000191.000067685&g=prt](https://www.jiji.com/jc/article?k=000000191.000067685&g=prt)
+○11月20日　ランサムウェア対策ソリューション「AppCheck」、ASPIC AI・クラウドアワード2026で「社会貢献賞」を受賞　産経ニュース<br>
+　[https://www.sankei.com/pressrelease/prtimes/T3C2ZKNH2NI4LEPHDFGVOE2Z5M/](https://www.sankei.com/pressrelease/prtimes/T3C2ZKNH2NI4LEPHDFGVOE2Z5M/)
 
-○11月20日　京都芸術大学と、大学のDXを担うクロステック・マネジメントが、10周年を迎える技術カンファレンス「YAPC::Tokyo 2026」に協賛。Platinum Sponsorとしてブースを出展　時事ドットコム<br>
-　[https://www.jiji.com/jc/article?k=000000737.000026069&g=prt](https://www.jiji.com/jc/article?k=000000737.000026069&g=prt)
+○11月20日　古川デジタル相 マイクロソフト障害で会社側に再発防止求める　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nd-20261120de78971](https://news.web.nhk/newsweb/na/nd-20261120de78971)
+
+○11月20日　エネルギー価格抑制法案、米上院で可決 データセンター事業者に負担　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCB203V10Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOCB203V10Q6A121C2000000/)
+
+○11月20日　アンソロピック巨額上場でも拭えぬAI不安 中国勢台頭は止められるか　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGN1941B0Z11C26A1000000/](https://www.nikkei.com/article/DGXZQOGN1941B0Z11C26A1000000/)
+
+○11月20日　メンテナンス現場のデジタル化を行うProceedクラウド、丸善石油化学株式会社の導入事例を公開　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000035.000064407&g=prt](https://www.jiji.com/jc/article?k=000000035.000064407&g=prt)
+
+○11月20日　サイバーセキュリティ総研、事業会社・セキュリティベンダーとの事業提携パートナーの募集を2027年1月に開始　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000019.000152742&g=prt](https://www.jiji.com/jc/article?k=000000019.000152742&g=prt)
+
+○11月20日　気候変動：電力爆食いデータセンター、米中間選挙も左右? COPで初の誓約　毎日新聞<br>
+　[https://mainichi.jp/articles/20261120/k00/00m/030/026000c](https://mainichi.jp/articles/20261120/k00/00m/030/026000c)
+
+○11月20日　国産AIノエトラ支援、半導体高騰で8000億円膨張 国の負担重く　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUA164VE0W6A111C2000000/](https://www.nikkei.com/article/DGXZQOUA164VE0W6A111C2000000/)
+
+○11月20日　「生成AI普及で今後の仕事に不安」8割超 住友生命の全国調査　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUF1981O0Z11C26A1000000/](https://www.nikkei.com/article/DGXZQOUF1981O0Z11C26A1000000/)
+
+○11月20日　AI開発用データセンターを坂出に整備へ 協定締結式　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nd-20261120de79118](https://news.web.nhk/newsweb/na/nd-20261120de79118)
+
+○11月20日　東京株、３００７円安 ＡＩ・半導体中心に急落：時事ドットコム　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=2026112000735&g=eco](https://www.jiji.com/jc/article?k=2026112000735&g=eco)
+
+○11月20日　巨大上場で疑念晴れず AI相場に晩秋の嵐　日本経済新聞<br>
+　[https://www.nikkei.com/prime/veritas/article/DGXZQOKC208790Q6A121C2000000](https://www.nikkei.com/prime/veritas/article/DGXZQOKC208790Q6A121C2000000)
+
+○11月20日　貸付型クラウドファンディング「Funvest」11/24より新ファンド「アトラスグループ 札幌市豊平区マンション開発ファンド１-１号」の募集開始　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=000000377.000056375&g=prt](https://www.jiji.com/jc/article?k=000000377.000056375&g=prt)
+
+○11月20日　サカナAI、サイバーセキュリティー研究部門設立 CEO直轄　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUC2077P0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOUC2077P0Q6A121C2000000/)
+
+○11月20日　先端AIのサイバー攻撃、仮想空間で再現 政府が企業にデータ提供　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUA0819R0Y6A101C2000000/](https://www.nikkei.com/article/DGXZQOUA0819R0Y6A101C2000000/)
+
+○11月20日　SK崔会長「日韓には相互補完できる強み」 AI分野など協力呼びかけ　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM205EQ0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOGM205EQ0Q6A121C2000000/)
+
+○11月20日　政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表 [情報漏洩・個人情報流出の最新ニュース]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html](https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html)
+
+○11月20日　エレメンツ、香川県や坂出市とデータセンター立地協定 投資額120億円　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOCC19BK10Z11C26A1000000/](https://www.nikkei.com/article/DGXZQOCC19BK10Z11C26A1000000/)
+
+○11月20日　長野 平成7年の豪雨災害 写真などをデジタルアーカイブ化　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nd-20261120de79354](https://news.web.nhk/newsweb/na/nd-20261120de79354)
+
+○11月20日　［社説］アンソロピック上場が映すAIの光と影　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQODK205ZA0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQODK205ZA0Q6A121C2000000/)
+
+○11月20日　AI開発「ブレーキ局面」 アンソロピック上場の調達額が過去最大でも重なる「逆風」　東京新聞<br>
+　[https://www.tokyo-np.co.jp/article/529645](https://www.tokyo-np.co.jp/article/529645)
+
+○11月20日　「西洋中心のAI倫理、日本からの発言は重要」 早大でシンポ [AIの時代]　朝日新聞<br>
+　[https://www.asahi.com/articles/ASVCN3F8YVCNULZU001M.html](https://www.asahi.com/articles/ASVCN3F8YVCNULZU001M.html)
+
+○11月20日　デジタル庁運用システムに不正アクセス 行政文書漏えいか：時事ドットコム　時事ドットコム<br>
+　[https://www.jiji.com/jc/article?k=2026112001150&g=eco](https://www.jiji.com/jc/article?k=2026112001150&g=eco)
+
+○11月20日　データセンターのデイワン、米IPO手続きを一時停止 市況悪化を懸念　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOGM20BKR0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOGM20BKR0Q6A121C2000000/)
+
+○11月20日　世界株安、半導体発のリスク回避加速 日経平均3007円下げ　日本経済新聞<br>
+　[https://www.nikkei.com/article/DGXZQOUB203RT0Q6A121C2000000/](https://www.nikkei.com/article/DGXZQOUB203RT0Q6A121C2000000/)
+
+○11月20日　政府ネットワークに不正アクセス 情報漏えい可能性 デジタル庁　NHKニュース<br>
+　[https://news.web.nhk/newsweb/na/nd-20261120de79445](https://news.web.nhk/newsweb/na/nd-20261120de79445)
+
+○11月20日　マイクロソフト「アウトルック」など大規模障害、古川デジタル相が原因究明とシステム安定稼働を要請　読売新聞<br>
+　[https://www.yomiuri.co.jp/politics/20261120-GYT1T00408/](https://www.yomiuri.co.jp/politics/20261120-GYT1T00408/)
 
